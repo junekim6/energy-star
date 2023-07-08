@@ -1,0 +1,674 @@
+Brand_Name_s__s,Product_Group_Code_Description_s,Basic_Model_Number_m,Individual_Model_Number_Covered_by_Basic_Model_m,Capacity__cubic_feet__d,Voltage__volts___For_Electric_Models_Only__d,Hourly_BTU_Rating_of_the_Burner__For_Gas_Models_Only__d,Does_the_Dryer_Have_Automatic_Termination_Controls__s,Combined_Energy_Factor__pounds_per_kilowatt_hour__d,Cycle_Settings_for_Energy_Test_Cycle___Program_Cycle_Setting_s,Cycle_Settings_for_Energy_Test_Cycle___Temperature_Setting_s,Cycle_Settings_for_Energy_Test_Cycle___Dryness_Setting_s,Cycle_Settings_for_Energy_Test_Cycle___Other_Optional_Cycle_Settings_in_the_As_Shipped_Position__If_Applicable__s,Is_the_Certification_for_this_Basic_Model_Based_on_a_Waiver_of_DOE_s_Test_Procedure_Requirements__s,Is_the_Certification_based_upon_any_Exception_Relief_from_an_Applicable_Standard_by_DOE_s_Office_of_Hearing_and_Appeals__s
+Criterion,"Vented Electric, Standard (4.4 ft3 or greater capacity)",MDH210-V022/B01EQHS-US,CFDE80N1AW,8.0,240.0,,Yes,3.93,Normal,Medium,Normal Dry +Eco Dry,,No,No
+Fulgor Milano,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",FM4CD24W1,FM4CD24W1,4.0,240.0,,Yes,2.68,Normal,High,Regular,,No,No
+Midea,"Vented Electric, Standard (4.4 ft3 or greater capacity)",MDH210-V022/B01EQHS-US,MH04ED80/W-PR,8.0,240.0,,Yes,3.73,Normal,Medium,Normal dry,,No,No
+GE Profile,"Vented Electric, Standard (4.4 ft3 or greater capacity)",M74E_1_R,PTD60EB*R***,7.4,240.0,,Yes,3.93,Normal Cottons,Hot,Dry,ecoDry is default ON for Normal Cottons,No,No
+GE Profile,Vented Gas,M74G_4_R,PTD60GB*R***,7.4,,22000.0,Yes,3.48,Normal Cottons,Hot,Dry,ecoDry is default ON for Normal Cottons,No,No
+Whirlpool,Vented Gas,A22JAI8AI1,WGD6605M**,7.4,,20142.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A22JAI8AI1,WGD5605M**,7.4,,20142.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A22JAI8AG1,WED6605M**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18IAI8AG10,WED560LH**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BBI7AG10,MED7230H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+ELEMENT,Vented Gas,MDH210-VG022/B01EQHS-US,EFD8027GBW,8.0,,20000.0,Yes,3.48,Normal,Medium,Normal Dry,ECO Dry,No,No
+ELEMENT,"Vented Electric, Standard (4.4 ft3 or greater capacity)",MDH210-V022/B01EQHS-US,EFD8027EBW,8.0,240.0,,Yes,3.93,Normal,Medium,Normal Dry,,No,No
+Criterion,Vented Gas,MDH210-VG022/B01EQHS-US,CFDG80N1AW,8.0,,20000.0,Yes,3.48,Normal,Medium,Normal Dry,ECO Dry,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",M60E_1_V,GUD27EE*V***,6.0,240.0,,Yes,3.93,Cottons Medium Dry,N/A,Medium Dry,E-Dry is default on for the Cottons cycle,No,No
+Samsung,Vented Gas,DVG54CG755**,DVG54CG755**,7.4,,20000.0,Yes,3.48,Normal,Medium (Unselectable),Normal,Eco dry,No,No
+Samsung,Vented Gas,DVG55CG75***,DVG55CG75***,7.4,,20000.0,Yes,3.48,Normal,Medium (Unselectable),Normal,Eco dry,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE55A77***,DVE55A77***,7.4,240.0,,Yes,3.93,Normal cycle,Medium (unselectable),Normal,Eco dry,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE50A86***,DVE50A86***,7.5,240.0,,Yes,3.93,Normal cycle,Medium (unselectable),Normal,Eco dry,No,No
+Midea,Vented Gas,MDH210-VG042/B01EHS-US,MLG45N1AWW,8.0,,20000.0,Yes,3.48,Normal,Medium,Normal Dry,Eco Dry,No,No
+Crosley,Vented Gas,M74G_4_NB+1,YTD74G2*N***,7.4,,22000.0,Yes,3.48,Cottons,High,Dry,eDry is default ON for Cottons,No,No
+Speed Queen,"Vented Electric, Standard (4.4 ft3 or greater capacity)",RE7,ATEE9***178T***,6.9,240.0,,Yes,3.93,Regular,Medium,Near Dry,,No,No
+Huebsch,"Vented Electric, Standard (4.4 ft3 or greater capacity)",RE6,ZDE6H***178C***,6.9,240.0,,Yes,3.73,Regular,Medium,n/a,,No,No
+Equator Advacned Appliances,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",CD 4040 B,CD 4040 B,4.0,240.0,,Yes,2.68,Normal,High,Regular,,No,No
+Equator Advacned Appliances,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",CD 4040 W,CD 4040 W,4.0,240.0,,Yes,2.68,Normal,High,Regular,,No,No
+LG,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",WKHC142H*A,WKHC142H*A,4.2,240.0,,Yes,6.4,Normal,None,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG14,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG14,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG8,WED7120H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Blomberg,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",DHP24412W,DHP24412W,4.1,240.0,,Yes,5.7,Normal Regular Dry,No,No,No,No,No
+Blomberg,"Vented Electric, Compact (240V) (less than 4.4 ft3 capacity)",DV17600W,DV17600W,3.8,240.0,,Yes,3.27,Normal Regular Dry,No,No,No,No,No
+Beko,"Vented Electric, Compact (240V) (less than 4.4 ft3 capacity)",BDV7200X,BDV7200X,3.8,240.0,,Yes,3.27,Normal Regular Dry,No,No,No,No,No
+KOOLMORE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",MDH210-V022/B01EQHS-US,FLD-8CWH,8.0,240.0,,Yes,3.93,Normal,Medium,Normal Dry,,No,No
+ELEMENT,Vented Gas,MDH200-VG012/A01HS-US,ETD7527GBW,7.5,,20000.0,Yes,3.48,Normal,Medium,Normal Dry,,No,No
+LG,Vented Gas,DLGX3901*,SWWG50*3,7.4,,20000.0,Yes,3.49,Normal,Medium High,Normal,,No,No
+Asko,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",T208H.W.U,T208H.W.U,3.8,240.0,,Yes,3.0,Auto normal,NA,Medium,,No,No
+Asko,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",T208C.W.U,T208C.W.U,3.8,240.0,,Yes,2.6,Auto normal,NA,Medium,,No,No
+Asko,"Vented Electric, Compact (240V) (less than 4.4 ft3 capacity)",T208V.W.U,T208V.W.U,3.8,240.0,,Yes,3.3,Auto normal,NA,Medium,,No,No
+Asko,"Ventless Electric, Combination Washer-Dryer",T411HS.W.U,T411HS.W.U,4.9,240.0,,Yes,9.1,Auto normal,NA,Medium,,No,No
+Asko,"Vented Electric, Standard (4.4 ft3 or greater capacity)",T411.VD.W.U,T411.VD.W.U,4.9,240.0,,Yes,3.8,Auto normal,NA,Medium,,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE55CG7105*,DVE55CG7105*,7.4,240.0,,Yes,3.93,Normal,Medium (Unselectable),Normal,Eco dry,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,DLEX6500*,7.4,240.0,,Yes,3.94,Normal,. * Temp. Level 4 (.),Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,DLE3470*,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7100*,DLE6100*,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+Speed Queen,"Vented Electric, Standard (4.4 ft3 or greater capacity)",RE8,ADE6H***177T***,6.9,240.0,,Yes,3.93,Regular,Medium,Near Dry,,No,No
+Huebsch,"Vented Electric, Standard (4.4 ft3 or greater capacity)",RE8,ZDE6H***177T***,6.9,240.0,,Yes,3.93,Regular,Medium,Near Dry,,No,No
+hOme,"Vented Electric, Compact (120V) (less than 4.4 ft3 capacity)",HME030486N,HME030486N,3.2,120.0,,Yes,3.67,MIX,NONE,NONE,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",79142,7914*,7.4,240.0,,Yes,3.93,Normal program with Eco setting,None,None,https://www.kenmore.com/energyguide,No,No
+Kenmore,Vented Gas,69142,6914*,7.4,,17500.0,Yes,3.5,Normal program with Eco,None,None,https://www.kenmore.com/energyguide,No,No
+Crosley,Vented Gas,M74G_4_NB+,YTD74G2*N***,7.4,,22000.0,Yes,3.48,Cottons,Low,Dry,eDry is default ON for Cottons,No,No
+Crosley,"Vented Electric, Standard (4.4 ft3 or greater capacity)",M74E_1_NB,YTD74E2*N***,7.4,240.0,,Yes,3.93,Cottons,Low,Dry,eDry is default ON for Cottons,No,No
+Haier,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",H41E_5_N,QFT15ES*N***,4.1,240.0,,Yes,2.68,Cottons,High,Dry,eDry is default on for the Cottons cycle,No,No
+Haier,"Vented Electric, Compact (240V) (less than 4.4 ft3 capacity)",H43E_3_NA,QFD15ES*N***,4.3,240.0,,Yes,3.45,Cottons,High,Dry,eDry is default on for the Cottons cycle,No,No
+GE Profile,Vented Gas,M73G_4_T,PTD90GB*T***,7.3,,22000.0,Yes,3.48,Normal Cottons,Hot,Dry,ecoDry is default ON for the Normal Cottons,No,No
+GE Profile,"Vented Electric, Standard (4.4 ft3 or greater capacity)",M73E_1_T,PTD90EB*T***,7.3,240.0,,Yes,3.93,Normal Cottons,Hot,Dry,ecoDry is default ON for the Normal Cottons,No,No
+GE Profile,Vented Gas,M74G_4_T,PTD70GB*T***,7.4,,22000.0,Yes,3.48,Normal Cottons,Hot,Dry,ecoDry is default ON for the Normal Cottons,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",M74E_1_R,PTD60EB*R***,7.4,240.0,,Yes,3.93,Normal Cottons,Hot,Dry,ecoDry is default ON for Normal Cottons,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",M60E_1_N,GUD27EE*N***,6.0,240.0,,Yes,3.93,Cottons Medium Dry,N/A,Medium Dry,eDry is default on for the Cottons cycle,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",M74E_1_N,GTD72EB*N***,7.4,240.0,,Yes,3.93,Cottons Normal,Low,Dry,ecoDry is default ON for Cottons Normal,No,No
+GE,Vented Gas,GTD65GBSJ0WS,GTD65GB*L***,7.4,,22000.0,Yes,3.48,Cottons,Low,Dry,eDry is default ON for Cottons,No,No
+GE,Vented Gas,GTD65GBSJ0WS,GTD65GB*J***,7.4,,22000.0,Yes,3.48,Cottons,Low,Dry,eDry is default ON for Cottons,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",GTD65EBSJ0WS,GTD65EB*J***,7.4,240.0,,Yes,3.93,Cottons,Low,Dry,eDry is default ON for Cottons,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",G78E_1_NB+,GFV55ES*N***,7.8,240.0,,Yes,3.93,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,Vented Gas,G78G_4_T1,GFD85GS*N***,7.8,,16000.0,Yes,3.48,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,Vented Gas,G78G_4_T,GFD65GS*N***,7.8,,16000.0,Yes,3.48,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,Vented Gas,G78G_4_N,GFD85GS*N***,7.8,,16000.0,Yes,3.48,Cottons,Low,Dry,ecoDry is default ON for Cottons,No,No
+GE,Vented Gas,G78G_4_N,GFD65GS*N***,7.8,,16000.0,Yes,3.48,Cottons,Low,Dry,ecoDry is default ON for Cottons,No,No
+GE,Vented Gas,G78G_4_NA+1,GFD55GS*N***,7.8,,16000.0,Yes,3.48,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,Vented Gas,G78G_4_NA,GFD55GS*R***,7.8,,16000.0,Yes,3.48,Cottons,Low,Dry,ecoDry is default ON for Cottons cycle,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",G78E_1_NA+,GFD55ES*N***,7.8,240.0,,Yes,3.93,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,Vented Gas,M70G_4_M,GFD40GSCM***,7.0,,22000.0,Yes,3.48,Cottons,Extra Low,Dry,eDry is default ON for Cottons,No,No
+Bosch,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",WTG865H3UC,WTG865H4UC,4.0,240.0,,Yes,2.68,Cotton,None,Dry,,No,No
+Bosch,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",WTG86403UC,WTG86403UC,4.0,240.0,,Yes,2.68,Cotton Dry,None,Dry Level (+2),,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DV48J777*E*,DV48J777*E*,7.4,240.0,,Yes,3.94,75 min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DV52J870*G*,DV52J870*G*,7.4,,22000.0,Yes,3.49,75 min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DV45K76**E*,DV45K76**E*,7.4,240.0,,Yes,3.94,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DV50K75**G*,DV50K75**G*,7.5,,22000.0,Yes,3.49,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG45M55***,DVG45M55***,7.5,,22000.0,Yes,3.49,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE52M86***,DVE52M86***,7.4,240.0,,Yes,3.94,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE52M77***,DVE52M77***,7.4,240.0,,Yes,3.94,75min,medium,normal dry,Eco Dry On,No,No
+SAMSUNG,Vented Gas,DV45K71**G*,DV45K71**G*,7.4,,22000.0,Yes,3.49,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Compact (240V) (less than 4.4 ft3 capacity)",DV22N685*H*,DV22N685*H*,4.0,240.0,,Yes,5.8,Normal cycle,Automatic Termination,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Compact (240V) (less than 4.4 ft3 capacity)",DV22N680*H*,DV22N680*H*,4.0,240.0,,Yes,5.8,Normal cycle,Automatic Termination,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE50R85***,DVE50R85***,7.5,240.0,,Yes,3.93,Normal cycle,Medium (unselectable),normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE54R76***,DVE54R76***,7.4,240.0,,Yes,3.93,Normal cycle,Medium (unselectable),normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG54R76***,DVG54R76***,7.4,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE50T73***,DVE50T73***,7.4,240.0,,Yes,3.93,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG45T61***,DVG45T61***,7.5,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG45A64***,DVG45A64***,7.5,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE45B6305*,DVE45B6305*,7.5,240.0,,Yes,3.93,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE53BB89***,DVE53BB89***,7.6,240.0,,Yes,3.93,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE53BB87***,DVE53BB87***,7.6,240.0,,Yes,3.93,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE46BG65***,DVE46BG65***,7.5,240.0,,Yes,3.93,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+SUMMIT,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",LDHP24,LDHP24****,4.2,240.0,,Yes,3.0,Cotton Standard,N/A,Medium,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H16AAI4BB5,WED9290F**,7.4,240.0,,Yes,4.5,Eco/Normal,Medium,Normal,Eco,No,No
+Maytag,Vented Gas,A16VBN5AI1,MGDB955F**,9.2,,20179.0,Yes,3.48,Normal / Energy Saver,High,Normal,Energy Saver,No,No
+Whirlpool,Vented Gas,A18JAI8AI5,WGD5620H**,7.4,,20142.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18BAI8AI0,WGD7120H**,7.4,,20379.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BBI7AG0,MED7230H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BBI7AG1,MED7230H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18BBI7AI1,MGD7230H**,7.4,,20412.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG5,WED8620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG5,WED6620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,Vented Gas,A18JBH7AI5,MGD8630H**,7.3,,20055.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG5,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H18JAI8AB4,WHD560CH**,7.4,240.0,,Yes,5.2,Regular + Normal,High,Normal,Eco,No,No
+Maytag,Vented Gas,A18JBH7AI3,MGD8630H**,7.3,,20107.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI3,MGD6630H**,7.3,,20107.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI3,MGD5630H**,7.3,,20107.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18GAI9AG0,WED9620H**,7.4,240.0,,Yes,3.93,REGULAR / NORMAL,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG6,WED6620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG6,WED5620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG0,WED6620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG6,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG6,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H18JAI8AB1,WHD862CH**,7.4,240.0,,Yes,5.2,Regular + Normal,High,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H18JAI8AB1,WHD560CH**,7.4,240.0,,Yes,5.2,Regular + Normal,High,Normal,Eco,No,No
+Kenmore,Vented Gas,A20BCI8AI1,7165*20*,7.4,,20193.0,Yes,3.48,Mixed + Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG1,WED6620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG4,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18IAI8AG0,WED560LH**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG13,WED8000D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI0,WGD8620H**,7.4,,20234.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI0,WGD6620H**,7.4,,20234.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI3,WGD5620H**,7.4,,20114.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CCL5AG7,6813*41*,8.8,240.0,,Yes,3.93,Energy Saver / Normal,High,Normal,Energy Saver,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A20BCI8AG2,6165*20*,7.4,240.0,,Yes,3.93,Mixed + Normal,High,Normal,,No,No
+Whirlpool,Vented Gas,A18JAI8AI2,WGD8620H**,7.4,,20013.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG7,WED5620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG7,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG0,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG0,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG0,WED8127L**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BBI7AG2,MED7230H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG8,WED6620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG3,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI0,MGD6630H**,7.3,,20085.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG8,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BBI7AG3,MED7230H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI1,MGD8630H**,7.3,,20224.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI1,MGD5630H**,7.3,,20224.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,Vented Gas,A18JAI8AI4,WGD8620H**,7.4,,20086.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,Vented Gas,A18JBH7AI2,MGD6630H**,7.3,,20209.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI2,MGD5630H**,7.3,,20209.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI4,MGD5630H**,7.3,,20194.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG6,WED8500D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H18JAI8AB2,WHD560CH**,7.4,240.0,,Yes,5.2,Regular + Normal,High,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG9,WED6620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG9,WED8000D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG9,WED5620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG9,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,Vented Gas,A22JAI8AI0,WGD6605M**,7.4,,20214.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG9,WED8500D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG10,WED8000D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG9,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG10,WED8500D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG9,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG3,WED8127L**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18IAI8AG5,WED560LH**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG10,WED6620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG11,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG11,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14ABH3BG1,MED4100D**,7.3,240.0,,Yes,3.93,Energy Saver / Normal,Medium,Normal,Energy saver,No,No
+Whirlpool,Vented Gas,A15VAN2AI0,WGD9500E**,9.2,,20110.0,Yes,3.48,EcoBoost / Mixed + Normal,High,Mid-Point,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18CBL7AG0,MED8230H**,8.8,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18CAL8AG0,WED8120H**,8.8,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16ABI3BG6,MED5500F**,7.4,240.0,,Yes,3.93,Energy Saver / Normal,Medium,Normal,Energy Saver,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16ABI3BG7,MED3500F**,7.4,240.0,,Yes,3.93,Energy Saver / Normal,Medium,Normal,Energy Saver,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16ABI3BG7,MED8200F**,7.4,240.0,,Yes,3.93,Energy Saver / Normal,Medium,Normal,Energy Saver,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16ABI3BG8,MED5500F**,7.4,240.0,,Yes,3.93,Energy Saver / Normal,Medium,Normal,Energy Saver,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16XAI4BG5,WED7590F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16XAI4BG7,WED7590F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H18JAI8AB3,WHD560CH**,7.4,240.0,,Yes,5.2,Regular + Normal,High,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG8,WED92HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG6,WED7120H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG9,WED90HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG9,WED92HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG9,WED8540F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18IAI8AG8,WED560LH**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG10,WED75HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,Vented Gas,A18BAI8AI2,WGD7120H**,7.4,,20246.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18BAI8AI2,WGD8127L**,7.4,,20246.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG10,WED90HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG10,WED8540F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Maytag,Vented Gas,A18JBH7AI6,MGD5630H**,7.3,,20219.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18GAI9AG2,WED9620H**,7.4,240.0,,Yes,3.93,REGULAR / NORMAL,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG7,WED8127L**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H16AAI4BB3,WED7990F**,7.4,240.0,,Yes,4.5,Eco/Normal,Medium,Normal,Eco,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7100*,DLE7005*,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX7601*E,DLGX7481*E,7.3,,20000.0,Yes,3.49,Normal,Med. high,Normal,,No,No
+LG,Vented Gas,DLGX3701*,DLGX4081*,7.4,,20000.0,Yes,3.49,Normal,. * Temp. Level 4 (.),Normal,,No,No
+LG,Vented Gas,DLGX8901*,DLGX8901*,9.0,,20000.0,Yes,3.49,Normal,* Temp. Level 4 (.),* Dry Level 3 (.),,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7200*E,DLE7400*E,7.3,240.0,,Yes,3.94,Normal,Med. high,Normal,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,6177#,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+Kenmore,Vented Gas,7143#,7143#,7.3,,20000.0,Yes,3.48,Normal,Medium,Normal,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",8178#,8178#,7.4,240.0,,Yes,3.93,Normal,Medium,Normal,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX5000*,8139#,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+Kenmore,Vented Gas,DLGX7601*E,7155#,7.3,,20000.0,Yes,3.49,Normal,Medium,Medium,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",8159####,8159#,7.3,240.0,,Yes,4.3,Normal,Medium,Normal,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",6146####,6146#,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",6142####,6142#,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",DLHC1455*,DLHC1455*,4.2,240.0,,Yes,6.4,Normal,None,Normal,,No,No
+LG,Vented Gas,DLGX3901*,WSGX201H*A,7.4,,20000.0,Yes,3.49,Normal,. * Temp. Level 4 (.),* Temp. Level 3 (.),,No,No
+LG,Vented Gas,DLG7101*,DLG7151*,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX3901*,DLGX4201*,7.4,,20000.0,Yes,3.49,Normal,. * Temp. Level 4 (.),Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,DLEX4200*,7.4,240.0,,Yes,3.94,Normal,. * Temp. Level 4 (.),Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE3500*,DLE3600*,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX3901*,DLG3401*,7.4,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLG7101*,DLG7061*E,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE3500*,DLE3460*,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,DLEX4500*,7.4,240.0,,Yes,3.94,Normal,Mid. High,Normal,,No,No
+LG,Vented Gas,DLG7101*,DLGX7801*E,7.3,,20000.0,Yes,3.49,Normal,Mid. High,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7100*,DLEX7250*,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7200*E,DLEX7300*E,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE3500*,DLE3095*,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLG3501*,DLG3501*,7.4,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3700*,DLEX3700*,7.4,240.0,,Yes,3.94,Normal,Med. High,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,DLEX3900*,7.4,240.0,,Yes,3.94,Normal,Med. High,Normal,,No,No
+LG,Vented Gas,DLGX7601*E,DLGY1902*E,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7200*E,DLEX7200*,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX5001*,DLGX5006*,7.4,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX4370*,DLEX4370*,7.4,240.0,,Yes,3.94,Cotton/Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX4271*,DLGX4371*,7.4,,20000.0,Yes,3.49,Cotton/Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX4270*,DLEX4370*,7.4,240.0,,Yes,3.94,Cotton/Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX7600*E,DLEX7600*,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX7600*E,DLEX7600*E,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX4271*,DLGX5781*E,7.3,,20000.0,Yes,3.49,Cotton/Normal,Medium,Normal dry,,No,No
+LG,Vented Gas,DLGX4271*,DLG3171*,7.4,,20000.0,Yes,3.49,Cotton/Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX4270*,DLEY1701*E,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX5000*,DLEX5010*,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX5000*,DLEX5000*,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX4270*,DLE1501*,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+Frigidaire,Vented Gas,EFMG617****,FDGX22E4EW,8.0,,20000.0,Yes,3.48,Normal,Normal,Normal,,No,No
+Electrolux,Vented Gas,EFMG617****,ELFG7337***,8.0,,20000.0,Yes,3.48,Normal,Normal,Normal,,No,No
+Electrolux,Vented Gas,EFMG617****,ELFG7437***,8.0,,20000.0,Yes,3.48,Normal,Normal,Normal,,No,No
+Electrolux,"Vented Electric, Standard (4.4 ft3 or greater capacity)",ELFE7537***,ELFE7337***,8.0,240.0,,Yes,3.93,Normal,Normal,Normal,,No,No
+Electrolux,"Vented Electric, Standard (4.4 ft3 or greater capacity)",ELFE7537***,ELFE7437***,8.0,240.0,,Yes,3.93,Normal,Normal,Normal,,No,No
+Frigidaire,"Vented Electric, Standard (4.4 ft3 or greater capacity)",EFDE317****,FDEX21E4EW,8.0,240.0,,Yes,3.93,Normal,Normal,Normal,Eco,No,No
+Electrolux,Vented Gas,EFMG617****,EFMG527****,8.0,,20000.0,Yes,3.48,Normal,Normal,Normal,Eco,No,No
+Electrolux,"Vented Electric, Standard (4.4 ft3 or greater capacity)",EFME617****,EFME527****,8.0,240.0,,Yes,3.93,Normal,Normal,Normal,Eco,No,No
+Electrolux,Vented Gas,EFMG617****,EFDG317****,8.0,,20000.0,Yes,3.48,Normal,Normal,Normal,Eco,No,No
+Midea,Vented Gas,MDD200-VG062/F01-US13,MLG45N3BWW,7.5,,20000.0,Yes,3.3,Normal,Medium,Normal Dry,Eco Dry,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DV52J806*E*,DV52J806*E*,7.4,240.0,,Yes,3.94,75 min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DV48J777*G*,DV48J777*G*,7.4,,22000.0,Yes,3.49,75 min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DV50K86**E*,DV50K86**E*,7.4,240.0,,Yes,3.94,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DV50K86**G*,DV50K86**G*,7.4,,22000.0,Yes,3.49,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DV45K76**G*,DV45K76**G*,7.4,,22000.0,Yes,3.49,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DV45K65**E*,DV45K65**E*,7.5,240.0,,Yes,3.94,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DV45K62**E*,DV45K62**E*,7.5,240.0,,Yes,3.94,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DV45K62**G*,DV45K62**G*,7.5,,22000.0,Yes,3.49,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE45M55***,DVE45M55***,7.5,240.0,,Yes,3.94,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE54M87***,DVE54M87***,7.4,240.0,,Yes,3.94,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE55M96***,DVE55M96***,7.5,240.0,,Yes,3.94,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE60M99***,DVE60M99***,7.5,240.0,,Yes,3.94,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG55M96***,DVG55M96***,7.5,,22000.0,Yes,3.49,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG54M87***,DVG54M87***,7.4,,22000.0,Yes,3.49,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG52M77***,DVG52M77***,7.4,,22000.0,Yes,3.49,75min,medium,normal dry,Eco Dry On,No,No
+SAMSUNG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DV45K71**E*,DV45K71**E*,7.4,240.0,,Yes,3.94,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE54R72***,DVE54R72***,7.4,240.0,,Yes,3.93,Normal cycle,Medium (unselectable),normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE45R63***,DVE45R63***,7.5,240.0,,Yes,3.93,Normal cycle,Medium (unselectable),normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE52T76***,DVE52T76***,7.4,240.0,,Yes,3.93,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE45T6005*,DVE45T6005*,7.5,240.0,,Yes,3.93,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG50A88***,DVG50A88***,7.5,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG50A86***,DVG50A86***,7.5,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG50A85***,DVG50A85***,7.5,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG60A99***,DVG60A99***,7.5,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG55A77***,DVG55A77***,7.4,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE52B76***,DVE52B76***,7.4,240.0,,Yes,3.93,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG53BB87***,DVG53BB87***,7.6,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG46BG65***,DVG46BG65***,7.5,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE46BB67***,DVE46BB67***,7.5,240.0,,Yes,3.93,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE50BG83***,DVE50BG83***,7.5,240.0,,Yes,3.93,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",DV25B69**H*,DV25B69**H*,4.0,240.0,,Yes,3.08,Normal cycle,Medium,normal dry,,No,No
+SUMMIT,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",SLD242W,SLD242W****,4.2,240.0,,Yes,3.0,Cotton Standard,N/A,Medium,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H16AAI4BB4,WED7990F**,7.4,240.0,,Yes,4.5,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,Vented Gas,A18JAI8AI5,WGD8620H**,7.4,,20142.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI5,WGD6620H**,7.4,,20142.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG13,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A16VBN5AI2,MGDB955F**,9.2,,20198.0,Yes,3.48,Normal / Energy Saver,High,Normal,Energy Saver,No,No
+Whirlpool,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",H16OAO6AK0,WHD5090G**,4.3,240.0,,Yes,3.71,"Normal, High Heat, Normal / Dry - Dryness Level, Conductivity Level (3)",High,Normal / Dry,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG13,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Amana,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JDI7AG3,NED5800H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,Eco Dry,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A20BCI8AG0,6165*20*,7.4,240.0,,Yes,3.93,Mixed + Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18IAI8AG3,WED560LH**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG1,WED7120H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18IAI8AI1,WGD560LH**,7.4,,20209.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG5,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI5,MGD6630H**,7.3,,20055.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A22JBI7AI0,MGD6630M**,7.4,,20379.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG0,WED8620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,Vented Gas,A18JBH7AI5,MGD5630H**,7.3,,20055.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG6,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",C19OAV10EK0,WCD3090J**,4.3,240.0,,Yes,2.68,Normal,Non-Adjustable,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG1,WED8620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG4,WED8620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG2,WED6620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG2,WED5620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG4,WED6620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG4,WED5620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG4,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18IAI8AG2,WED560LH**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18GAI9AI0,WGD9620H**,7.4,,20162.0,Yes,3.48,REGULAR / NORMAL,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG13,WED8500D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI3,WGD8620H**,7.4,,20114.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI3,WGD6620H**,7.4,,20114.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI6,WGD6620H**,7.4,,20014.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI6,WGD5620H**,7.4,,20014.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18GAI9AG1,WED9620H**,7.4,240.0,,Yes,3.93,REGULAR / NORMAL,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI1,WGD6620H**,7.4,,20176.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG7,WED8620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI2,WGD6620H**,7.4,,20013.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI2,WGD5620H**,7.4,,20013.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG7,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG7,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18IAI8AG4,WED560LH**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG1,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG1,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG8,WED8620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG2,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG3,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG3,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI0,MGD5630H**,7.3,,20085.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A22JAI8AG0,WED5605M**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,Vented Gas,A18BBI7AI2,MGD7230H**,7.4,,20362.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI1,MGD6630H**,7.3,,20224.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI2,MGD8630H**,7.3,,20209.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A22JAI8AG0,WED6605M**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A22JAI8AI0,WGD5605M**,7.4,,20214.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,Vented Gas,A18JBH7AI4,MGD6630H**,7.3,,20194.0,Yes,3.48,Normal,High,Normal,,No,No
+Amana,Vented Gas,A18JDI7AI0,NGD5800H**,7.4,,20151.0,Yes,3.48,Normal,High,Normal,Eco Dry,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG8,WED8000D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG9,WED8620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG11,WED8000D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BBI7AG4,MED7230H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG12,WED8000D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CCL5AG5,6913*41*,8.8,240.0,,Yes,3.93,Energy Saver / Normal,High,Normal,Energy Saver,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG10,WED5620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG10,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG10,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BBI7AG5,MED7230H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG4,WED7120H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BBI7AG6,MED7230H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H18JAI8AB0,WHD862CH**,7.4,240.0,,Yes,5.2,Regular + Normal,High,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG4,WED8127L**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18CAL8AI0,WGD8120H**,8.8,,20474.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG5,WED8127L**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Kenmore,Vented Gas,A16VCN5AI2,7163*61,9.2,,20309.0,Yes,3.48,Normal / Energy Saver,High,Normal,Energy Saver,No,No
+Amana,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JDI7AG0,NED5800H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,Eco Dry,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16ABI3BG5,MED3500F**,7.4,240.0,,Yes,3.93,Energy Saver / Normal,Medium,Normal,Energy Saver,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16ABI3BG5,MED5500F**,7.4,240.0,,Yes,3.93,Energy Saver / Normal,Medium,Normal,Energy Saver,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16ABI3BG5,MED8200F**,7.4,240.0,,Yes,3.93,Energy Saver / Normal,Medium,Normal,Energy Saver,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16ABI3BG6,MED8200F**,7.4,240.0,,Yes,3.93,Energy Saver / Normal,Medium,Normal,Energy Saver,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16ABI3BG8,MED3500F**,7.4,240.0,,Yes,3.93,Energy Saver / Normal,Medium,Normal,Energy Saver,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16ABI3BG8,MED8200F**,7.4,240.0,,Yes,3.93,Energy Saver / Normal,Medium,Normal,Energy Saver,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16XAI4BG6,WED7590F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H18JAI8AB3,WHD862CH**,7.4,240.0,,Yes,5.2,Regular + Normal,High,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG8,WED75HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG8,WED90HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG8,WED8540F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG9,WED7505F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG9,WED85HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,Vented Gas,A18JAI8AI7,WGD5620H**,7.4,,20183.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG10,WED92HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Maytag,Vented Gas,A18JBH7AI6,MGD6630H**,7.3,,20219.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG11,WED90HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG11,WED8540F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG11,WED85HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H16AAI4BB3,WED9290F**,7.4,240.0,,Yes,4.5,Eco/Normal,Medium,Normal,Eco,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,DLEX6700*,7.4,240.0,,Yes,3.94,Normal,. * Temp. Level 4 (.),Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",WKHC202H*A,WKHC202H*A,7.2,240.0,,Yes,8.0,Normal,None,* Dry Level 3 (.),,No,No
+LG,Vented Gas,DLGX8901*,DLGX8981*,9.0,,20000.0,Yes,3.49,Normal,* Temp. Level 4 (.),* Dry Level 3 (.),,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX8900*,DLEX8980*,9.0,240.0,,Yes,3.94,Normal,* Temp. Level 4 (.),* Dry Level 3 (.),,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX8900*,DLEX8900*,9.0,240.0,,Yes,3.94,Normal,* Temp. Level 4 (.),* Dry Level 3 (.),,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,6145#,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+Kenmore,Vented Gas,DLGX3901*,7177#,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+Kenmore,Vented Gas,DLGX3901*,9156#,7.4,,20000.0,Yes,3.48,Normal,Medium,Normal,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,8156#,7.4,240.0,,Yes,3.93,Normal,Medium,Normal,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3700*,8146#,7.4,240.0,,Yes,3.93,Normal,Medium,Normal,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",6143#,6143#,7.3,240.0,,Yes,3.93,Normal,Medium,Normal,,No,No
+Kenmore,Vented Gas,9178#,9178#,7.4,,20000.0,Yes,3.48,Normal,Medium,Normal,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX7600*E,6155#,7.3,240.0,,Yes,3.94,Normal,Medium,Medium,,No,No
+Kenmore,Vented Gas,9158####,9158#,7.4,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",8158####,8158#,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+Kenmore,Vented Gas,7146####,7146#,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLG3501*,WKG101H*A,7.4,,20000.0,Yes,3.49,Normal,. * Temp. Level 4 (.),* Temp. Level 3 (.),,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE3500*,WKE100H*A,7.4,240.0,,Yes,3.94,Normal,. * Temp. Level 4 (.),* Temp. Level 3 (.),,No,No
+LG,Vented Gas,DLG7101*,DLG7001*,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7100*,DLE7000*,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLG3501*,DLG3401*,7.4,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX3901*,WKGX201H*A,7.4,,20000.0,Yes,3.49,Normal,. * Temp. Level 4 (.),* Temp. Level 3 (.),,No,No
+LG,Vented Gas,DLG3501*,DLG3601*,7.4,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLG7101*,DLGX7881*E,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,DLE3400*,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7100*,DLEX7800*E,7.3,240.0,,Yes,3.94,Normal,Mid. High,Normal,,No,No
+LG,Vented Gas,DLG7101*,DLGX7901*E,7.3,,20000.0,Yes,3.49,Normal,Mid. High,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE3500*,DLE3090*,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7200*E,DLE7300*E,7.3,240.0,,Yes,3.94,Normal,Mid. High,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE3500*,DLE3500*,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLG7101*,DLG7101*,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7200*E,DLE7050*,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX4370*,DLEX5005*,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX4270*,DLE3180*,7.4,240.0,,Yes,3.94,Cotton/Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX7601*E,DLG7051*,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLHX4372*,DLHX4372*,7.3,240.0,,Yes,4.3,Cotton/ Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX7601*E,DLG7201*E,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX7601*E,DLGX7601*,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX7601*E,DLGX7601*E,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX5001*,DLGX5001*,7.4,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLHX4072*,DLHX4072*,7.3,240.0,,Yes,4.3,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX4271*,DLGY1702*E,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX4271*,DLG1502*E,7.4,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX4270*,DLEX5780*E,7.3,240.0,,Yes,3.94,Cotton/Normal,Medium,Normal dry,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX4270*,DLEX5680*E,7.3,240.0,,Yes,3.94,Cotton/Normal,Medium,Normal dry,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX4270*,DLEX3370*,7.4,240.0,,Yes,3.94,Cotton/Normal,Medium,Normal,,No,No
+Electrolux,Vented Gas,EFMG617****,ELFG7537***,8.0,,20000.0,Yes,3.48,Normal,Normal,Normal,,No,No
+Electrolux,"Vented Electric, Standard (4.4 ft3 or greater capacity)",ELFE7637***,ELFE7637***,8.0,240.0,,Yes,3.93,Normal,Normal,Normal,,No,No
+Frigidaire,Vented Gas,EFDG317****,FDGX21E4EW,8.0,,20000.0,Yes,3.48,Normal,Normal,Normal,Eco,No,No
+Electrolux,"Vented Electric, Standard (4.4 ft3 or greater capacity)",EFME617****,EFME427****,8.0,240.0,,Yes,3.93,Normal,Normal,Normal,Eco,No,No
+Electrolux,"Vented Electric, Standard (4.4 ft3 or greater capacity)",EFME617****,EFME627****,8.0,240.0,,Yes,3.93,Normal,Normal,Normal,Eco,No,No
+Electrolux,"Vented Electric, Standard (4.4 ft3 or greater capacity)",EFME617****,EFDE317****,8.0,240.0,,Yes,3.93,Normal,Normal,Normal,Eco,No,No
+Hamilton Beach,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",VTD113CT300,HBFDR3206,4.0,240.0,,Yes,2.68,Normal,High,Regular,,No,No
+Midea,"Vented Electric, Standard (4.4 ft3 or greater capacity)",MDH200-V012/A01HS-US,MLE45N3BWW,7.5,240.0,,Yes,3.73,Normal,Medium,Normal Dry,,No,No
+Danby,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",DDY040D2WDB,DDY040D2WDB,4.0,240.0,,Yes,2.68,Normal,High,Regular,,No,No
+Criterion,Vented Gas,MDH210-VG022/B01EQHS-US,CFDG80N1AW,8.0,,20000.0,Yes,3.48,Normal,Medium,Normal Dry +Eco Dry,,No,No
+Midea,Vented Gas,MDH210-VG022/B01EQHS-US,MH04GD80/W-PR,8.1,,19815.0,Yes,3.3,Normal,Medium,Normal dry,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A22JAI8AG1,WED5605M**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,Vented Gas,A18JBH7AI7,MGD5630H**,7.3,,20167.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI7,MGD6630H**,7.3,,20167.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI7,MGD8630H**,7.3,,20167.0,Yes,3.48,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18BBI7AI5,MGD7230H**,7.4,,20105.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG9,WED8127L**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG9,WED7120H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Criterion,"Vented Electric, Standard (4.4 ft3 or greater capacity)",MDH210-V022/B01EQHS-US,CFDE80N1AW,8.0,240.0,,Yes,3.93,Normal,Medium,Normal Dry,,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE54CG7155*,DVE54CG7155*,7.4,240.0,,Yes,3.93,Normal,Medium (Unselectable),Normal,Eco dry,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE54CG755**,DVE54CG755**,7.4,240.0,,Yes,3.93,Normal,Medium (Unselectable),Normal,Eco dry,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE55CG75***,DVE55CG75***,7.4,240.0,,Yes,3.93,Normal,Medium (Unselectable),Normal,Eco dry,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE50A88***,DVE50A88***,7.5,240.0,,Yes,3.93,Normal cycle,Medium (unselectable),Normal,Eco dry,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE60A99***,DVE60A99***,7.5,240.0,,Yes,3.93,Normal cycle,Medium (unselectable),Normal,Eco dry,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE55A73***,DVE55A73***,7.4,240.0,,Yes,3.93,Normal cycle,Medium (unselectable),Normal,Eco dry,No,No
+GE Profile,"Ventless Electric, Combination Washer-Dryer",H48E_6_V,PFQ97HS*V***,4.8,120.0,,Yes,6.0,Normal Dry (Sensor Dry Only),N/A,Sensor Dry,Eco Dry is default off for the Normal Dry (Sensor Dry Only) cycle,No,No
+Crosley,"Vented Electric, Standard (4.4 ft3 or greater capacity)",M74E_1_NB+1,YTD74E2*N***,7.4,240.0,,Yes,3.93,Cottons,High,Dry,eDry is default ON for Cottons,No,No
+Breda,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",LUDH92700,739855,4.2,240.0,,Yes,3.0,Cotton Standard,NA,Medium,By annual report date,No,No
+Speed Queen,"Vented Electric, Standard (4.4 ft3 or greater capacity)",RE8,ADE6H***178T***,6.9,240.0,,Yes,3.93,Regular,Medium,Near Dry,,No,No
+Speed Queen,"Vented Electric, Standard (4.4 ft3 or greater capacity)",RE7,ADEE9***178T***,6.9,240.0,,Yes,3.93,Regular,Medium,Near Dry,,No,No
+Huebsch,"Vented Electric, Standard (4.4 ft3 or greater capacity)",RE6,ZDEE9***178C***,6.9,240.0,,Yes,3.73,Regular,Medium,n/a,,No,No
+Speed Queen,Vented Gas,RG8,ADG6H***118T***,6.9,,22500.0,Yes,3.48,Regular,n/a,Near Dry,,No,No
+Huebsch,Vented Gas,RG8,ZDG6H***118T***,6.9,,22500.0,Yes,3.48,Regular,n/a,Near Dry,,No,No
+Speed Queen,Vented Gas,RG7,ADGE9***118T***,6.9,,22500.0,Yes,3.48,Regular,Medium,Near Dry,,No,No
+Speed Queen,Vented Gas,RG7,ATGE9***118***,6.9,,22500.0,Yes,3.48,Regular,Medium,Near Dry,,No,No
+Magic Chef,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",MCSDRY24W1,MCSDRY24W1,4.0,240.0,,Yes,2.68,Normal,High,Regular,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG14,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BBI7AG9,MED7230H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG8,WED8127L**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Blomberg,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",DHP24400W,DHP24400W,4.1,240.0,,Yes,5.7,Normal Regular Dry,No,No,No,No,No
+Beko,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",HPD24412W,HPD24412W,4.1,240.0,,Yes,5.7,Normal Regular Dry,No,No,No,No,No
+ELEMENT,"Vented Electric, Standard (4.4 ft3 or greater capacity)",MDV200-V042/A01HS-US,ETD7527EBW,7.5,240.0,,Yes,3.93,Normal,Medium,Normal Dry,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,WKEX300H*A,7.4,240.0,,Yes,3.94,Normal,Medium High,Normal,,No,No
+LG,Vented Gas,DLGX3901*,WKGX301H*A,7.4,,20000.0,Yes,3.49,Normal,Medium High,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,SWWE50*3,7.4,240.0,,Yes,3.94,Normal,Medium High,Normal,,No,No
+Asko,"Vented Electric, Standard (4.4 ft3 or greater capacity)",T411.VD.T.U,T411.VD.T.U,4.9,240.0,,Yes,3.8,Auto normal,NA,Medium,,No,No
+Asko,"Vented Electric, Standard (4.4 ft3 or greater capacity)",T611.VU.W.U,T611.VU.W.U,4.9,240.0,,Yes,3.8,Auto normal,NA,Medium,,No,No
+Fisher&Paykel,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",DE4024P2,DE4024P2,4.1,240.0,,Yes,2.68,Cotton,High,Dry/Extra Dry,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,DLEX5500*,7.4,240.0,,Yes,3.94,Normal,. * Temp. Level 4 (.),Normal,,No,No
+LG,Vented Gas,DLGX3901*,DLGX5501*,7.4,,20000.0,Yes,3.49,Normal,. * Temp. Level 4 (.),Normal,,No,No
+LG,Vented Gas,DLGX3901*,DLGX6501*,7.4,,20000.0,Yes,3.49,Normal,. * Temp. Level 4 (.),Normal,,No,No
+LG,Vented Gas,DLGX3901*,DLG3471*,7.4,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLG7101*,DLG6101*,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+Huebsch,"Vented Electric, Standard (4.4 ft3 or greater capacity)",RE7,ZDEE9***177T***,6.9,240.0,,Yes,3.93,Regular,Medium,Near Dry,,No,No
+Speed Queen,"Vented Electric, Standard (4.4 ft3 or greater capacity)",RE7,ADEE9***177T***,6.9,240.0,,Yes,3.93,Regular,Medium,Near Dry,,No,No
+Speed Queen,Vented Gas,RG7,ADGE9***117T***,6.9,,22500.0,Yes,3.48,Regular,Medium,Near Dry,,No,No
+Huebsch,Vented Gas,RG7,ZDGE9***117C***,6.9,,22500.0,Yes,3.48,Regular,Medium,Near Dry,,No,No
+Crosley,Vented Gas,M74G_4_NB,YTD74G2*N***,7.4,,22000.0,Yes,3.48,Cottons,Low,Dry,eDry is default ON for Cottons,No,No
+Crosley,"Vented Electric, Standard (4.4 ft3 or greater capacity)",M74E_1_NB+,YTD74E2*N***,7.4,240.0,,Yes,3.93,Cottons,Low,Dry,eDry is default ON for Cottons,No,No
+GE Profile,"Vented Electric, Standard (4.4 ft3 or greater capacity)",M74E_1_T,PTD70EB*T***,7.4,240.0,,Yes,3.93,Normal Cottons,Hot,Dry,ecoDry is default ON for the Normal Cottons,No,No
+GE,Vented Gas,M74G_4_R,PTD60GB*R***,7.4,,22000.0,Yes,3.48,Normal Cottons,Hot,Dry,ecoDry is default ON for Normal Cottons,No,No
+GE,Vented Gas,M60G_4_N,GUD27GE*N***,6.0,,18000.0,Yes,3.48,Cottons Medium Dry,N/A,Medium Dry,eDry is default on for the Cottons cycle,No,No
+GE,Vented Gas,M74G_4_NA,GTD84GC*N***,7.4,,22000.0,Yes,3.48,Cottons Normal,Low,Dry,ecoDry is default ON for Cottons Normal,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",M74E_1_NA,GTD84EC*N***,7.4,240.0,,Yes,3.93,Cottons Normal,Low,Dry,ecoDry is default ON for Cottons Normal,No,No
+GE,Vented Gas,M74G_4_N,GTD72GB*N***,7.4,,22000.0,Yes,3.48,Cottons Normal,Low,Dry,ecoDry is default ON for Cottons Normal,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",GTD65EBSJ0WS,GTD65EB*L***,7.4,240.0,,Yes,3.93,Cottons,Low,Dry,eDry is default ON for Cottons,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",G78E_1_NB,GFV55ES*N***,7.8,240.0,,Yes,3.93,Cottons,Low,Dry,ecoDry is default ON for Cottons,No,No
+GE,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",H41E_5_M,GFT14ES*M***,4.1,240.0,,Yes,2.68,Cottons,High,Dry,eDry is default ON for Cottons,No,No
+GE Profile,Vented Gas,G78G_4_T1,PFD95GS*T***,7.8,,16000.0,Yes,3.48,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,Vented Gas,G78G_4_T1,GFD65GS*N***,7.8,,16000.0,Yes,3.48,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE Profile,Vented Gas,G78G_4_T,PFD95GS*T***,7.8,,16000.0,Yes,3.48,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,Vented Gas,G78G_4_T,GFD85GS*N***,7.8,,16000.0,Yes,3.48,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE Profile,"Vented Electric, Standard (4.4 ft3 or greater capacity)",G78E_1_T,PFD95ES*T***,7.8,240.0,,Yes,3.93,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",G78E_1_T,GFD85ES*N***,7.8,240.0,,Yes,3.93,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",G78E_1_T,GFD65ES*N***,7.8,240.0,,Yes,3.93,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",G78E_1_N,GFD85ES*N***,7.8,240.0,,Yes,3.93,Cottons,Low,Dry,ecoDry is default ON for Cottons,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",G78E_1_N,GFD65ES*N***,7.8,240.0,,Yes,3.93,Cottons,Low,Dry,ecoDry is default ON for Cottons,No,No
+GE,Vented Gas,G78G_4_NA+1,GFD55GS*R***,7.8,,16000.0,Yes,3.48,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,Vented Gas,G78G_4_NA+,GFD55GS*R***,7.8,,16000.0,Yes,3.48,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,Vented Gas,G78G_4_NA+,GFD55GS*N***,7.8,,16000.0,Yes,3.48,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,Vented Gas,G78G_4_NA,GFD55GS*N***,7.8,,16000.0,Yes,3.48,Cottons,Low,Dry,ecoDry is default ON for Cottons,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",G78E_1_NA+,GFD55ES*R***,7.8,240.0,,Yes,3.93,Cottons,High,Dry,ecoDry is default ON for the Cottons cycle,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",G78E_1_NA,GFD55ES*R***,7.8,240.0,,Yes,3.93,Cottons,Low,Dry,ecoDry is default ON for Cottons,No,No
+GE,"Vented Electric, Standard (4.4 ft3 or greater capacity)",G78E_1_NA,GFD55ES*N***,7.8,240.0,,Yes,3.93,Cottons,Low,Dry,ecoDry is default ON for Cottons,No,No
+GE,"Vented Electric, Compact (240V) (less than 4.4 ft3 capacity)",H43E_3_N,GFD14ES*N***,4.3,240.0,,Yes,3.45,Cottons,High,Dry,eDry is default ON for Cottons,No,No
+Bosch,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",WTG86400UC,WTG86400UC,4.0,240.0,,Yes,2.65,Cotton Dry,None,Dry Level (+2),,No,No
+Bosch,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",WTW87NH1UC,WTW87NH1UC,4.0,240.0,,Yes,6.8,Cotton,None,Dry,,No,No
+Gaggenau,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",WTG865H3UC,WT262700,4.0,240.0,,Yes,2.68,Cotton Dry,None,Dry Level (+2),,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DV48J770*E*,DV48J770*E*,7.4,240.0,,Yes,3.94,75 min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DV52J870*E*,DV52J870*E*,7.4,240.0,,Yes,3.94,75 min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DV48J770*G*,DV48J770*G*,7.4,,22000.0,Yes,3.49,75 min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DV52J806*G*,DV52J806*G*,7.4,,22000.0,Yes,3.49,75 min,medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DV50K75**E*,DV50K75**E*,7.5,240.0,,Yes,3.94,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DV45K65**G*,DV45K65**G*,7.5,,22000.0,Yes,3.49,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG60M99***,DVG60M99***,7.5,,22000.0,Yes,3.49,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG52M86***,DVG52M86***,7.4,,22000.0,Yes,3.49,75min,medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG50R85***,DVG50R85***,7.5,,20000.0,Yes,3.48,Normal cycle,Medium (unselectable),normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG54R72***,DVG54R72***,7.4,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG45R63***,DVG45R63***,7.5,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE50T74***,DVE50T74***,7.4,240.0,,Yes,3.93,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE45T70***,DVE45T70***,7.4,240.0,,Yes,3.93,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DVE45T61***,DVE45T61***,7.5,240.0,,Yes,3.93,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG55A73***,DVG55A73***,7.4,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG45B6305*,DVG45B6305*,7.5,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG53BB89***,DVG53BB89***,7.6,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG46BB67***,DVG46BB67***,7.5,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Samsung,Vented Gas,DVG50BG83***,DVG50BG83***,7.5,,20000.0,Yes,3.48,Normal cycle,Medium,normal dry,Eco Dry On,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG13,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H16AAI4BB4,WED9290F**,7.4,240.0,,Yes,4.5,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H16AAI4BB5,WED7990F**,7.4,240.0,,Yes,4.5,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",H16OAO6AK0,WHD3090G**,4.3,240.0,,Yes,3.71,"Normal, High Heat, Normal / Dry - Dryness Level, Conductivity Level (3)",High,Normal / Dry,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG0,WED7120H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,Vented Gas,A18BBI7AI0,MGD7230H**,7.4,,20904.0,Yes,3.48,Normal,High,Normal,,No,No
+Kenmore,Vented Gas,A20BCI8AI0,7165*20*,7.4,,20271.0,Yes,3.48,Mixed + Normal,High,Normal,,No,No
+Whirlpool,Vented Gas,A18BAI8AI1,WGD7120H**,7.4,,20306.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG5,WED5620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H18JAI8AB4,WHD862CH**,7.4,240.0,,Yes,5.2,Regular + Normal,High,Normal,Eco,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG5,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A22JBI7AG0,MED6630M**,7.4,240.0,,Yes,3.93,Normal,High,More,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A22JBI7AG0,MED5630M**,7.4,240.0,,Yes,3.93,Normal,High,More,,No,No
+Amana,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JDI7AG1,NED5800H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,Eco Dry,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG6,WED8620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG0,WED5620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,Vented Gas,A22JBI7AI0,MGD5630M**,7.4,,20379.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",C19OAV10EK0,WCD5090J**,4.3,240.0,,Yes,2.68,Normal,Non-Adjustable,Normal,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A20BCI8AG1,6165*20*,7.4,240.0,,Yes,3.93,Mixed + Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG1,WED5620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG2,WED8620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18CAL8AG1,WED8120H**,8.8,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18CAL8AI1,WGD8120H**,8.8,,20306.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,Vented Gas,A18BBI7AI3,MGD7230H**,7.4,,20071.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG3,WED8620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG3,WED6620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG4,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG3,WED5620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18IAI8AG6,WED560LH**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18IAI8AG1,WED560LH**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI6,WGD8620H**,7.4,,20014.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI0,WGD5620H**,7.4,,20234.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI1,WGD8620H**,7.4,,20176.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CCL5AG7,6913*41*,8.8,240.0,,Yes,3.93,Energy Saver / Normal,High,Normal,Energy Saver,No,No
+Whirlpool,Vented Gas,A18JAI8AI1,WGD5620H**,7.4,,20176.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG7,WED6620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18IAI8AI0,WGD560LH**,7.4,,20218.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG0,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG1,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,Vented Gas,A18BAI8AI0,WGD8127L**,7.4,,20379.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG2,WED7120H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG2,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG2,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG8,WED5620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG8,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,Vented Gas,A18JBH7AI0,MGD8630H**,7.3,,20085.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Ventless Electric, Combination Washer-Dryer",C21JAQ15AM0,WFC682CL**,4.5,120.0,,Yes,3.93,Regular + Dry Only,Non - Selectable,Non - Selectable,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG8,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,Vented Gas,A18JAI8AI4,WGD6620H**,7.4,,20086.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,Vented Gas,A18JAI8AI4,WGD5620H**,7.4,,20086.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,Vented Gas,A18JBH7AI4,MGD8630H**,7.3,,20194.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG6,WED8000D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H18JAI8AB2,WHD862CH**,7.4,240.0,,Yes,5.2,Regular + Normal,High,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG7,WED8000D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG7,WED8500D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG8,WED8500D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG11,WED8500D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CAL2AG12,WED8500D**,8.8,240.0,,Yes,3.93,EcoBoost/Normal,High,Mid-point,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG3,WED7120H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CCL5AG5,6813*41*,8.8,240.0,,Yes,3.93,Energy Saver / Normal,High,Normal,Energy Saver,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG3,WED8120L**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JAI8AG10,WED8620H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CCL5AG6,6813*41*,8.8,240.0,,Yes,3.93,Energy Saver / Normal,High,Normal,Energy Saver,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A14CCL5AG6,6913*41*,8.8,240.0,,Yes,3.93,Energy Saver / Normal,High,Normal,Energy Saver,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG10,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG11,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG5,WED7120H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",H18JAI8AB0,WHD560CH**,7.4,240.0,,Yes,5.2,Regular + Normal,High,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A15VAN2AG1,WED9500E**,9.2,240.0,,Yes,3.93,EcoBoost / Mixed + Normal,High,Mid-Point,EcoBoost,No,No
+Maytag,Vented Gas,A18CBL7AI0,MGD8230H**,8.8,,20562.0,Yes,3.48,Normal,High,Normal,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16VCN5AG3,6163*61,9.2,240.0,,Yes,3.93,Normal / Energy Saver,High,Normal,Energy saver,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16VCN5AG4,6163*61,9.2,240.0,,Yes,3.93,Normal / Energy Saver,High,Normal,Energy Saver,No,No
+Kenmore,Vented Gas,A16VCN5AI1,7163*61,9.2,,20410.0,Yes,3.48,Normal / Energy Saver,High,Normal,Energy Saver,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18IAI8AG7,WED560LH**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG12,MED8630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16ABI3BG6,MED3500F**,7.4,240.0,,Yes,3.93,Energy Saver / Normal,Medium,Normal,Energy Saver,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16ABI3BG7,MED5500F**,7.4,240.0,,Yes,3.93,Energy Saver / Normal,Medium,Normal,Energy Saver,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16XAI4BG4,WED7590F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG12,MED6630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG8,WED7505F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG8,WED7540F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JBH7AG12,MED5630H**,7.3,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BBI7AG7,MED7230H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG8,WED85HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG9,WED75HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG6,WED8127L**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,Vented Gas,A18BBI7AI4,MGD7230H**,7.4,,20249.0,Yes,3.48,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG9,WED7540F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,Vented Gas,A18JAI8AI7,WGD8620H**,7.4,,20183.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG10,WED7505F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG10,WED7540F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,Vented Gas,A18JAI8AI7,WGD6620H**,7.4,,20183.0,Yes,3.48,Regular + Normal,High,Normal,EcoBoost,No,No
+Maytag,Vented Gas,A18JBH7AI6,MGD8630H**,7.3,,20219.0,Yes,3.48,Normal,High,Normal,,No,No
+Amana,Vented Gas,A18JDI7AI1,NGD5800H**,7.4,,20104.0,Yes,3.48,Normal,High,Normal,Eco Dry,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG10,WED85HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG11,WED7505F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG11,WED75HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Amana,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18JDI7AG2,NED5800H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,Eco Dry,No,No
+Maytag,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BBI7AG8,MED7230H**,7.4,240.0,,Yes,3.93,Normal,High,Normal,,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG11,WED7540F**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18BAI8AG7,WED7120H**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A16AAI4BG11,WED92HEF**,7.4,240.0,,Yes,3.93,Eco/Normal,Medium,Normal,Eco,No,No
+Whirlpool,Vented Gas,A18GAI9AI1,WGD9620H**,7.4,,20068.0,Yes,3.48,REGULAR / NORMAL,High,Normal,EcoBoost,No,No
+Whirlpool,"Vented Electric, Standard (4.4 ft3 or greater capacity)",A18IAI8AG9,WED560LH**,7.4,240.0,,Yes,3.93,Regular + Normal,High,Normal,EcoBoost,No,No
+LG,Vented Gas,DLGX3901*,DLGX6701*,7.4,,20000.0,Yes,3.49,Normal,. * Temp. Level 4 (.),Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7200*E,DLEX7480*E,7.3,240.0,,Yes,3.94,Normal,Med. high,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3700*,DLEX4080*,7.4,240.0,,Yes,3.94,Normal,. * Temp. Level 4 (.),Normal,,No,No
+LG,Vented Gas,DLGX7601*E,DLG7401*E,7.3,,20000.0,Yes,3.49,Normal,Med. high,Normal,,No,No
+Kenmore,Vented Gas,DLGX3901*,7145#,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+Kenmore,Vented Gas,DLGX3701*,9146#,7.4,,20000.0,Yes,3.48,Normal,Medium,Normal,,No,No
+Kenmore,Vented Gas,DLG3501*,9136#,7.4,,20000.0,Yes,3.48,Normal,Medium,Normal,,No,No
+Kenmore,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE3500*,8136#,7.4,240.0,,Yes,3.93,Normal,Medium,Normal,,No,No
+Kenmore,Vented Gas,DLGX5001*,9139#,7.4,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+Kenmore,Vented Gas,7142####,7142#,7.3,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3700*,DLEX3850*,7.4,240.0,,Yes,3.94,Normal,. * Temp. Level 4 (.),Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE3500*,DLE3400*,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE3500*,DLE3450*,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,WSEX200H*A,7.4,240.0,,Yes,3.94,Normal,. * Temp. Level 4 (.),* Temp. Level 3 (.),,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3900*,WKEX200H*A,7.4,240.0,,Yes,3.94,Normal,. * Temp. Level 4 (.),* Temp. Level 3 (.),,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7100*,DLE7150*,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX3701*,DLGX4001*,7.4,,20000.0,Yes,3.49,Normal,. * Temp. Level 4 (.),Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX3700*,DLEX4000*,7.4,240.0,,Yes,3.94,Normal,. * Temp. Level 4 (.),Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7100*,DLEX7880*E,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7100*,DLE7060*E,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLG3501*,DLG3461*,7.4,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7100*,DLEX7650*E,7.3,240.0,,Yes,3.94,Normal,Med. high,Normal,,No,No
+LG,Vented Gas,DLGX3901*,DLGX4501*,7.4,,20000.0,Yes,3.49,Normal,Mid. High,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7100*,DLEX7900*E,7.3,240.0,,Yes,3.94,Normal,Mid. High,Normal,,No,No
+LG,Vented Gas,DLGX7601*E,DLG7301*E,7.3,,20000.0,Yes,3.49,Normal,Mid. High,Normal,,No,No
+LG,Vented Gas,DLGX3701*,DLGX3701*,7.4,,20000.0,Yes,3.49,Normal,Med. High,Normal,,No,No
+LG,Vented Gas,DLGX3901*,DLGX3901*,7.4,,20000.0,Yes,3.49,Normal,Med. High,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7100*,DLE7100*,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7200*E,DLE7200*E,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLE7200*E,DLEY1901*E,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX4271*,DLG3181*,7.4,,20000.0,Yes,3.49,Cotton/Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX7600*E,DLEX7200*,7.3,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX4270*,DLE3075*,7.4,240.0,,Yes,3.94,Cotton/Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX5001*,DLGX5011*,7.4,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX4271*,DLGX4271*,7.4,,20000.0,Yes,3.49,Cotton/Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX4271*,DLGX3371*,7.4,,20000.0,Yes,3.49,Cotton/Normal,Medium,Normal,,No,No
+LG,Vented Gas,DLGX4271*,DLG1502*,7.4,,20000.0,Yes,3.49,Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX4270*,DLEX4270*,7.4,240.0,,Yes,3.94,Cotton/Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX4270*,DLE3170*,7.4,240.0,,Yes,3.94,Cotton/Normal,Medium,Normal,,No,No
+LG,"Vented Electric, Standard (4.4 ft3 or greater capacity)",DLEX4270*,DLE1501*E,7.4,240.0,,Yes,3.94,Normal,Medium,Normal,,No,No
+Frigidaire,"Vented Electric, Standard (4.4 ft3 or greater capacity)",ELFE7537***,FDEX22E4EW,8.0,240.0,,Yes,3.93,Normal,Normal,Normal,,No,No
+Electrolux,Vented Gas,EFMG617****,ELFG7637***,8.0,,20000.0,Yes,3.48,Normal,Normal,Normal,,No,No
+Electrolux,"Vented Electric, Standard (4.4 ft3 or greater capacity)",ELFE7537***,ELFE7537***,8.0,240.0,,Yes,3.93,Normal,Normal,Normal,,No,No
+Electrolux,"Ventless Electric, Compact (240V) (less than 4.4 ft3 capacity)",ELFE4222***,ELFE4222***,4.0,240.0,,Yes,2.68,Normal,High,Normal,Eco,No,No
+Electrolux,Vented Gas,EFMG617****,EFMG427****,8.0,,20000.0,Yes,3.48,Normal,Normal,Normal,Eco,No,No
+Electrolux,Vented Gas,EFMG617****,EFMG627****,8.0,,20000.0,Yes,3.48,Normal,Normal,Normal,Eco,No,No
+Danby,"Vented Electric, Compact (120V) (less than 4.4 ft3 capacity)",DDY060WDB,DDY060WDB,3.4,120.0,,Yes,3.61,Normal,Maximum,Normal,,No,No
+Insignia,"Vented Electric, Standard (4.4 ft3 or greater capacity)",MDH210-V022/B01EQHS-US,NS-FDRE80W3,8.0,240.0,,Yes,3.93,Normal,Medium,Normal Dry,,No,No
+Insignia,Vented Gas,MDH210-VG022/B01EQHS-US,NS-FDRG80W3,8.0,,20000.0,Yes,3.48,Normal,Medium,Normal Dry,,No,No
