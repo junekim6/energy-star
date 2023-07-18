@@ -1,0 +1,1637 @@
+Product Class,Model Number,Annual Energy Use (kWh/yr),Adjusted Volume (ft3),Compact,energy_per_volume,code,adj_volume,annual_energy_use,regexed_model_no
+11A - Compact All-Refrigerator - manual defrost,2AW1BF26A,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,2AW1BF26A
+11A - Compact All-Refrigerator - manual defrost,2AW1SLF44A,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,2AW1SLF44A
+3 - Freestanding Compact Cooler,AWC152DPRGLH,143,3.1,Yes,46.12903225806451,3,3.1,143.0,AWC152DPRGLH
+3 - Freestanding Compact Cooler,AWC152SPRGLH,144,3.4,Yes,42.35294117647059,3,3.4,144.0,AWC152SPRGLH
+3 - Freestanding Compact Cooler,AWC242DPRSLH,157,5.4,Yes,29.074074074074073,3,5.4,157.0,AWC242DPRSLH
+3 - Freestanding Compact Cooler,AWC242FDPRG,156,5.2,Yes,30.0,3,5.2,156.0,AWC242FDPRG
+3 - Freestanding Compact Cooler,AWC242SPRGLH,160,5.8,Yes,27.586206896551726,3,5.8,160.0,AWC242SPRGLH
+12 - Compact Refrigerator-Freezer - partial automatic defrost,A1-3.1CFDDBLK,270,3.8,Yes,71.05263157894737,12,3.8,270.0,A1-3.1CFDDBLK
+12 - Compact Refrigerator-Freezer - partial automatic defrost,A1-3.1CFDDSS,270,3.8,Yes,71.05263157894737,12,3.8,270.0,A1-3.1CFDDSS
+13A - Compact All-Refrigerators - automatic defrost,AR17T0W,233,1.7,Yes,137.05882352941177,13A,1.7,233.0,AR17T0W
+13A - Compact All-Refrigerators - automatic defrost,AR17T1B,238,1.7,Yes,140.0,13A,1.7,238.0,AR17T1B
+13A - Compact All-Refrigerators - automatic defrost,AR2406W,230,2.2,Yes,104.54545454545453,13A,2.2,230.0,AR2406W
+13A - Compact All-Refrigerators - automatic defrost,AR24T3S,238,2.4,Yes,99.16666666666667,13A,2.4,238.0,AR24T3S
+13A - Compact All-Refrigerators - automatic defrost,AR321BB,259,3.2,Yes,80.9375,13A,3.2,259.0,AR321BB
+11A - Compact All-Refrigerator - manual defrost,AR32J0W,192,3.2,Yes,60.0,11A,3.2,192.0,AR32J0W
+11A - Compact All-Refrigerator - manual defrost,AR32J1B,192,3.2,Yes,60.0,11A,3.2,192.0,AR32J1B
+11A - Compact All-Refrigerator - manual defrost,AR32J3S,192,3.2,Yes,60.0,11A,3.2,192.0,AR32J3S
+13A - Compact All-Refrigerators - automatic defrost,AR4446B,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,AR4446B
+13A - Compact All-Refrigerators - automatic defrost,AR4456SS,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,AR4456SS
+11A - Compact All-Refrigerator - manual defrost,AR46J0W,198,4.5,Yes,44.0,11A,4.5,198.0,AR46J0W
+11A - Compact All-Refrigerator - manual defrost,AR46J1B,198,4.5,Yes,44.0,11A,4.5,198.0,AR46J1B
+11A - Compact All-Refrigerator - manual defrost,AR46J3S,198,4.5,Yes,44.0,11A,4.5,198.0,AR46J3S
+13A - Compact All-Refrigerators - automatic defrost,AR52T3SB,256,5.2,Yes,49.230769230769226,13A,5.2,256.0,AR52T3SB
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,FF7B0W,393,8.4,Yes,46.785714285714285,13,8.4,393.0,FF7B0W
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,FF7B3S,393,8.4,Yes,46.785714285714285,13,8.4,393.0,FF7B3S
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCR74V**,345,8.5,Yes,40.588235294117645,12,8.5,345.0,MCR74V..
+13A - Compact All-Refrigerators - automatic defrost,OR1533U3S,225,3.1,Yes,72.58064516129032,13A,3.1,225.0,OR1533U3S
+13A - Compact All-Refrigerators - automatic defrost,ARD104AB14R/L,242,1.1,Yes,219.99999999999997,13A,1.1,242.0,ARD104AB14R/L
+13A - Compact All-Refrigerators - automatic defrost,ARD104AB21R/L,242,1.1,Yes,219.99999999999997,13A,1.1,242.0,ARD104AB21R/L
+13A - Compact All-Refrigerators - automatic defrost,ARD204AB14R/L,249,2.0,Yes,124.5,13A,2.0,249.0,ARD204AB14R/L
+13A - Compact All-Refrigerators - automatic defrost,ARD204AB21R/L,249,2.0,Yes,124.5,13A,2.0,249.0,ARD204AB21R/L
+13A - Compact All-Refrigerators - automatic defrost,ARD204ABS14R/L,249,2.0,Yes,124.5,13A,2.0,249.0,ARD204ABS14R/L
+13A - Compact All-Refrigerators - automatic defrost,ARD204ABS21R/L,249,2.0,Yes,124.5,13A,2.0,249.0,ARD204ABS21R/L
+13A - Compact All-Refrigerators - automatic defrost,ARD244A*21R/L,223,2.3,Yes,96.95652173913044,13A,2.3,223.0,ARD244A.21R/L
+12 - Compact Refrigerator-Freezer - partial automatic defrost,ARD298C*14R/L,319,3.6,Yes,88.61111111111111,12,3.6,319.0,ARD298C.14R/L
+13A - Compact All-Refrigerators - automatic defrost,ARD369A*14R/L,262,3.6,Yes,72.77777777777777,13A,3.6,262.0,ARD369A.14R/L
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,ARD484F*10R/L,346,5.8,Yes,59.6551724137931,13,5.8,346.0,ARD484F.10R/L
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,ARD484F*21R/L,346,5.8,Yes,59.6551724137931,13,5.8,346.0,ARD484F.21R/L
+12 - Compact Refrigerator-Freezer - partial automatic defrost,AMA31**E,320,3.8,Yes,84.21052631578948,12,3.8,320.0,AMA31..E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,AMA31S5E,320,3.1,Yes,103.2258064516129,12,3.1,320.0,AMA31S5E
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,AMA43BKE,228,4.3,Yes,53.02325581395349,11,4.3,228.0,AMA43BKE
+13A - Compact All-Refrigerators - automatic defrost,AMA43R**E,268,4.3,Yes,62.32558139534884,13A,4.3,268.0,AMA43R..E
+11A - Compact All-Refrigerator - manual defrost,AMAR27S1E,214,2.6,Yes,82.3076923076923,11A,2.6,214.0,AMAR27S1E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,AMAR31T**E,320,3.8,Yes,84.21052631578948,12,3.8,320.0,AMAR31T..E
+11A - Compact All-Refrigerator - manual defrost,AMAR35S1E,220,3.4,Yes,64.70588235294117,11A,3.4,220.0,AMAR35S1E
+11A - Compact All-Refrigerator - manual defrost,AMAR43**E,228,4.3,Yes,53.02325581395349,11A,4.3,228.0,AMAR43..E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,AMAR46TS1E,325,5.6,Yes,58.03571428571429,12,5.6,325.0,AMAR46TS1E
+11A - Compact All-Refrigerator - manual defrost,KS-48RHL,208,1.6,Yes,130.0,11A,1.6,208.0,KS-48RHL
+11A - Compact All-Refrigerator - manual defrost,KS-91RHL,219,3.2,Yes,68.4375,11A,3.2,219.0,KS-91RHL
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MPBFR401A,291,4.7,Yes,61.91489361702128,12,4.7,291.0,MPBFR401A
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MPWFR401A,291,4.7,Yes,61.91489361702128,12,4.7,291.0,MPWFR401A
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MVSFR401A,291,4.7,Yes,61.91489361702128,12,4.7,291.0,MVSFR401A
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CR31TABDDSS,270,3.8,Yes,71.05263157894737,12,3.8,270.0,CR31TABDDSS
+11A - Compact All-Refrigerator - manual defrost,CR44CABSDSS,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,CR44CABSDSS
+11A - Compact All-Refrigerator - manual defrost,AFRM045AES,226,4.5,Yes,50.22222222222222,11A,4.5,226.0,AFRM045AES
+13A - Compact All-Refrigerators - automatic defrost,ABDA049ADBS,270,4.9,Yes,55.10204081632653,13A,4.9,270.0,ABDA049ADBS
+11A - Compact All-Refrigerator - manual defrost,AFRM016AEB,207,1.6,Yes,129.375,11A,1.6,207.0,AFRM016AEB
+11A - Compact All-Refrigerator - manual defrost,AFRM016BEB,207,1.6,Yes,129.375,11A,1.6,207.0,AFRM016BEB
+11A - Compact All-Refrigerator - manual defrost,AFRM024AES,213,2.4,Yes,88.75,11A,2.4,213.0,AFRM024AES
+11A - Compact All-Refrigerator - manual defrost,AFRM033AEB,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,AFRM033AEB
+11A - Compact All-Refrigerator - manual defrost,AFRM033AES,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,AFRM033AES
+11A - Compact All-Refrigerator - manual defrost,AFRM033BEB,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,AFRM033BEB
+11A - Compact All-Refrigerator - manual defrost,AFRM044AEB,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,AFRM044AEB
+11A - Compact All-Refrigerator - manual defrost,AFRM044AES,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,AFRM044AES
+11A - Compact All-Refrigerator - manual defrost,AFRM044AEW,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,AFRM044AEW
+11A - Compact All-Refrigerator - manual defrost,ARM024S1ARBB,213,2.4,Yes,88.75,11A,2.4,213.0,ARM024S1ARBB
+11A - Compact All-Refrigerator - manual defrost,ARM024S1ARSV,213,2.4,Yes,88.75,11A,2.4,213.0,ARM024S1ARSV
+11A - Compact All-Refrigerator - manual defrost,ARM024S1ARWW,213,2.4,Yes,88.75,11A,2.4,213.0,ARM024S1ARWW
+11A - Compact All-Refrigerator - manual defrost,ARM044S1ARSV,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,ARM044S1ARSV
+13A - Compact All-Refrigerators - automatic defrost,ARM17A5ABB,246,1.7,Yes,144.7058823529412,13A,1.7,246.0,ARM17A5ABB
+11A - Compact All-Refrigerator - manual defrost,ARM24S4AWW,213,2.4,Yes,88.75,11A,2.4,213.0,ARM24S4AWW
+12 - Compact Refrigerator-Freezer - partial automatic defrost,ARM320D1ARSV,270,3.8,Yes,71.05263157894737,12,3.8,270.0,ARM320D1ARSV
+12 - Compact Refrigerator-Freezer - partial automatic defrost,ARM32D5ABB,270,3.8,Yes,71.05263157894737,12,3.8,270.0,ARM32D5ABB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,ARM32D5ASL,270,3.8,Yes,71.05263157894737,12,3.8,270.0,ARM32D5ASL
+11A - Compact All-Refrigerator - manual defrost,ARM33S5ABB,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,ARM33S5ABB
+11A - Compact All-Refrigerator - manual defrost,ARM33S5ASL,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,ARM33S5ASL
+13A - Compact All-Refrigerators - automatic defrost,ARM44A5ASL,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,ARM44A5ASL
+11A - Compact All-Refrigerator - manual defrost,ARM44S5ABB,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,ARM44S5ABB
+11A - Compact All-Refrigerator - manual defrost,ARU33B1ABB,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,ARU33B1ABB
+11A - Compact All-Refrigerator - manual defrost,ARU33B1AWW,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,ARU33B1AWW
+3 - Freestanding Compact Cooler,ARW14B0ABB,121,1.5,Yes,80.66666666666667,3,1.5,121.0,ARW14B0ABB
+3 - Freestanding Compact Cooler,ARW24S1ABB,138,2.3,Yes,60.00000000000001,3,2.3,138.0,ARW24S1ABB
+3 - Freestanding Compact Cooler,ARW34S1ABB,143,3.3,Yes,43.333333333333336,3,3.3,143.0,ARW34S1ABB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,ATMP031AEB,270,3.8,Yes,71.05263157894737,12,3.8,270.0,ATMP031AEB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,ATMP031AES,270,3.8,Yes,71.05263157894737,12,3.8,270.0,ATMP031AES
+12 - Compact Refrigerator-Freezer - partial automatic defrost,ATMP031AET,270,3.8,Yes,71.05263157894737,12,3.8,270.0,ATMP031AET
+12 - Compact Refrigerator-Freezer - partial automatic defrost,ATMP031AEW,270,3.8,Yes,71.05263157894737,12,3.8,270.0,ATMP031AEW
+13A - Compact All-Refrigerators - automatic defrost,AU83ETWBR1RCM,167,8.3,Yes,20.12048192771084,13A,8.3,167.0,AU83ETWBR1RCM
+11A - Compact All-Refrigerator - manual defrost,FKAFRM024AEU,213,2.4,Yes,88.75,11A,2.4,213.0,FKAFRM024AEU
+12 - Compact Refrigerator-Freezer - partial automatic defrost,FKATMP031AEB,270,3.8,Yes,71.05263157894737,12,3.8,270.0,FKATMP031AEB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,FKATMP031AEW,270,3.8,Yes,71.05263157894737,12,3.8,270.0,FKATMP031AEW
+11A - Compact All-Refrigerator - manual defrost,1AW1BF44A,226,4.2,Yes,53.80952380952381,11A,4.2,226.0,1AW1BF44A
+12 - Compact Refrigerator-Freezer - partial automatic defrost,1AW2BF33A,322,3.9,Yes,82.56410256410257,12,3.9,322.0,1AW2BF33A
+13A - Compact All-Refrigerators - automatic defrost,OR525U5D,265,4.7,Yes,56.38297872340425,13A,4.7,265.0,OR525U5D
+13A - Compact All-Refrigerators - automatic defrost,OR543U3S,235,5.3,Yes,44.339622641509436,13A,5.3,235.0,OR543U3S
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA31B0W,320,3.8,Yes,84.21052631578948,12,3.8,320.0,RA31B0W
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA31B1B,320,3.8,Yes,84.21052631578948,12,3.8,320.0,RA31B1B
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA31B3S,320,3.8,Yes,84.21052631578948,12,3.8,320.0,RA31B3S
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA32J0W,312,3.9,Yes,80.0,12,3.9,312.0,RA32J0W
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA32J1B,312,3.9,Yes,80.0,12,3.9,312.0,RA32J1B
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA32J3S,312,3.9,Yes,80.0,12,3.9,312.0,RA32J3S
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA45B3S,327,5.4,Yes,60.55555555555555,12,5.4,327.0,RA45B3S
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA7306WT,345,8.4,Yes,41.07142857142857,12,8.4,345.0,RA7306WT
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA730B0W,344,8.3,Yes,41.44578313253012,12,8.3,344.0,RA730B0W
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA730B0W-IS,344,8.3,Yes,41.44578313253012,12,8.3,344.0,RA730B0W-IS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA731B1B,344,8.3,Yes,41.44578313253012,12,8.3,344.0,RA731B1B
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA731B1B-IS,344,8.3,Yes,41.44578313253012,12,8.3,344.0,RA731B1B-IS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA7326BT,345,8.4,Yes,41.07142857142857,12,8.4,345.0,RA7326BT
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA733B3S,344,8.3,Yes,41.44578313253012,12,8.3,344.0,RA733B3S
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA733B3S-IS,344,8.3,Yes,41.44578313253012,12,8.3,344.0,RA733B3S-IS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RA75V**,345,8.5,Yes,40.588235294117645,12,8.5,345.0,RA75V..
+11A - Compact All-Refrigerator - manual defrost,RM24T1B,200,2.4,Yes,83.33333333333334,11A,2.4,200.0,RM24T1B
+11A - Compact All-Refrigerator - manual defrost,RM32J0W,218,3.2,Yes,68.125,11A,3.2,218.0,RM32J0W
+11A - Compact All-Refrigerator - manual defrost,RM32J1B,218,3.2,Yes,68.125,11A,3.2,218.0,RM32J1B
+11A - Compact All-Refrigerator - manual defrost,RM32JS,218,3.2,Yes,68.125,11A,3.2,218.0,RM32JS
+11A - Compact All-Refrigerator - manual defrost,RM3306W,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,RM3306W
+11A - Compact All-Refrigerator - manual defrost,RM3316B,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,RM3316B
+13A - Compact All-Refrigerators - automatic defrost,CCP06BP*P***,274,5.1,Yes,53.72549019607843,13A,5.1,274.0,CCP06BP.P...
+13A - Compact All-Refrigerators - automatic defrost,CCR06BM*P***,274,5.1,Yes,53.72549019607843,13A,5.1,274.0,CCR06BM.P...
+11A - Compact All-Refrigerator - manual defrost,RM4406W,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,RM4406W
+11A - Compact All-Refrigerator - manual defrost,RM4416B,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,RM4416B
+11A - Compact All-Refrigerator - manual defrost,RM4436SS,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,RM4436SS
+11A - Compact All-Refrigerator - manual defrost,RM46J0W,229,4.6,Yes,49.78260869565218,11A,4.6,229.0,RM46J0W
+11A - Compact All-Refrigerator - manual defrost,RM46J1B,229,4.6,Yes,49.78260869565218,11A,4.6,229.0,RM46J1B
+11A - Compact All-Refrigerator - manual defrost,RM46J3S,229,4.6,Yes,49.78260869565218,11A,4.6,229.0,RM46J3S
+11A - Compact All-Refrigerator - manual defrost,RM52T1BB,228,5.2,Yes,43.84615384615385,11A,5.2,228.0,RM52T1BB
+11A - Compact All-Refrigerator - manual defrost,RMRC17X6BL-IS,178,1.7,Yes,104.70588235294117,11A,1.7,178.0,RMRC17X6BL-IS
+11A - Compact All-Refrigerator - manual defrost,RMRC17X**-IS,178,1.7,Yes,104.70588235294117,11A,1.7,178.0,RMRC17X..-IS
+11A - Compact All-Refrigerator - manual defrost,RMRS31X6BL-IS,169,3.0,Yes,56.333333333333336,11A,3.0,169.0,RMRS31X6BL-IS
+11A - Compact All-Refrigerator - manual defrost,RMRS31X**-IS,169,3.0,Yes,56.333333333333336,11A,3.0,169.0,RMRS31X..-IS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RMS551SS,338,7.2,Yes,46.94444444444444,12,7.2,338.0,RMS551SS
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,RMX45B3S,265,5.0,Yes,53.0,11,5.0,265.0,RMX45B3S
+12 - Compact Refrigerator-Freezer - partial automatic defrost,BCRDK32*,321,3.8,Yes,84.47368421052632,12,3.8,321.0,BCRDK32.
+11A - Compact All-Refrigerator - manual defrost,BCRDK56,235,5.5,Yes,42.72727272727273,11A,5.5,235.0,BCRDK56
+11A - Compact All-Refrigerator - manual defrost,BCRK17B,201,1.7,Yes,118.23529411764706,11A,1.7,201.0,BCRK17B
+11A - Compact All-Refrigerator - manual defrost,BCRK25B,212,2.5,Yes,84.8,11A,2.5,212.0,BCRK25B
+11A - Compact All-Refrigerator - manual defrost,BCRK32B,219,3.2,Yes,68.4375,11A,3.2,219.0,BCRK32B
+11A - Compact All-Refrigerator - manual defrost,BCRK43B,226,4.3,Yes,52.55813953488372,11A,4.3,226.0,BCRK43B
+11A - Compact All-Refrigerator - manual defrost,BCRR4ALB,227,4.4,Yes,51.590909090909086,11A,4.4,227.0,BCRR4ALB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,BCRR4LB,324,4.3,Yes,75.34883720930233,12,4.3,324.0,BCRR4LB
+13A - Compact All-Refrigerators - automatic defrost,BLZ-SSRF126,268,4.4,Yes,60.90909090909091,13A,4.4,268.0,BLZ-SSRF126
+13A - Compact All-Refrigerators - automatic defrost,BLZ-SSRF-15,257,3.1,Yes,82.90322580645162,13A,3.1,257.0,BLZ-SSRF-15
+13A - Compact All-Refrigerators - automatic defrost,BLZ-SSRF-50DH,235,5.3,Yes,44.339622641509436,13A,5.3,235.0,BLZ-SSRF-50DH
+13A - Compact All-Refrigerators - automatic defrost,BLZ-SSRF-5.5,276,5.5,Yes,50.18181818181818,13A,5.5,276.0,BLZ-SSRF-5.5
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CTMR74C1B,345,8.5,Yes,40.588235294117645,12,8.5,345.0,CTMR74C1B
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CTMR74C1S,345,8.5,Yes,40.588235294117645,12,8.5,345.0,CTMR74C1S
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CTMR74C1W,345,8.5,Yes,40.588235294117645,12,8.5,345.0,CTMR74C1W
+11A - Compact All-Refrigerator - manual defrost,ARX443UW,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,ARX443UW
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,043-1893-6,220,3.3,Yes,66.66666666666667,11,3.3,220.0,043-1893-6
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,043-1894-4,226,4.5,Yes,50.22222222222222,11,4.5,226.0,043-1894-4
+13A - Compact All-Refrigerators - automatic defrost,CDE06RP*N***,279,5.7,Yes,48.94736842105263,13A,5.7,279.0,CDE06RP.N...
+13A - Compact All-Refrigerators - automatic defrost,A107-7000-9000,198,2.7,Yes,73.33333333333333,13A,2.7,198.0,A107-7000-9000
+11A - Compact All-Refrigerator - manual defrost,CQRD02Z1GD1S,210,2.3,Yes,91.30434782608697,11A,2.3,210.0,CQRD02Z1GD1S
+11A - Compact All-Refrigerator - manual defrost,CQRD02Z1GD1W,210,2.3,Yes,91.30434782608697,11A,2.3,210.0,CQRD02Z1GD1W
+11A - Compact All-Refrigerator - manual defrost,CQRD04Z1GD1S,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,CQRD04Z1GD1S
+11A - Compact All-Refrigerator - manual defrost,CQRD04Z1GD1W,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,CQRD04Z1GD1W
+11A - Compact All-Refrigerator - manual defrost,CKRF32CR,218,3.2,Yes,68.125,11A,3.2,218.0,CKRF32CR
+11A - Compact All-Refrigerator - manual defrost,CRF16CK,158,1.6,Yes,98.75,11A,1.6,158.0,CRF16CK
+11A - Compact All-Refrigerator - manual defrost,CRF170COKE,176,1.6,Yes,110.0,11A,1.6,176.0,CRF170COKE
+11A - Compact All-Refrigerator - manual defrost,CRF26CK,208,2.6,Yes,80.0,11A,2.6,208.0,CRF26CK
+11A - Compact All-Refrigerator - manual defrost,CRF32CK,197,3.2,Yes,61.5625,11A,3.2,197.0,CRF32CK
+13A - Compact All-Refrigerators - automatic defrost,CRM17S3ABB,246,1.7,Yes,144.7058823529412,13A,1.7,246.0,CRM17S3ABB
+13A - Compact All-Refrigerators - automatic defrost,CRM17S3AST,246,1.7,Yes,144.7058823529412,13A,1.7,246.0,CRM17S3AST
+13A - Compact All-Refrigerators - automatic defrost,CRM27S3ABB,255,2.7,Yes,94.44444444444444,13A,2.7,255.0,CRM27S3ABB
+13A - Compact All-Refrigerators - automatic defrost,CRM27S3AST,255,2.7,Yes,94.44444444444444,13A,2.7,255.0,CRM27S3AST
+13A - Compact All-Refrigerators - automatic defrost,CRM33S3ABB,260,3.3,Yes,78.7878787878788,13A,3.3,260.0,CRM33S3ABB
+13A - Compact All-Refrigerators - automatic defrost,CRM33S3AST,260,3.3,Yes,78.7878787878788,13A,3.3,260.0,CRM33S3AST
+13A - Compact All-Refrigerators - automatic defrost,CRM44S3ABB,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,CRM44S3ABB
+13A - Compact All-Refrigerators - automatic defrost,CRM44S3AST,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,CRM44S3AST
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CRM45D3ABB,329,5.6,Yes,58.75000000000001,12,5.6,329.0,CRM45D3ABB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CRM45D3AST,329,5.6,Yes,58.75000000000001,12,5.6,329.0,CRM45D3AST
+11A - Compact All-Refrigerator - manual defrost,CRR16S3ABB,208,1.6,Yes,130.0,11A,1.6,208.0,CRR16S3ABB
+11A - Compact All-Refrigerator - manual defrost,CRR16S3ARD,208,1.6,Yes,130.0,11A,1.6,208.0,CRR16S3ARD
+11A - Compact All-Refrigerator - manual defrost,CRR33S3ABB,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,CRR33S3ABB
+11A - Compact All-Refrigerator - manual defrost,CRR33S3ARD,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,CRR33S3ARD
+11A - Compact All-Refrigerator - manual defrost,CCRR4ALB,227,4.4,Yes,51.590909090909086,11A,4.4,227.0,CCRR4ALB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CCRR4LB,324,4.3,Yes,75.34883720930233,12,4.3,324.0,CCRR4LB
+11A - Compact All-Refrigerator - manual defrost,CCR16CE2B,207,1.6,Yes,129.375,11A,1.6,207.0,CCR16CE2B
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CCR312DCE2S,270,3.8,Yes,71.05263157894737,12,3.8,270.0,CCR312DCE2S
+11A - Compact All-Refrigerator - manual defrost,CCR33CE1B,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,CCR33CE1B
+11A - Compact All-Refrigerator - manual defrost,CCR33CE2B,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,CCR33CE2B
+11A - Compact All-Refrigerator - manual defrost,CCR44CE1F,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,CCR44CE1F
+11A - Compact All-Refrigerator - manual defrost,CCR44CE1W,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,CCR44CE1W
+11A - Compact All-Refrigerator - manual defrost,CCR44CE2B,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,CCR44CE2B
+11A - Compact All-Refrigerator - manual defrost,CCR44CE2S,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,CCR44CE2S
+11A - Compact All-Refrigerator - manual defrost,FR-044RVBE,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,FR-044RVBE
+11A - Compact All-Refrigerator - manual defrost,FR-044RVSE,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,FR-044RVSE
+11A - Compact All-Refrigerator - manual defrost,FR-044RVWE,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,FR-044RVWE
+13A - Compact All-Refrigerators - automatic defrost,C40G1,162,1.1,Yes,147.27272727272725,13A,1.1,162.0,C40G1
+13A - Compact All-Refrigerators - automatic defrost,C40G2,162,1.1,Yes,147.27272727272725,13A,1.1,162.0,C40G2
+13A - Compact All-Refrigerators - automatic defrost,C40S1,106,1.1,Yes,96.36363636363636,13A,1.1,106.0,C40S1
+13A - Compact All-Refrigerators - automatic defrost,C40S2,106,1.1,Yes,96.36363636363636,13A,1.1,106.0,C40S2
+13A - Compact All-Refrigerators - automatic defrost,C60G1,170,1.7,Yes,100.0,13A,1.7,170.0,C60G1
+13A - Compact All-Refrigerators - automatic defrost,C60G2,170,1.7,Yes,100.0,13A,1.7,170.0,C60G2
+13A - Compact All-Refrigerators - automatic defrost,C60S1,145,1.7,Yes,85.29411764705883,13A,1.7,145.0,C60S1
+13A - Compact All-Refrigerators - automatic defrost,C60S2,145,1.7,Yes,85.29411764705883,13A,1.7,145.0,C60S2
+13A - Compact All-Refrigerators - automatic defrost,DM50C D,186,1.8,Yes,103.33333333333333,13A,1.8,186.0,DM50C D
+13A - Compact All-Refrigerators - automatic defrost,EFBX100,243,1.3,Yes,186.9230769230769,13A,1.3,243.0,EFBX100
+12 - Compact Refrigerator-Freezer - partial automatic defrost,EF-32199-B-2,199,3.9,Yes,51.02564102564103,12,3.9,199.0,EF-32199-B-2
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CRF321SS,270,3.8,Yes,71.05263157894737,12,3.8,270.0,CRF321SS
+11A - Compact All-Refrigerator - manual defrost,ERD05W3MMS,207,1.6,Yes,129.375,11A,1.6,207.0,ERD05W3MMS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,EACD03000***,318,3.7,Yes,85.94594594594594,12,3.7,318.0,EACD03000...
+12 - Compact Refrigerator-Freezer - partial automatic defrost,EACD03000B1A,318,3.7,Yes,85.94594594594594,12,3.7,318.0,EACD03000B1A
+12 - Compact Refrigerator-Freezer - partial automatic defrost,EACD03000SS1A,318,3.7,Yes,85.94594594594594,12,3.7,318.0,EACD03000SS1A
+12 - Compact Refrigerator-Freezer - partial automatic defrost,EACD03000V1A,318,3.7,Yes,85.94594594594594,12,3.7,318.0,EACD03000V1A
+12 - Compact Refrigerator-Freezer - partial automatic defrost,EACD03000W1A,318,3.7,Yes,85.94594594594594,12,3.7,318.0,EACD03000W1A
+13A - Compact All-Refrigerators - automatic defrost,DAR010A1*,241,1.0,Yes,241.0,13A,1.0,241.0,DAR010A1.
+13A - Compact All-Refrigerators - automatic defrost,DAR016A1*,245,1.6,Yes,153.125,13A,1.6,245.0,DAR016A1.
+13A - Compact All-Refrigerators - automatic defrost,DAR016B1BM,245,1.6,Yes,153.125,13A,1.6,245.0,DAR016B1BM
+13A - Compact All-Refrigerators - automatic defrost,DAR016B1BM-6,245,1.6,Yes,153.125,13A,1.6,245.0,DAR016B1BM-6
+13A - Compact All-Refrigerators - automatic defrost,DAR017A3*,221,1.7,Yes,130.0,13A,1.7,221.0,DAR017A3.
+13A - Compact All-Refrigerators - automatic defrost,DAR022A1BDB,208,2.2,Yes,94.54545454545453,13A,2.2,208.0,DAR022A1BDB
+13A - Compact All-Refrigerators - automatic defrost,DAR022A1SLDB,208,2.2,Yes,94.54545454545453,13A,2.2,208.0,DAR022A1SLDB
+13A - Compact All-Refrigerators - automatic defrost,DAR023C1*,252,2.3,Yes,109.56521739130436,13A,2.3,252.0,DAR023C1.
+13A - Compact All-Refrigerators - automatic defrost,DAR026A2*,253,2.6,Yes,97.3076923076923,13A,2.6,253.0,DAR026A2.
+13A - Compact All-Refrigerators - automatic defrost,DAR033A6*,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,DAR033A6.
+13A - Compact All-Refrigerators - automatic defrost,DAR044A1SSO-6,268,4.4,Yes,60.90909090909091,13A,4.4,268.0,DAR044A1SSO-6
+13A - Compact All-Refrigerators - automatic defrost,DAR044A6*,268,4.4,Yes,60.90909090909091,13A,4.4,268.0,DAR044A6.
+13A - Compact All-Refrigerators - automatic defrost,DAR044A9*,268,4.4,Yes,60.90909090909091,13A,4.4,268.0,DAR044A9.
+13A - Compact All-Refrigerators - automatic defrost,DAR044CA6*,268,4.4,Yes,60.90909090909091,13A,4.4,268.0,DAR044CA6.
+13A - Compact All-Refrigerators - automatic defrost,DBC117A1*,258,3.1,Yes,83.2258064516129,13A,3.1,258.0,DBC117A1.
+13A - Compact All-Refrigerators - automatic defrost,DBC117A2*,258,3.1,Yes,83.2258064516129,13A,3.1,258.0,DBC117A2.
+11A - Compact All-Refrigerator - manual defrost,DBCR031BB31,218,3.1,Yes,70.3225806451613,11A,3.1,218.0,DBCR031BB31
+11A - Compact All-Refrigerator - manual defrost,DBCR031SB31,218,3.1,Yes,70.3225806451613,11A,3.1,218.0,DBCR031SB31
+11A - Compact All-Refrigerator - manual defrost,DBCR031WB31,218,3.1,Yes,70.3225806451613,11A,3.1,218.0,DBCR031WB31
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DCR032C3*,320,3.9,Yes,82.05128205128206,12,3.9,320.0,DCR032C3.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DCR041C1*,325,4.9,Yes,66.3265306122449,12,4.9,325.0,DCR041C1.
+11A - Compact All-Refrigerator - manual defrost,DCR044B1BM,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,DCR044B1BM
+11A - Compact All-Refrigerator - manual defrost,DCR044B1BM-6,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,DCR044B1BM-6
+11A - Compact All-Refrigerator - manual defrost,DCR044B1SLM,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,DCR044B1SLM
+11A - Compact All-Refrigerator - manual defrost,DCR044B1SLM-6,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,DCR044B1SLM-6
+11A - Compact All-Refrigerator - manual defrost,DCR044B1WM,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,DCR044B1WM
+11A - Compact All-Refrigerator - manual defrost,DCR044B1WM-6,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,DCR044B1WM-6
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,DCR045B1******,265,5.0,Yes,53.0,11,5.0,265.0,DCR045B1......
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,DCR045B1BSLDB,265,5.0,Yes,53.0,11,5.0,265.0,DCR045B1BSLDB
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,DCR045B1BSLDB-3,265,5.0,Yes,53.0,11,5.0,265.0,DCR045B1BSLDB-3
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DCR045B1SLDB,327,5.4,Yes,60.55555555555555,12,5.4,327.0,DCR045B1SLDB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DCR047A1*,331,5.9,Yes,56.101694915254235,12,5.9,331.0,DCR047A1.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DCRD042C1*,325,5.0,Yes,65.0,12,5.0,325.0,DCRD042C1.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DCRD042C1BDB,325,5.0,Yes,65.0,12,5.0,325.0,DCRD042C1BDB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DCRD042C1BSLDB,325,5.0,Yes,65.0,12,5.0,325.0,DCRD042C1BSLDB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DCRD042C1BSSDB,325,5.0,Yes,65.0,12,5.0,325.0,DCRD042C1BSSDB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DCRD042C1BSSDB-3,325,5.0,Yes,65.0,12,5.0,325.0,DCRD042C1BSSDB-3
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DCRD042C1WDB,325,5.0,Yes,65.0,12,5.0,325.0,DCRD042C1WDB
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,DFF048A4WDB,346,5.8,Yes,59.6551724137931,13,5.8,346.0,DFF048A4WDB
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,DFF070B1BSLDB-6,393,8.5,Yes,46.23529411764706,13,8.5,393.0,DFF070B1BSLDB-6
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DPF073C2BDB,343,8.5,Yes,40.35294117647059,12,8.5,343.0,DPF073C2BDB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DPF073C2WDB,343,8.5,Yes,40.35294117647059,12,8.5,343.0,DPF073C2WDB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DPF073C3BDB,344,8.5,Yes,40.470588235294116,12,8.5,344.0,DPF073C3BDB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DPF073C3BSLDB,344,8.5,Yes,40.470588235294116,12,8.5,344.0,DPF073C3BSLDB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DPF073C3WDB,344,8.5,Yes,40.470588235294116,12,8.5,344.0,DPF073C3WDB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DPF074B2BDB-6,344,8.3,Yes,41.44578313253012,12,8.3,344.0,DPF074B2BDB-6
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DPF074B2BSLDB-6,344,8.3,Yes,41.44578313253012,12,8.3,344.0,DPF074B2BSLDB-6
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DPF074B2WDB-6,344,8.3,Yes,41.44578313253012,12,8.3,344.0,DPF074B2WDB-6
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DPF074V1SLDB-6,345,8.5,Yes,40.588235294117645,12,8.5,345.0,DPF074V1SLDB-6
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DPF074V1WDB-6,345,8.5,Yes,40.588235294117645,12,8.5,345.0,DPF074V1WDB-6
+13A - Compact All-Refrigerators - automatic defrost,DAR017A2*,221,1.7,Yes,130.0,13A,1.7,221.0,DAR017A2.
+13A - Compact All-Refrigerators - automatic defrost,DAR026A1*,253,2.6,Yes,97.3076923076923,13A,2.6,253.0,DAR026A1.
+13A - Compact All-Refrigerators - automatic defrost,DAR044A4*,268,4.4,Yes,60.90909090909091,13A,4.4,268.0,DAR044A4.
+13A - Compact All-Refrigerators - automatic defrost,DAR044A8*,268,4.4,Yes,60.90909090909091,13A,4.4,268.0,DAR044A8.
+13A - Compact All-Refrigerators - automatic defrost,DAR044CA7*,268,4.4,Yes,60.90909090909091,13A,4.4,268.0,DAR044CA7.
+11A - Compact All-Refrigerator - manual defrost,DCR016A1*,207,1.6,Yes,129.375,11A,1.6,207.0,DCR016A1.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DCR031B1BSLDD,319,3.8,Yes,83.94736842105263,12,3.8,319.0,DCR031B1BSLDD
+12 - Compact Refrigerator-Freezer - partial automatic defrost,DCR031B1WDD,319,3.8,Yes,83.94736842105263,12,3.8,319.0,DCR031B1WDD
+11A - Compact All-Refrigerator - manual defrost,DCR032A2*,218,3.2,Yes,68.125,11A,3.2,218.0,DCR032A2.
+11A - Compact All-Refrigerator - manual defrost,DCR044A2*,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,DCR044A2.
+11A - Compact All-Refrigerator - manual defrost,DCR044A4*,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,DCR044A4.
+13A - Compact All-Refrigerators - automatic defrost,DAR032B1BM,259,3.2,Yes,80.9375,13A,3.2,259.0,DAR032B1BM
+13A - Compact All-Refrigerators - automatic defrost,DAR032B1SLM,259,3.2,Yes,80.9375,13A,3.2,259.0,DAR032B1SLM
+13A - Compact All-Refrigerators - automatic defrost,DAR032B1WM,259,3.2,Yes,80.9375,13A,3.2,259.0,DAR032B1WM
+13A - Compact All-Refrigerators - automatic defrost,DAR032B2BM,259,3.2,Yes,80.9375,13A,3.2,259.0,DAR032B2BM
+13A - Compact All-Refrigerators - automatic defrost,DAR032B2SLM,259,3.2,Yes,80.9375,13A,3.2,259.0,DAR032B2SLM
+13A - Compact All-Refrigerators - automatic defrost,DAR032B2WM,259,3.2,Yes,80.9375,13A,3.2,259.0,DAR032B2WM
+11A - Compact All-Refrigerator - manual defrost,DCR017B1BM,207,1.7,Yes,121.76470588235294,11A,1.7,207.0,DCR017B1BM
+11A - Compact All-Refrigerator - manual defrost,DCR033B1BM,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,DCR033B1BM
+11A - Compact All-Refrigerator - manual defrost,DCR033B1SLM,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,DCR033B1SLM
+11A - Compact All-Refrigerator - manual defrost,DCR033B1SLM-6,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,DCR033B1SLM-6
+11A - Compact All-Refrigerator - manual defrost,DCR033B1WM,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,DCR033B1WM
+11A - Compact All-Refrigerator - manual defrost,DCR033B2BM,220,3.2,Yes,68.75,11A,3.2,220.0,DCR033B2BM
+11A - Compact All-Refrigerator - manual defrost,DCR033B2SLM,220,3.2,Yes,68.75,11A,3.2,220.0,DCR033B2SLM
+11A - Compact All-Refrigerator - manual defrost,DCR033B2SLM-6,220,3.2,Yes,68.75,11A,3.2,220.0,DCR033B2SLM-6
+11A - Compact All-Refrigerator - manual defrost,DCR033B2WM,220,3.2,Yes,68.75,11A,3.2,220.0,DCR033B2WM
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.1SM6R,195,3.8,Yes,51.31578947368421,12,3.8,195.0,3.1SM6R
+13A - Compact All-Refrigerators - automatic defrost,2.6SM4*,228,2.6,Yes,87.6923076923077,13A,2.6,228.0,2.6SM4.
+13A - Compact All-Refrigerators - automatic defrost,3.2SM4*,258,3.2,Yes,80.625,13A,3.2,258.0,3.2SM4.
+13A - Compact All-Refrigerators - automatic defrost,3.3SM4*,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,3.3SM4.
+13A - Compact All-Refrigerators - automatic defrost,DAR033A1*,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,DAR033A1.
+11A - Compact All-Refrigerator - manual defrost,DCR016A3*,207,1.6,Yes,129.375,11A,1.6,207.0,DCR016A3.
+13A - Compact All-Refrigerators - automatic defrost,RF24BT*1,267,5.7,Yes,46.84210526315789,13A,5.7,267.0,RF24BT.1
+13A - Compact All-Refrigerators - automatic defrost,RF24DE3,202,5.0,Yes,40.4,13A,5.0,202.0,RF24DE3
+13A - Compact All-Refrigerators - automatic defrost,RF24DE4,199,5.0,Yes,39.8,13A,5.0,199.0,RF24DE4
+13A - Compact All-Refrigerators - automatic defrost,RF24*E4,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,RF24.E4
+13A - Compact All-Refrigerators - automatic defrost,RF24LE3,186,5.1,Yes,36.47058823529412,13A,5.1,186.0,RF24LE3
+13A - Compact All-Refrigerators - automatic defrost,RF24RE3,186,5.1,Yes,36.47058823529412,13A,5.1,186.0,RF24RE3
+13A - Compact All-Refrigerators - automatic defrost,RF24T*1,267,5.7,Yes,46.84210526315789,13A,5.7,267.0,RF24T.1
+12 - Compact Refrigerator-Freezer - partial automatic defrost,FR 742 BX,336,8.5,Yes,39.529411764705884,12,8.5,336.0,FR 742 BX
+11A - Compact All-Refrigerator - manual defrost,FTC16RE,200,1.6,Yes,125.0,11A,1.6,200.0,FTC16RE
+11A - Compact All-Refrigerator - manual defrost,FTC17R,206,1.7,Yes,121.1764705882353,11A,1.7,206.0,FTC17R
+11A - Compact All-Refrigerator - manual defrost,FTC24RE,210,2.4,Yes,87.5,11A,2.4,210.0,FTC24RE
+11A - Compact All-Refrigerator - manual defrost,FTC25R,212,2.5,Yes,84.8,11A,2.5,212.0,FTC25R
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,FTC30RF,253,3.7,Yes,68.37837837837837,11,3.7,253.0,FTC30RF
+11A - Compact All-Refrigerator - manual defrost,FTC31R,216,3.0,Yes,72.0,11A,3.0,216.0,FTC31R
+11A - Compact All-Refrigerator - manual defrost,FTC31RE,215,3.1,Yes,69.35483870967742,11A,3.1,215.0,FTC31RE
+11A - Compact All-Refrigerator - manual defrost,FTC45R,226,4.5,Yes,50.22222222222222,11A,4.5,226.0,FTC45R
+12 - Compact Refrigerator-Freezer - partial automatic defrost,FMD440M6RVE,328,5.0,Yes,65.6,12,5.0,328.0,FMD440M6RVE
+11A - Compact All-Refrigerator - manual defrost,FRR44D6A*E,226,4.2,Yes,53.80952380952381,11A,4.2,226.0,FRR44D6A.E
+11A - Compact All-Refrigerator - manual defrost,EFR331,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR331
+11A - Compact All-Refrigerator - manual defrost,EFR107-B-BLACK-COM,206,1.6,Yes,128.75,11A,1.6,206.0,EFR107-B-BLACK-COM
+11A - Compact All-Refrigerator - manual defrost,EFR107-B-WHITE,158,1.6,Yes,98.75,11A,1.6,158.0,EFR107-B-WHITE
+11A - Compact All-Refrigerator - manual defrost,EFR107-WHITE,158,1.6,Yes,98.75,11A,1.6,158.0,EFR107-WHITE
+11A - Compact All-Refrigerator - manual defrost,EFR107-WHITE,206,1.6,Yes,128.75,11A,1.6,206.0,EFR107-WHITE
+11A - Compact All-Refrigerator - manual defrost,EFR115,202,1.7,Yes,118.82352941176471,11A,1.7,202.0,EFR115
+11A - Compact All-Refrigerator - manual defrost,EFR115-B-BLACK,158,1.6,Yes,98.75,11A,1.6,158.0,EFR115-B-BLACK
+11A - Compact All-Refrigerator - manual defrost,EFR115-B-BLACK,206,1.6,Yes,128.75,11A,1.6,206.0,EFR115-B-BLACK
+11A - Compact All-Refrigerator - manual defrost,EFR115-B-BLUE-COM,206,1.6,Yes,128.75,11A,1.6,206.0,EFR115-B-BLUE-COM
+11A - Compact All-Refrigerator - manual defrost,EFR115-B-PURPLE-COM,206,1.6,Yes,128.75,11A,1.6,206.0,EFR115-B-PURPLE-COM
+11A - Compact All-Refrigerator - manual defrost,EFR115-B-RED,158,1.6,Yes,98.75,11A,1.6,158.0,EFR115-B-RED
+11A - Compact All-Refrigerator - manual defrost,EFR115-B-RED,206,1.6,Yes,128.75,11A,1.6,206.0,EFR115-B-RED
+11A - Compact All-Refrigerator - manual defrost,EFR115-B-WHITE,206,1.6,Yes,128.75,11A,1.6,206.0,EFR115-B-WHITE
+11A - Compact All-Refrigerator - manual defrost,EFR115-C-RED-COM,158,1.6,Yes,98.75,11A,1.6,158.0,EFR115-C-RED-COM
+11A - Compact All-Refrigerator - manual defrost,EFR115-C-RED-COM,206,1.6,Yes,128.75,11A,1.6,206.0,EFR115-C-RED-COM
+11A - Compact All-Refrigerator - manual defrost,EFR176-B-BLACK-COM,206,1.6,Yes,128.75,11A,1.6,206.0,EFR176-B-BLACK-COM
+11A - Compact All-Refrigerator - manual defrost,EFR176-B-BLUE-COM,206,1.6,Yes,128.75,11A,1.6,206.0,EFR176-B-BLUE-COM
+11A - Compact All-Refrigerator - manual defrost,EFR176-B-CORAL-COM,206,1.6,Yes,128.75,11A,1.6,206.0,EFR176-B-CORAL-COM
+11A - Compact All-Refrigerator - manual defrost,EFR176-BLACK_AMZ,206,1.6,Yes,128.75,11A,1.6,206.0,EFR176-BLACK_AMZ
+11A - Compact All-Refrigerator - manual defrost,EFR176-B-MOONBM-COM,206,1.6,Yes,128.75,11A,1.6,206.0,EFR176-B-MOONBM-COM
+11A - Compact All-Refrigerator - manual defrost,EFR176-B-RED-COM,206,1.6,Yes,128.75,11A,1.6,206.0,EFR176-B-RED-COM
+11A - Compact All-Refrigerator - manual defrost,EFR176-CORAL_AMZ,206,1.6,Yes,128.75,11A,1.6,206.0,EFR176-CORAL_AMZ
+11A - Compact All-Refrigerator - manual defrost,EFR177-B-BLACK,206,1.6,Yes,128.75,11A,1.6,206.0,EFR177-B-BLACK
+11A - Compact All-Refrigerator - manual defrost,EFR177-B-BLUE,158,1.6,Yes,98.75,11A,1.6,158.0,EFR177-B-BLUE
+11A - Compact All-Refrigerator - manual defrost,EFR177-B-BLUE,206,1.6,Yes,128.75,11A,1.6,206.0,EFR177-B-BLUE
+11A - Compact All-Refrigerator - manual defrost,EFR177-B-RED,158,1.6,Yes,98.75,11A,1.6,158.0,EFR177-B-RED
+11A - Compact All-Refrigerator - manual defrost,EFR177-B-RED,206,1.6,Yes,128.75,11A,1.6,206.0,EFR177-B-RED
+12 - Compact Refrigerator-Freezer - partial automatic defrost,EUFM71001AS,343,8.2,Yes,41.82926829268293,12,8.2,343.0,EUFM71001AS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,453-6340,320,3.8,Yes,84.21052631578948,12,3.8,320.0,453-6340
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CR510VSE*,270,3.8,Yes,71.05263157894737,12,3.8,270.0,CR510VSE.
+11A - Compact All-Refrigerator - manual defrost,DF1-07*,207,1.7,Yes,121.76470588235294,11A,1.7,207.0,DF1-07.
+11A - Compact All-Refrigerator - manual defrost,DF1-11S*,220,3.2,Yes,68.75,11A,3.2,220.0,DF1-11S.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,263 TMF0700WH,345,8.5,Yes,40.588235294117645,12,8.5,345.0,263 TMF0700WH
+12 - Compact Refrigerator-Freezer - partial automatic defrost,263 TMF0712BL,345,8.5,Yes,40.588235294117645,12,8.5,345.0,263 TMF0712BL
+12 - Compact Refrigerator-Freezer - partial automatic defrost,263 TMF0724SSL,345,8.5,Yes,40.588235294117645,12,8.5,345.0,263 TMF0724SSL
+13A - Compact All-Refrigerators - automatic defrost,3589-DL,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,3589-DL
+13A - Compact All-Refrigerators - automatic defrost,3589-DR,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,3589-DR
+13A - Compact All-Refrigerators - automatic defrost,RB36S,150,3.7,Yes,40.54054054054054,13A,3.7,150.0,RB36S
+11A - Compact All-Refrigerator - manual defrost,EFR180,158,1.6,Yes,98.75,11A,1.6,158.0,EFR180
+11A - Compact All-Refrigerator - manual defrost,EFR180,202,1.7,Yes,118.82352941176471,11A,1.7,202.0,EFR180
+11A - Compact All-Refrigerator - manual defrost,EFR180-B-COM,206,1.6,Yes,128.75,11A,1.6,206.0,EFR180-B-COM
+11A - Compact All-Refrigerator - manual defrost,EFR182,202,1.7,Yes,118.82352941176471,11A,1.7,202.0,EFR182
+11A - Compact All-Refrigerator - manual defrost,EFR182,206,1.6,Yes,128.75,11A,1.6,206.0,EFR182
+11A - Compact All-Refrigerator - manual defrost,EFR182_QVC,206,1.6,Yes,128.75,11A,1.6,206.0,EFR182_QVC
+11A - Compact All-Refrigerator - manual defrost,EFR285,208,2.6,Yes,80.0,11A,2.6,208.0,EFR285
+11A - Compact All-Refrigerator - manual defrost,EFR285-B,208,2.6,Yes,80.0,11A,2.6,208.0,EFR285-B
+11A - Compact All-Refrigerator - manual defrost,EFR285-B-BLACK,208,2.6,Yes,80.0,11A,2.6,208.0,EFR285-B-BLACK
+11A - Compact All-Refrigerator - manual defrost,EFR285-B-BLUE,208,2.6,Yes,80.0,11A,2.6,208.0,EFR285-B-BLUE
+11A - Compact All-Refrigerator - manual defrost,EFR285-BLACK,208,2.6,Yes,80.0,11A,2.6,208.0,EFR285-BLACK
+11A - Compact All-Refrigerator - manual defrost,EFR285-B-WHITE,208,2.6,Yes,80.0,11A,2.6,208.0,EFR285-B-WHITE
+11A - Compact All-Refrigerator - manual defrost,EFR285-RED,208,2.6,Yes,80.0,11A,2.6,208.0,EFR285-RED
+11A - Compact All-Refrigerator - manual defrost,EFR285-WHITE,208,2.6,Yes,80.0,11A,2.6,208.0,EFR285-WHITE
+11A - Compact All-Refrigerator - manual defrost,EFR323,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR323
+11A - Compact All-Refrigerator - manual defrost,EFR323,206,3.0,Yes,68.66666666666667,11A,3.0,206.0,EFR323
+11A - Compact All-Refrigerator - manual defrost,EFR331-B-BLACK,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR331-B-BLACK
+11A - Compact All-Refrigerator - manual defrost,EFR331-B-BLACK-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR331-B-BLACK-COM
+11A - Compact All-Refrigerator - manual defrost,EFR331-BLACK-AB,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR331-BLACK-AB
+11A - Compact All-Refrigerator - manual defrost,EFR331-B-WHITE,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR331-B-WHITE
+11A - Compact All-Refrigerator - manual defrost,EFR331-B-WHITE-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR331-B-WHITE-COM
+11A - Compact All-Refrigerator - manual defrost,EFR100,206,1.7,Yes,121.1764705882353,11A,1.7,206.0,EFR100
+11A - Compact All-Refrigerator - manual defrost,EFR285-C,210,2.5,Yes,84.0,11A,2.5,210.0,EFR285-C
+11A - Compact All-Refrigerator - manual defrost,EFR323,216,3.0,Yes,72.0,11A,3.0,216.0,EFR323
+11A - Compact All-Refrigerator - manual defrost,EFR100-D-BLACK,200,1.6,Yes,125.0,11A,1.6,200.0,EFR100-D-BLACK
+11A - Compact All-Refrigerator - manual defrost,EFR323-C,215,3.1,Yes,69.35483870967742,11A,3.1,215.0,EFR323-C
+11A - Compact All-Refrigerator - manual defrost,EFR492,226,4.5,Yes,50.22222222222222,11A,4.5,226.0,EFR492
+13A - Compact All-Refrigerators - automatic defrost,EFR492-B,264,4.5,Yes,58.666666666666664,13A,4.5,264.0,EFR492-B
+12 - Compact Refrigerator-Freezer - partial automatic defrost,EFR341,312,3.9,Yes,80.0,12,3.9,312.0,EFR341
+11A - Compact All-Refrigerator - manual defrost,EFR372-B-*****,219,3.2,Yes,68.4375,11A,3.2,219.0,EFR372-B-.....
+11A - Compact All-Refrigerator - manual defrost,EFR372-*****-COM,219,3.2,Yes,68.4375,11A,3.2,219.0,EFR372-.....-COM
+11A - Compact All-Refrigerator - manual defrost,EFR372-MINT,219,3.2,Yes,68.4375,11A,3.2,219.0,EFR372-MINT
+11A - Compact All-Refrigerator - manual defrost,EFR376-B-BLACK-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR376-B-BLACK-COM
+11A - Compact All-Refrigerator - manual defrost,EFR376-B-BLUE,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR376-B-BLUE
+11A - Compact All-Refrigerator - manual defrost,EFR376-B-BLUE-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR376-B-BLUE-COM
+11A - Compact All-Refrigerator - manual defrost,EFR376-B-CORAL,193,3.2,Yes,60.3125,11A,3.2,193.0,EFR376-B-CORAL
+11A - Compact All-Refrigerator - manual defrost,EFR376-B-PINK-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR376-B-PINK-COM
+11A - Compact All-Refrigerator - manual defrost,EFR376-B-WHITE-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR376-B-WHITE-COM
+11A - Compact All-Refrigerator - manual defrost,EFR376-C-BLACK,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR376-C-BLACK
+11A - Compact All-Refrigerator - manual defrost,EFR376-C-BLACK-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR376-C-BLACK-COM
+11A - Compact All-Refrigerator - manual defrost,EFR376-CORAL-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR376-CORAL-COM
+11A - Compact All-Refrigerator - manual defrost,EFR376-C-WHITE,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR376-C-WHITE
+11A - Compact All-Refrigerator - manual defrost,EFR376-C-WHITE-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR376-C-WHITE-COM
+11A - Compact All-Refrigerator - manual defrost,EFR376-MOONBM-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,EFR376-MOONBM-COM
+11A - Compact All-Refrigerator - manual defrost,EFR492,204,4.6,Yes,44.34782608695652,11A,4.6,204.0,EFR492
+11A - Compact All-Refrigerator - manual defrost,EFR492,218,4.5,Yes,48.44444444444444,11A,4.5,218.0,EFR492
+11A - Compact All-Refrigerator - manual defrost,EFR492-B-6COM,228,4.5,Yes,50.666666666666664,11A,4.5,228.0,EFR492-B-6COM
+11A - Compact All-Refrigerator - manual defrost,EFR492-COM,204,4.6,Yes,44.34782608695652,11A,4.6,204.0,EFR492-COM
+13A - Compact All-Refrigerators - automatic defrost,FFPA3322UM,259,3.2,Yes,80.9375,13A,3.2,259.0,FFPA3322UM
+11A - Compact All-Refrigerator - manual defrost,FFPE2411QB,213,2.4,Yes,88.75,11A,2.4,213.0,FFPE2411QB
+11A - Compact All-Refrigerator - manual defrost,FFPE3322UM,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,FFPE3322UM
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,FFPE4533UM,265,5.0,Yes,53.0,11,5.0,265.0,FFPE4533UM
+12 - Compact Refrigerator-Freezer - partial automatic defrost,FFPS3133UM,320,3.7,Yes,86.48648648648648,12,3.7,320.0,FFPS3133UM
+12 - Compact Refrigerator-Freezer - partial automatic defrost,FFPS4533U*,327,5.4,Yes,60.55555555555555,12,5.4,327.0,FFPS4533U.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,FFPS4533UU,327,5.4,Yes,60.55555555555555,12,5.4,327.0,FFPS4533UU
+12 - Compact Refrigerator-Freezer - partial automatic defrost,FR840-F-GB-RED,312,3.9,Yes,80.0,12,3.9,312.0,FR840-F-GB-RED
+11A - Compact All-Refrigerator - manual defrost,FRD01W3MMG,207,1.6,Yes,129.375,11A,1.6,207.0,FRD01W3MMG
+11A - Compact All-Refrigerator - manual defrost,FRD01W3MMW,207,1.6,Yes,129.375,11A,1.6,207.0,FRD01W3MMW
+12 - Compact Refrigerator-Freezer - partial automatic defrost,FRPE4534AV,327,5.4,Yes,60.55555555555555,12,5.4,327.0,FRPE4534AV
+11A - Compact All-Refrigerator - manual defrost,GCE06GGH****,236,5.6,Yes,42.142857142857146,11A,5.6,236.0,GCE06GGH....
+11A - Compact All-Refrigerator - manual defrost,GCE06GSH****,236,5.6,Yes,42.142857142857146,11A,5.6,236.0,GCE06GSH....
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GDE03GGK****,321,3.8,Yes,84.47368421052632,12,3.8,321.0,GDE03GGK....
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GDE03GLK****,321,3.8,Yes,84.47368421052632,12,3.8,321.0,GDE03GLK....
+12 - Compact Refrigerator-Freezer - partial automatic defrost,AMAR46TBKE,325,5.6,Yes,58.03571428571429,12,5.6,325.0,AMAR46TBKE
+13A - Compact All-Refrigerators - automatic defrost,BC-103R62H,260,3.5,Yes,74.28571428571429,13A,3.5,260.0,BC-103R62H
+13A - Compact All-Refrigerators - automatic defrost,BC-103RDF-G-62H,260,3.5,Yes,74.28571428571429,13A,3.5,260.0,BC-103RDF-G-62H
+13A - Compact All-Refrigerators - automatic defrost,BC-127RB-A62H,268,4.3,Yes,62.32558139534884,13A,4.3,268.0,BC-127RB-A62H
+11A - Compact All-Refrigerator - manual defrost,BC-47F-F-62H,208,1.8,Yes,115.55555555555556,11A,1.8,208.0,BC-47F-F-62H
+13A - Compact All-Refrigerators - automatic defrost,BC-93S-62H,258,3.2,Yes,80.625,13A,3.2,258.0,BC-93S-62H
+13A - Compact All-Refrigerators - automatic defrost,BC-93S-B-62H,258,3.2,Yes,80.625,13A,3.2,258.0,BC-93S-B-62H
+11A - Compact All-Refrigerator - manual defrost,GL17*,230,1.7,Yes,135.29411764705884,11A,1.7,230.0,GL17.
+11A - Compact All-Refrigerator - manual defrost,GL17BK,208,1.8,Yes,115.55555555555556,11A,1.8,208.0,GL17BK
+11A - Compact All-Refrigerator - manual defrost,GL17RD,208,1.8,Yes,115.55555555555556,11A,1.8,208.0,GL17RD
+11A - Compact All-Refrigerator - manual defrost,GL17WE,208,1.8,Yes,115.55555555555556,11A,1.8,208.0,GL17WE
+11A - Compact All-Refrigerator - manual defrost,GL27BK,214,2.8,Yes,76.42857142857143,11A,2.8,214.0,GL27BK
+11A - Compact All-Refrigerator - manual defrost,GL27RD,214,2.8,Yes,76.42857142857143,11A,2.8,214.0,GL27RD
+11A - Compact All-Refrigerator - manual defrost,GL27S5,214,2.8,Yes,76.42857142857143,11A,2.8,214.0,GL27S5
+11A - Compact All-Refrigerator - manual defrost,GL27WE,214,2.8,Yes,76.42857142857143,11A,2.8,214.0,GL27WE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GL31BEE,321,3.8,Yes,84.47368421052632,12,3.8,321.0,GL31BEE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GL31BKE,321,3.8,Yes,84.47368421052632,12,3.8,321.0,GL31BKE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GL31BKE,322,3.8,Yes,84.73684210526316,12,3.8,322.0,GL31BKE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GL31RDE,321,3.8,Yes,84.47368421052632,12,3.8,321.0,GL31RDE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GL31S3E,322,3.8,Yes,84.73684210526316,12,3.8,322.0,GL31S3E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GL31S5E,322,3.8,Yes,84.73684210526316,12,3.8,322.0,GL31S5E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GL35BK,361,5.0,Yes,72.2,12,5.0,361.0,GL35BK
+11A - Compact All-Refrigerator - manual defrost,GL35BK,220,3.7,Yes,59.45945945945946,11A,3.7,220.0,GL35BK
+11A - Compact All-Refrigerator - manual defrost,GL35RD,220,3.7,Yes,59.45945945945946,11A,3.7,220.0,GL35RD
+11A - Compact All-Refrigerator - manual defrost,GL35S5,220,3.7,Yes,59.45945945945946,11A,3.7,220.0,GL35S5
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GL35WE,320,3.1,Yes,103.2258064516129,12,3.1,320.0,GL35WE
+11A - Compact All-Refrigerator - manual defrost,GL43BK,228,4.3,Yes,53.02325581395349,11A,4.3,228.0,GL43BK
+13A - Compact All-Refrigerators - automatic defrost,GL43R**E,268,4.3,Yes,62.32558139534884,13A,4.3,268.0,GL43R..E
+11A - Compact All-Refrigerator - manual defrost,GL43S3,228,4.3,Yes,53.02325581395349,11A,4.3,228.0,GL43S3
+11A - Compact All-Refrigerator - manual defrost,GL43S5,228,4.3,Yes,53.02325581395349,11A,4.3,228.0,GL43S5
+13A - Compact All-Refrigerators - automatic defrost,GL44RBEE,265,4.4,Yes,60.22727272727272,13A,4.4,265.0,GL44RBEE
+13A - Compact All-Refrigerators - automatic defrost,GL44RBKE,265,4.4,Yes,60.22727272727272,13A,4.4,265.0,GL44RBKE
+13A - Compact All-Refrigerators - automatic defrost,GL44RRDE,265,4.4,Yes,60.22727272727272,13A,4.4,265.0,GL44RRDE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GL46TS5E,325,5.6,Yes,58.03571428571429,12,5.6,325.0,GL46TS5E
+11A - Compact All-Refrigerator - manual defrost,GLR17M**R09,208,1.8,Yes,115.55555555555556,11A,1.8,208.0,GLR17M..R09
+11A - Compact All-Refrigerator - manual defrost,GLR17WEE,208,1.8,Yes,115.55555555555556,11A,1.8,208.0,GLR17WEE
+11A - Compact All-Refrigerator - manual defrost,GLR25MBKE02,213,2.5,Yes,85.2,11A,2.5,213.0,GLR25MBKE02
+11A - Compact All-Refrigerator - manual defrost,GLR25M**R10,213,2.5,Yes,85.2,11A,2.5,213.0,GLR25M..R10
+11A - Compact All-Refrigerator - manual defrost,GLR25M**R27,213,2.5,Yes,85.2,11A,2.5,213.0,GLR25M..R27
+11A - Compact All-Refrigerator - manual defrost,GLR25MS1E02,213,2.5,Yes,85.2,11A,2.5,213.0,GLR25MS1E02
+11A - Compact All-Refrigerator - manual defrost,GLR27**E,215,2.7,Yes,79.62962962962962,11A,2.7,215.0,GLR27..E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR31TBEER,320,3.8,Yes,84.21052631578948,12,3.8,320.0,GLR31TBEER
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR31TBKER,320,3.1,Yes,103.2258064516129,12,3.1,320.0,GLR31TBKER
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR31T**E02,320,3.8,Yes,84.21052631578948,12,3.8,320.0,GLR31T..E02
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR31T**ER,320,3.8,Yes,84.21052631578948,12,3.8,320.0,GLR31T..ER
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR31TRDER,320,3.1,Yes,103.2258064516129,12,3.1,320.0,GLR31TRDER
+11A - Compact All-Refrigerator - manual defrost,GLR33MBKE02,218,3.3,Yes,66.06060606060606,11A,3.3,218.0,GLR33MBKE02
+11A - Compact All-Refrigerator - manual defrost,GLR33MBKR29,218,3.3,Yes,66.06060606060606,11A,3.3,218.0,GLR33MBKR29
+11A - Compact All-Refrigerator - manual defrost,GLR33M**E23,218,3.2,Yes,68.125,11A,3.2,218.0,GLR33M..E23
+11A - Compact All-Refrigerator - manual defrost,GLR33MRDR29,218,3.3,Yes,66.06060606060606,11A,3.3,218.0,GLR33MRDR29
+11A - Compact All-Refrigerator - manual defrost,GLR33MWEE02,218,3.3,Yes,66.06060606060606,11A,3.3,218.0,GLR33MWEE02
+11A - Compact All-Refrigerator - manual defrost,GLR35BKER,220,3.5,Yes,62.857142857142854,11A,3.5,220.0,GLR35BKER
+11A - Compact All-Refrigerator - manual defrost,GLR35**ER,220,3.4,Yes,64.70588235294117,11A,3.4,220.0,GLR35..ER
+11A - Compact All-Refrigerator - manual defrost,GLR35RDER,220,3.5,Yes,62.857142857142854,11A,3.5,220.0,GLR35RDER
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR40T**E,325,5.0,Yes,65.0,12,5.0,325.0,GLR40T..E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR40T**ER,325,5.0,Yes,65.0,12,5.0,325.0,GLR40T..ER
+13A - Compact All-Refrigerators - automatic defrost,GLR44BEER,265,4.3,Yes,61.627906976744185,13A,4.3,265.0,GLR44BEER
+11A - Compact All-Refrigerator - manual defrost,GLR44**ER,265,4.3,Yes,61.627906976744185,11A,4.3,265.0,GLR44..ER
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR46B**E04,330,5.7,Yes,57.89473684210526,12,5.7,330.0,GLR46B..E04
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR46BRDR12,330,5.7,Yes,57.89473684210526,12,5.7,330.0,GLR46BRDR12
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR46TBKER,325,4.6,Yes,70.65217391304348,12,4.6,325.0,GLR46TBKER
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR46T**E,325,5.6,Yes,58.03571428571429,12,5.6,325.0,GLR46T..E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR46TRDER,325,4.6,Yes,70.65217391304348,12,4.6,325.0,GLR46TRDER
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR74B**E04,350,9.8,Yes,35.71428571428571,12,9.8,350.0,GLR74B..E04
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR74B**R12,350,9.8,Yes,35.71428571428571,12,9.8,350.0,GLR74B..R12
+12 - Compact Refrigerator-Freezer - partial automatic defrost,GLR74BRDR12,354,9.8,Yes,36.12244897959184,12,9.8,354.0,GLR74BRDR12
+12 - Compact Refrigerator-Freezer - partial automatic defrost,JR31T**E10,320,3.8,Yes,84.21052631578948,12,3.8,320.0,JR31T..E10
+11A - Compact All-Refrigerator - manual defrost,SGR33M**R10,218,3.2,Yes,68.125,11A,3.2,218.0,SGR33M..R10
+12 - Compact Refrigerator-Freezer - partial automatic defrost,VSR27MS1E01,320,3.8,Yes,84.21052631578948,12,3.8,320.0,VSR27MS1E01
+11A - Compact All-Refrigerator - manual defrost,GME04GGK****,227,4.4,Yes,51.590909090909086,11A,4.4,227.0,GME04GGK....
+11A - Compact All-Refrigerator - manual defrost,GME04GLK****,227,4.4,Yes,51.590909090909086,11A,4.4,227.0,GME04GLK....
+12 - Compact Refrigerator-Freezer - partial automatic defrost,FR840-F-GB-BLACK,312,3.9,Yes,80.0,12,3.9,312.0,FR840-F-GB-BLACK
+11A - Compact All-Refrigerator - manual defrost,GKIM08121*,169,7.6,Yes,22.236842105263158,11A,7.6,169.0,GKIM08121.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RC31C2W*E,321,3.7,Yes,86.75675675675676,12,3.7,321.0,RC31C2W.E
+11A - Compact All-Refrigerator - manual defrost,RC33C1GBE,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,RC33C1GBE
+11A - Compact All-Refrigerator - manual defrost,RC33C1G*E,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,RC33C1G.E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RC44C2G*E,329,5.2,Yes,63.26923076923077,12,5.2,329.0,RC44C2G.E
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,RC63C1G*E,281,6.7,Yes,41.940298507462686,11,6.7,281.0,RC63C1G.E
+11A - Compact All-Refrigerator - manual defrost,RR17D6ABE,207,1.7,Yes,121.76470588235294,11A,1.7,207.0,RR17D6ABE
+11A - Compact All-Refrigerator - manual defrost,RR17D6AWE,207,1.7,Yes,121.76470588235294,11A,1.7,207.0,RR17D6AWE
+11A - Compact All-Refrigerator - manual defrost,HC17SF15RB,200,1.7,Yes,117.64705882352942,11A,1.7,200.0,HC17SF15RB
+11A - Compact All-Refrigerator - manual defrost,HC17SF15RW,200,1.7,Yes,117.64705882352942,11A,1.7,200.0,HC17SF15RW
+11A - Compact All-Refrigerator - manual defrost,EFR100-B-BLACK,206,1.6,Yes,128.75,11A,1.6,206.0,EFR100-B-BLACK
+11A - Compact All-Refrigerator - manual defrost,HBF1600-BLUE,206,1.6,Yes,128.75,11A,1.6,206.0,HBF1600-BLUE
+11A - Compact All-Refrigerator - manual defrost,HBF1600-CORAL,206,1.6,Yes,128.75,11A,1.6,206.0,HBF1600-CORAL
+11A - Compact All-Refrigerator - manual defrost,HBF1600-CREAM,206,1.6,Yes,128.75,11A,1.6,206.0,HBF1600-CREAM
+11A - Compact All-Refrigerator - manual defrost,HBF1600-RED,206,1.6,Yes,128.75,11A,1.6,206.0,HBF1600-RED
+11A - Compact All-Refrigerator - manual defrost,HBF1600-WHITE,206,1.6,Yes,128.75,11A,1.6,206.0,HBF1600-WHITE
+11A - Compact All-Refrigerator - manual defrost,HBF3200-BLACK,218,3.2,Yes,68.125,11A,3.2,218.0,HBF3200-BLACK
+11A - Compact All-Refrigerator - manual defrost,HBR33MBKE02 ,218,3.2,Yes,68.125,11A,3.2,218.0,HBR33MBKE02 
+11A - Compact All-Refrigerator - manual defrost,HBR33MWEE02  ,218,3.2,Yes,68.125,11A,3.2,218.0,HBR33MWEE02  
+11A - Compact All-Refrigerator - manual defrost,REFHB17*,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,REFHB17.
+11A - Compact All-Refrigerator - manual defrost,HRF200R,215,2.5,Yes,86.0,11A,2.5,215.0,HRF200R
+11A - Compact All-Refrigerator - manual defrost,HRF300R,220,3.2,Yes,68.75,11A,3.2,220.0,HRF300R
+11A - Compact All-Refrigerator - manual defrost,BC-93-62H,218,3.2,Yes,68.125,11A,3.2,218.0,BC-93-62H
+13A - Compact All-Refrigerators - automatic defrost,BC-120/HC,268,4.2,Yes,63.80952380952381,13A,4.2,268.0,BC-120/HC
+13A - Compact All-Refrigerators - automatic defrost,LCR17D6NBE,245,1.5,Yes,163.33333333333334,13A,1.5,245.0,LCR17D6NBE
+13A - Compact All-Refrigerators - automatic defrost,LCR27D6NBE,254,2.5,Yes,101.6,13A,2.5,254.0,LCR27D6NBE
+13A - Compact All-Refrigerators - automatic defrost,LCR33D6NSE,258,3.1,Yes,83.2258064516129,13A,3.1,258.0,LCR33D6NSE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,LCT33D6ASE,322,3.9,Yes,82.56410256410257,12,3.9,322.0,LCT33D6ASE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,LCT43D6A*E,328,5.0,Yes,65.6,12,5.0,328.0,LCT43D6A.E
+13A - Compact All-Refrigerators - automatic defrost,LMS016M6RBE,246,1.6,Yes,153.75,13A,1.6,246.0,LMS016M6RBE
+13A - Compact All-Refrigerators - automatic defrost,LMS026M6RBE,254,2.5,Yes,101.6,13A,2.5,254.0,LMS026M6RBE
+13A - Compact All-Refrigerators - automatic defrost,LMS033M6RBE,260,3.3,Yes,78.7878787878788,13A,3.3,260.0,LMS033M6RBE
+13A - Compact All-Refrigerators - automatic defrost,LMS044M6RBE,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,LMS044M6RBE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,LMT33M6AVE,321,3.7,Yes,86.75675675675676,12,3.7,321.0,LMT33M6AVE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,LMT43M6ABE,329,5.2,Yes,63.26923076923077,12,5.2,329.0,LMT43M6ABE
+13A - Compact All-Refrigerators - automatic defrost,RC26A1G*E,254,2.5,Yes,101.6,13A,2.5,254.0,RC26A1G.E
+11A - Compact All-Refrigerator - manual defrost,RR42D6**E,226,4.2,Yes,53.80952380952381,11A,4.2,226.0,RR42D6..E
+11A - Compact All-Refrigerator - manual defrost,WMS017M6XBE,208,1.6,Yes,130.0,11A,1.6,208.0,WMS017M6XBE
+11A - Compact All-Refrigerator - manual defrost,WMS026M6XBE,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,WMS026M6XBE
+11A - Compact All-Refrigerator - manual defrost,WMS044M6XBE,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,WMS044M6XBE
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,WMS053M6XVE,273,5.7,Yes,47.89473684210526,11,5.7,273.0,WMS053M6XVE
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,WMS063M6XVE,281,6.7,Yes,41.940298507462686,11,6.7,281.0,WMS063M6XVE
+11A - Compact All-Refrigerator - manual defrost,HME030210N,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,HME030210N
+11A - Compact All-Refrigerator - manual defrost,HME030362N,325,4.5,Yes,72.22222222222223,11A,4.5,325.0,HME030362N
+13A - Compact All-Refrigerators - automatic defrost,BK49BS,270,4.9,Yes,55.10204081632653,13A,4.9,270.0,BK49BS
+11A - Compact All-Refrigerator - manual defrost,HME030438N,213,2.4,Yes,88.75,11A,2.4,213.0,HME030438N
+11A - Compact All-Refrigerator - manual defrost,H16MRB,207,1.6,Yes,129.375,11A,1.6,207.0,H16MRB
+11A - Compact All-Refrigerator - manual defrost,H16MRS,207,1.6,Yes,129.375,11A,1.6,207.0,H16MRS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,H31MRB*,270,3.8,Yes,71.05263157894737,12,3.8,270.0,H31MRB.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,H31MRS*,270,3.8,Yes,71.05263157894737,12,3.8,270.0,H31MRS.
+11A - Compact All-Refrigerator - manual defrost,H33MRB*,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,H33MRB.
+11A - Compact All-Refrigerator - manual defrost,H33MRS*,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,H33MRS.
+11A - Compact All-Refrigerator - manual defrost,HME02GGM****,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,HME02GGM....
+11A - Compact All-Refrigerator - manual defrost,HME03GGM****,215,2.7,Yes,79.62962962962962,11A,2.7,215.0,HME03GGM....
+11A - Compact All-Refrigerator - manual defrost,FR100I-B-BLACK,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR100I-B-BLACK
+11A - Compact All-Refrigerator - manual defrost,FR100I-B-WHITE,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR100I-B-WHITE
+11A - Compact All-Refrigerator - manual defrost,FR115I-B-BLACK,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR115I-B-BLACK
+3 - Freestanding Compact Cooler,NS-WC14SS3,121,1.5,Yes,80.66666666666667,3,1.5,121.0,NS-WC14SS3
+3 - Freestanding Compact Cooler,NS-WC29SS3,143,3.3,Yes,43.333333333333336,3,3.3,143.0,NS-WC29SS3
+3 - Freestanding Compact Cooler,NS-WC29SS3-C,143,3.3,Yes,43.333333333333336,3,3.3,143.0,NS-WC29SS3-C
+13A - Compact All-Refrigerators - automatic defrost,IVBKADT491B,270,4.9,Yes,55.10204081632653,13A,4.9,270.0,IVBKADT491B
+13A - Compact All-Refrigerators - automatic defrost,IVBKADT491SS,270,4.9,Yes,55.10204081632653,13A,4.9,270.0,IVBKADT491SS
+13A - Compact All-Refrigerators - automatic defrost,IVBKAST491B,270,4.9,Yes,55.10204081632653,13A,4.9,270.0,IVBKAST491B
+13A - Compact All-Refrigerators - automatic defrost,IVBKAST491SS,270,4.9,Yes,55.10204081632653,13A,4.9,270.0,IVBKAST491SS
+11A - Compact All-Refrigerator - manual defrost,FR115I-B-BLUE,208,1.6,Yes,130.0,11A,1.6,208.0,FR115I-B-BLUE
+11A - Compact All-Refrigerator - manual defrost,FR115I-B-GREEN,208,1.6,Yes,130.0,11A,1.6,208.0,FR115I-B-GREEN
+11A - Compact All-Refrigerator - manual defrost,FR115I-B-ORANGE,208,1.6,Yes,130.0,11A,1.6,208.0,FR115I-B-ORANGE
+11A - Compact All-Refrigerator - manual defrost,FR283I-B-BLACK,216,1.6,Yes,135.0,11A,1.6,216.0,FR283I-B-BLACK
+11A - Compact All-Refrigerator - manual defrost,FR320I-B,197,3.2,Yes,61.5625,11A,3.2,197.0,FR320I-B
+13A - Compact All-Refrigerators - automatic defrost,IBK49BK,270,4.9,Yes,55.10204081632653,13A,4.9,270.0,IBK49BK
+11A - Compact All-Refrigerator - manual defrost,IRF16RSBK,176,1.6,Yes,110.0,11A,1.6,176.0,IRF16RSBK
+11A - Compact All-Refrigerator - manual defrost,IRF32BK,218,3.2,Yes,68.125,11A,3.2,218.0,IRF32BK
+12 - Compact Refrigerator-Freezer - partial automatic defrost,IRF32DDRSBK,304,3.2,Yes,95.0,12,3.2,304.0,IRF32DDRSBK
+11A - Compact All-Refrigerator - manual defrost,IRF32EBBK,197,3.2,Yes,61.5625,11A,3.2,197.0,IRF32EBBK
+11A - Compact All-Refrigerator - manual defrost,IRF32LCKPL,197,3.2,Yes,61.5625,11A,3.2,197.0,IRF32LCKPL
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HS-147RN(NA) LAGAN,325,4.4,Yes,73.86363636363636,12,4.4,325.0,HS-147RN(NA) LAGAN
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,HS-164LN(NA) LAGAN,265,4.8,Yes,55.208333333333336,11,4.8,265.0,HS-164LN(NA) LAGAN
+11A - Compact All-Refrigerator - manual defrost,HS-57LN(NA) TILLREDA,207,1.6,Yes,129.375,11A,1.6,207.0,HS-57LN(NA) TILLREDA
+11A - Compact All-Refrigerator - manual defrost,HS-65LN(NA) TILLREDA N,208,1.5,Yes,138.66666666666666,11A,1.5,208.0,HS-65LN(NA) TILLREDA N
+3 - Freestanding Compact Cooler,"NS-BI1ZWCxxxxxx (x = a-z, A-Z, 0-9, -, blank)",155,5.6,Yes,27.67857142857143,3,5.6,155.0,"NS-BI1ZWCxxxxxx (x = a-z, A-Z, 0-9, -, blank)"
+13A - Compact All-Refrigerators - automatic defrost,NS-CF17******,245,1.7,Yes,144.11764705882354,13A,1.7,245.0,NS-CF17......
+13A - Compact All-Refrigerators - automatic defrost,NS-CF17BK9,245,1.7,Yes,144.11764705882354,13A,1.7,245.0,NS-CF17BK9
+13A - Compact All-Refrigerators - automatic defrost,NS-CF17BK9-C,245,1.7,Yes,144.11764705882354,13A,1.7,245.0,NS-CF17BK9-C
+11A - Compact All-Refrigerator - manual defrost,NS-CF26BK6,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,NS-CF26BK6
+11A - Compact All-Refrigerator - manual defrost,NS-CF26BK8,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,NS-CF26BK8
+13A - Compact All-Refrigerators - automatic defrost,NS-CF26BK9,250,2.6,Yes,96.15384615384615,13A,2.6,250.0,NS-CF26BK9
+11A - Compact All-Refrigerator - manual defrost,NS-CF26BL7-C,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,NS-CF26BL7-C
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CF30******,321,3.6,Yes,89.16666666666667,12,3.6,321.0,NS-CF30......
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CF30SS9,321,3.7,Yes,86.75675675675676,12,3.7,321.0,NS-CF30SS9
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CF31SS6,321,3.7,Yes,86.75675675675676,12,3.7,321.0,NS-CF31SS6
+11A - Compact All-Refrigerator - manual defrost,NS-CF33BK#***,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,NS-CF33BK....
+11A - Compact All-Refrigerator - manual defrost,NS-CF33BK3,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,NS-CF33BK3
+11A - Compact All-Refrigerator - manual defrost,NS-CF33BK3-C,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,NS-CF33BK3-C
+13A - Compact All-Refrigerators - automatic defrost,NS-CF33BK8,258,3.3,Yes,78.18181818181819,13A,3.3,258.0,NS-CF33BK8
+13A - Compact All-Refrigerators - automatic defrost,NS-CF33BK8-C,258,3.3,Yes,78.18181818181819,13A,3.3,258.0,NS-CF33BK8-C
+11A - Compact All-Refrigerator - manual defrost,NS-CF33SS#***,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,NS-CF33SS....
+11A - Compact All-Refrigerator - manual defrost,NS-CF33SS3,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,NS-CF33SS3
+11A - Compact All-Refrigerator - manual defrost,NS-CF33SS3-C,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,NS-CF33SS3-C
+13A - Compact All-Refrigerators - automatic defrost,NS-CF33SS8,258,3.3,Yes,78.18181818181819,13A,3.3,258.0,NS-CF33SS8
+13A - Compact All-Refrigerators - automatic defrost,NS-CF33WH8,258,3.3,Yes,78.18181818181819,13A,3.3,258.0,NS-CF33WH8
+13A - Compact All-Refrigerators - automatic defrost,NSCF33WH8,258,3.3,Yes,78.18181818181819,13A,3.3,258.0,NSCF33WH8
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CF43SS9,329,5.3,Yes,62.07547169811321,12,5.3,329.0,NS-CF43SS9
+11A - Compact All-Refrigerator - manual defrost,NS-CF44BK#***,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,NS-CF44BK....
+11A - Compact All-Refrigerator - manual defrost,NS-CF44BK3,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,NS-CF44BK3
+11A - Compact All-Refrigerator - manual defrost,NS-CF44BK3-C,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,NS-CF44BK3-C
+11A - Compact All-Refrigerator - manual defrost,NS-CF44GD2,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,NS-CF44GD2
+11A - Compact All-Refrigerator - manual defrost,NS-CF44GD2-C,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,NS-CF44GD2-C
+11A - Compact All-Refrigerator - manual defrost,NS-CF44GD3,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,NS-CF44GD3
+11A - Compact All-Refrigerator - manual defrost,NS-CF44GD3-C,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,NS-CF44GD3-C
+11A - Compact All-Refrigerator - manual defrost,NS-CF44SS#***,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,NS-CF44SS....
+11A - Compact All-Refrigerator - manual defrost,NS-CF44SS3-C,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,NS-CF44SS3-C
+11A - Compact All-Refrigerator - manual defrost,NS-CF44SS8,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,NS-CF44SS8
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CF49BMSS2,335,6.2,Yes,54.03225806451613,12,6.2,335.0,NS-CF49BMSS2
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CF49BMSS2-C,335,6.2,Yes,54.03225806451613,12,6.2,335.0,NS-CF49BMSS2-C
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CFBM41******,325,4.9,Yes,66.3265306122449,12,4.9,325.0,NS-CFBM41......
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CFBM41SS1,325,4.9,Yes,66.3265306122449,12,4.9,325.0,NS-CFBM41SS1
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CFBM41SS1-C,325,4.9,Yes,66.3265306122449,12,4.9,325.0,NS-CFBM41SS1-C
+11A - Compact All-Refrigerator - manual defrost,NS-CFL45******,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,NS-CFL45......
+11A - Compact All-Refrigerator - manual defrost,NS-CFL45GP1,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,NS-CFL45GP1
+11A - Compact All-Refrigerator - manual defrost,NS-CFL45GP1-C,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,NS-CFL45GP1-C
+11A - Compact All-Refrigerator - manual defrost,NS-CFR23******,210,2.3,Yes,91.30434782608697,11A,2.3,210.0,NS-CFR23......
+11A - Compact All-Refrigerator - manual defrost,NS-CFR23BB1,210,2.3,Yes,91.30434782608697,11A,2.3,210.0,NS-CFR23BB1
+11A - Compact All-Refrigerator - manual defrost,NS-CFR23C1,210,2.3,Yes,91.30434782608697,11A,2.3,210.0,NS-CFR23C1
+11A - Compact All-Refrigerator - manual defrost,NS-CFR25######,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,NS-CFR25......
+11A - Compact All-Refrigerator - manual defrost,NS-CFR25BB2,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,NS-CFR25BB2
+11A - Compact All-Refrigerator - manual defrost,NS-CFR25C2,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,NS-CFR25C2
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CFR32******,323,3.9,Yes,82.82051282051282,12,3.9,323.0,NS-CFR32......
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CFR32C1,323,3.9,Yes,82.82051282051282,12,3.9,323.0,NS-CFR32C1
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CFR32MT1,323,3.9,Yes,82.82051282051282,12,3.9,323.0,NS-CFR32MT1
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CFR32RD1,323,3.9,Yes,82.82051282051282,12,3.9,323.0,NS-CFR32RD1
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CFR45******,330,4.5,Yes,73.33333333333333,12,4.5,330.0,NS-CFR45......
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CFR45M3,330,4.5,Yes,73.33333333333333,12,4.5,330.0,NS-CFR45M3
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NS-CFR45R3,330,4.5,Yes,73.33333333333333,12,4.5,330.0,NS-CFR45R3
+13A - Compact All-Refrigerators - automatic defrost,"NS-OCF55xxxxxx (x = a-z, A-Z, 0-9, -, blank)",275,5.4,Yes,50.925925925925924,13A,5.4,275.0,"NS-OCF55xxxxxx (x = a-z, A-Z, 0-9, -, blank)"
+11A - Compact All-Refrigerator - manual defrost,KSTRC331DB,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,KSTRC331DB
+11A - Compact All-Refrigerator - manual defrost,KSTRC331DW,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,KSTRC331DW
+11A - Compact All-Refrigerator - manual defrost,KSTRC33RDR,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,KSTRC33RDR
+11A - Compact All-Refrigerator - manual defrost,KSTRC44CB,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,KSTRC44CB
+11A - Compact All-Refrigerator - manual defrost,KSTRC44CW,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,KSTRC44CW
+13A - Compact All-Refrigerators - automatic defrost,JUGF*242H***,233,5.2,Yes,44.80769230769231,13A,5.2,233.0,JUGF.242H...
+13A - Compact All-Refrigerators - automatic defrost,JURF*242H***,233,5.0,Yes,46.6,13A,5.0,233.0,JURF.242H...
+15I - Compact Refrigerator-Freezer - automatic defrost bottom-mount- with an automatic icemaker,JUCFP242H*1*,442,4.3,Yes,102.79069767441861,15I,4.3,442.0,JUCFP242H.1.
+13A - Compact All-Refrigerators - automatic defrost,JUDFP242H*1*,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,JUDFP242H.1.
+13A - Compact All-Refrigerators - automatic defrost,HK15BO-3-1L,254,2.8,Yes,90.71428571428572,13A,2.8,254.0,HK15BO-3-1L
+13A - Compact All-Refrigerators - automatic defrost,HK15R*4E-**-*****,256,2.8,Yes,91.42857142857143,13A,2.8,256.0,HK15R.4E-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HK15RO-3-1L,274,5.2,Yes,52.69230769230769,13A,5.2,274.0,HK15RO-3-1L
+13A - Compact All-Refrigerators - automatic defrost,HK24B*4C-**-*****,276,5.2,Yes,53.07692307692307,13A,5.2,276.0,HK24B.4C-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HK24BO-3-1L,275,5.2,Yes,52.88461538461538,13A,5.2,275.0,HK24BO-3-1L
+13A - Compact All-Refrigerators - automatic defrost,HK24R*4C-**-*****,276,5.2,Yes,53.07692307692307,13A,5.2,276.0,HK24R.4C-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HK24RO-3-1L,275,5.2,Yes,52.88461538461538,13A,5.2,275.0,HK24RO-3-1L
+13A - Compact All-Refrigerators - automatic defrost,HK24RS4E-**-*****,266,5.1,Yes,52.156862745098046,13A,5.1,266.0,HK24RS4E-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HK24T*4C-**-*****,276,5.2,Yes,53.07692307692307,13A,5.2,276.0,HK24T.4C-..-.....
+11A - Compact All-Refrigerator - manual defrost,MDC160-1**,207,1.6,Yes,129.375,11A,1.6,207.0,MDC160-1..
+11A - Compact All-Refrigerator - manual defrost,MDC240-1**,213,2.4,Yes,88.75,11A,2.4,213.0,MDC240-1..
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MDC315-2**,270,3.8,Yes,71.05263157894737,12,3.8,270.0,MDC315-2..
+11A - Compact All-Refrigerator - manual defrost,MDC330-1**,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,MDC330-1..
+11A - Compact All-Refrigerator - manual defrost,MDC445-1**,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,MDC445-1..
+13A - Compact All-Refrigerators - automatic defrost,MDK-199B-**,270,4.9,Yes,55.10204081632653,13A,4.9,270.0,MDK-199B-..
+13A - Compact All-Refrigerators - automatic defrost,MDK-199SS-**,270,4.9,Yes,55.10204081632653,13A,4.9,270.0,MDK-199SS-..
+11A - Compact All-Refrigerator - manual defrost,111.*8****,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,111..8....
+11A - Compact All-Refrigerator - manual defrost,111.*9****,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,111..9....
+12 - Compact Refrigerator-Freezer - partial automatic defrost,111.9903*,320,3.9,Yes,82.05128205128206,12,3.9,320.0,111.9903.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,111.99033810,320,3.9,Yes,82.05128205128206,12,3.9,320.0,111.99033810
+12 - Compact Refrigerator-Freezer - partial automatic defrost,111.99063***,318,3.7,Yes,85.94594594594594,12,3.7,318.0,111.99063...
+12 - Compact Refrigerator-Freezer - partial automatic defrost,111.99063810,318,3.7,Yes,85.94594594594594,12,3.7,318.0,111.99063810
+11A - Compact All-Refrigerator - manual defrost,111.9909****,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,111.9909....
+11A - Compact All-Refrigerator - manual defrost,17747,220,3.4,Yes,64.70588235294117,11A,3.4,220.0,17747
+11A - Compact All-Refrigerator - manual defrost,17762,214,2.6,Yes,82.3076923076923,11A,2.6,214.0,17762
+11A - Compact All-Refrigerator - manual defrost,17764,208,1.6,Yes,130.0,11A,1.6,208.0,17764
+11A - Compact All-Refrigerator - manual defrost,9961*61*,208,1.6,Yes,130.0,11A,1.6,208.0,9961.61.
+11A - Compact All-Refrigerator - manual defrost,9965*61*,214,2.6,Yes,82.3076923076923,11A,2.6,214.0,9965.61.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,9966*61*,320,3.8,Yes,84.21052631578948,12,3.8,320.0,9966.61.
+11A - Compact All-Refrigerator - manual defrost,9968*61*,228,4.3,Yes,53.02325581395349,11A,4.3,228.0,9968.61.
+11A - Compact All-Refrigerator - manual defrost,9969*61*,220,3.4,Yes,64.70588235294117,11A,3.4,220.0,9969.61.
+11A - Compact All-Refrigerator - manual defrost,99789,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,99789
+12 - Compact Refrigerator-Freezer - partial automatic defrost,KMR31TS1E02,322,3.8,Yes,84.73684210526316,12,3.8,322.0,KMR31TS1E02
+12 - Compact Refrigerator-Freezer - partial automatic defrost,KMR46TS1E04,325,5.6,Yes,58.03571428571429,12,5.6,325.0,KMR46TS1E04
+12 - Compact Refrigerator-Freezer - partial automatic defrost,KSTRC312CB,270,3.8,Yes,71.05263157894737,12,3.8,270.0,KSTRC312CB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,KSTRC312CB,270,3.9,Yes,69.23076923076923,12,3.9,270.0,KSTRC312CB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,KSTRC312CW,270,3.8,Yes,71.05263157894737,12,3.8,270.0,KSTRC312CW
+12 - Compact Refrigerator-Freezer - partial automatic defrost,KSTRC312CW,270,3.9,Yes,69.23076923076923,12,3.9,270.0,KSTRC312CW
+15I - Compact Refrigerator-Freezer - automatic defrost bottom-mount- with an automatic icemaker,KUDF204KPA**,442,4.3,Yes,102.79069767441861,15I,4.3,442.0,KUDF204KPA..
+15I - Compact Refrigerator-Freezer - automatic defrost bottom-mount- with an automatic icemaker,KUDF204KSB**,442,4.3,Yes,102.79069767441861,15I,4.3,442.0,KUDF204KSB..
+13A - Compact All-Refrigerators - automatic defrost,KUDR204KPA**,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,KUDR204KPA..
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,LRONC0605*,210,6.2,Yes,33.87096774193548,11,6.2,210.0,LRONC0605.
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,LRONC0705*,220,6.9,Yes,31.884057971014492,11,6.9,220.0,LRONC0705.
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,LRTNC0705*,255,7.8,Yes,32.69230769230769,13,7.8,255.0,LRTNC0705.
+13A - Compact All-Refrigerators - automatic defrost,KUDR204KSB**,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,KUDR204KSB..
+13A - Compact All-Refrigerators - automatic defrost,KUR*114KPA**,274,5.0,Yes,54.8,13A,5.0,274.0,KUR.114KPA..
+13A - Compact All-Refrigerators - automatic defrost,KUR*114KSB**,274,5.0,Yes,54.8,13A,5.0,274.0,KUR.114KSB..
+13A - Compact All-Refrigerators - automatic defrost,KUR*214KSB**,274,5.2,Yes,52.69230769230769,13A,5.2,274.0,KUR.214KSB..
+13A - Compact All-Refrigerators - automatic defrost,KUR*314KBS**,274,5.2,Yes,52.69230769230769,13A,5.2,274.0,KUR.314KBS..
+13A - Compact All-Refrigerators - automatic defrost,KUR*314KSS**,274,5.2,Yes,52.69230769230769,13A,5.2,274.0,KUR.314KSS..
+11A - Compact All-Refrigerator - manual defrost,059586611100,230,1.7,Yes,135.29411764705884,11A,1.7,230.0,059586611100
+11A - Compact All-Refrigerator - manual defrost,KBC-130SS,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,KBC-130SS
+11A - Compact All-Refrigerator - manual defrost,KBC-46SS,207,1.6,Yes,129.375,11A,1.6,207.0,KBC-46SS
+11A - Compact All-Refrigerator - manual defrost,KBC-88B,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,KBC-88B
+11A - Compact All-Refrigerator - manual defrost,KBC-88W,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,KBC-88W
+3 - Freestanding Compact Cooler,L3015UI1WSG-LH,141,2.9,Yes,48.62068965517241,3,2.9,141.0,L3015UI1WSG-LH
+3 - Freestanding Compact Cooler,L3024UI1WSG-LH,156,5.2,Yes,30.0,3,5.2,156.0,L3024UI1WSG-LH
+3 - Freestanding Compact Cooler,L3024UI2WSG-LH,153,4.8,Yes,31.875,3,4.8,153.0,L3024UI2WSG-LH
+11A - Compact All-Refrigerator - manual defrost,LKIM08121*,169,7.6,Yes,22.236842105263158,11A,7.6,169.0,LKIM08121.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR450WE,327,5.4,Yes,60.55555555555555,12,5.4,327.0,HMDR450WE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR45B,327,5.4,Yes,60.55555555555555,12,5.4,327.0,HMDR45B
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR45PS,327,5.4,Yes,60.55555555555555,12,5.4,327.0,HMDR45PS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR45W,327,5.4,Yes,60.55555555555555,12,5.4,327.0,HMDR45W
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR480**,328,5.9,Yes,55.593220338983045,12,5.9,328.0,HMDR480..
+11A - Compact All-Refrigerator - manual defrost,HMR330BE,219,3.3,Yes,66.36363636363637,11A,3.3,219.0,HMR330BE
+11A - Compact All-Refrigerator - manual defrost,HMR330SE,219,3.3,Yes,66.36363636363637,11A,3.3,219.0,HMR330SE
+11A - Compact All-Refrigerator - manual defrost,HMR330SEF,219,3.3,Yes,66.36363636363637,11A,3.3,219.0,HMR330SEF
+11A - Compact All-Refrigerator - manual defrost,HMR330WE,219,3.3,Yes,66.36363636363637,11A,3.3,219.0,HMR330WE
+11A - Compact All-Refrigerator - manual defrost,HMR440BE,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,HMR440BE
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,HMTR450BE,265,5.0,Yes,53.0,11,5.0,265.0,HMTR450BE
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,HMTR450SE,265,5.0,Yes,53.0,11,5.0,265.0,HMTR450SE
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,HMTR450WE,265,5.0,Yes,53.0,11,5.0,265.0,HMTR450WE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HVDR430BE,329,5.2,Yes,63.26923076923077,12,5.2,329.0,HVDR430BE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HVDR430SE,329,5.2,Yes,63.26923076923077,12,5.2,329.0,HVDR430SE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HVDR430WE,329,5.2,Yes,63.26923076923077,12,5.2,329.0,HVDR430WE
+13A - Compact All-Refrigerators - automatic defrost,MCAR170WE,245,1.7,Yes,144.11764705882354,13A,1.7,245.0,MCAR170WE
+13A - Compact All-Refrigerators - automatic defrost,MCAR240SE2,238,2.4,Yes,99.16666666666667,13A,2.4,238.0,MCAR240SE2
+13A - Compact All-Refrigerators - automatic defrost,MCAR320BE,259,3.2,Yes,80.9375,13A,3.2,259.0,MCAR320BE
+13A - Compact All-Refrigerators - automatic defrost,MCAR320PSE,259,3.2,Yes,80.9375,13A,3.2,259.0,MCAR320PSE
+13A - Compact All-Refrigerators - automatic defrost,MCAR320STE,259,3.2,Yes,80.9375,13A,3.2,259.0,MCAR320STE
+13A - Compact All-Refrigerators - automatic defrost,MCAR320WE,259,3.2,Yes,80.9375,13A,3.2,259.0,MCAR320WE
+13A - Compact All-Refrigerators - automatic defrost,MCAR32BE,259,3.2,Yes,80.9375,13A,3.2,259.0,MCAR32BE
+13A - Compact All-Refrigerators - automatic defrost,MCAR32PSE,259,3.2,Yes,80.9375,13A,3.2,259.0,MCAR32PSE
+13A - Compact All-Refrigerators - automatic defrost,MCAR32STE,259,3.2,Yes,80.9375,13A,3.2,259.0,MCAR32STE
+13A - Compact All-Refrigerators - automatic defrost,MCAR32WE,259,3.2,Yes,80.9375,13A,3.2,259.0,MCAR32WE
+13A - Compact All-Refrigerators - automatic defrost,MCAR440BE,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,MCAR440BE
+13A - Compact All-Refrigerators - automatic defrost,MCAR440ST,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,MCAR440ST
+11A - Compact All-Refrigerator - manual defrost,MCBR265BE,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,MCBR265BE
+11A - Compact All-Refrigerator - manual defrost,MCBR265SE,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,MCBR265SE
+11A - Compact All-Refrigerator - manual defrost,MCBR265WE,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,MCBR265WE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCDR450BE,327,5.4,Yes,60.55555555555555,12,5.4,327.0,MCDR450BE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCDR450SE,327,5.4,Yes,60.55555555555555,12,5.4,327.0,MCDR450SE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCDR450SEF,294,5.2,Yes,56.53846153846153,12,5.2,294.0,MCDR450SEF
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCDR450WE,327,5.4,Yes,60.55555555555555,12,5.4,327.0,MCDR450WE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCDR740BE,345,8.5,Yes,40.588235294117645,12,8.5,345.0,MCDR740BE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCDR740BE1,344,8.3,Yes,41.44578313253012,12,8.3,344.0,MCDR740BE1
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCDR740STE,345,8.5,Yes,40.588235294117645,12,8.5,345.0,MCDR740STE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCDR740STE1,344,8.3,Yes,41.44578313253012,12,8.3,344.0,MCDR740STE1
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCDR740WE,345,8.5,Yes,40.588235294117645,12,8.5,345.0,MCDR740WE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCDR740WE1,344,8.3,Yes,41.44578313253012,12,8.3,344.0,MCDR740WE1
+1 - Built-in Compact Cooler,HWgb 1803,105,1.6,Yes,65.625,1,1.6,105.0,HWgb 1803
+13A - Compact All-Refrigerators - automatic defrost,UPR513,205,4.4,Yes,46.590909090909086,13A,4.4,205.0,UPR513
+13A - Compact All-Refrigerators - automatic defrost,UR500,208,4.8,Yes,43.333333333333336,13A,4.8,208.0,UR500
+11A - Compact All-Refrigerator - manual defrost,LLR72310,207,1.6,Yes,129.375,11A,1.6,207.0,LLR72310
+11A - Compact All-Refrigerator - manual defrost,LLR72311,207,1.6,Yes,129.375,11A,1.6,207.0,LLR72311
+11A - Compact All-Refrigerator - manual defrost,LLR72311,206,1.6,Yes,128.75,11A,1.6,206.0,LLR72311
+11A - Compact All-Refrigerator - manual defrost,LLR72312,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,LLR72312
+11A - Compact All-Refrigerator - manual defrost,LLR72312,218,3.2,Yes,68.125,11A,3.2,218.0,LLR72312
+11A - Compact All-Refrigerator - manual defrost,LLR72313,218,3.2,Yes,68.125,11A,3.2,218.0,LLR72313
+13A - Compact All-Refrigerators - automatic defrost,LN15REF*,192,2.7,Yes,71.1111111111111,13A,2.7,192.0,LN15REF.
+13A - Compact All-Refrigerators - automatic defrost,LN15WINE*,209,2.7,Yes,77.4074074074074,13A,2.7,209.0,LN15WINE.
+13A - Compact All-Refrigerators - automatic defrost,LN24DW*,199,5.0,Yes,39.8,13A,5.0,199.0,LN24DW.
+13A - Compact All-Refrigerators - automatic defrost,LN24REF*,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,LN24REF.
+14 - Compact Refrigerator-Freezer - automatic defrost with side-mounted freezer,LN24REFC*,386,5.7,Yes,67.71929824561403,14,5.7,386.0,LN24REFC.
+13A - Compact All-Refrigerators - automatic defrost,LN24REFG*,251,5.3,Yes,47.35849056603774,13A,5.3,251.0,LN24REFG.
+11A - Compact All-Refrigerator - manual defrost,HMAR265BE,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,HMAR265BE
+11A - Compact All-Refrigerator - manual defrost,HMAR265SE,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,HMAR265SE
+11A - Compact All-Refrigerator - manual defrost,HMAR265STE,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,HMAR265STE
+11A - Compact All-Refrigerator - manual defrost,HMAR265WE,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,HMAR265WE
+13A - Compact All-Refrigerators - automatic defrost,HMAR33BE,258,3.2,Yes,80.625,13A,3.2,258.0,HMAR33BE
+13A - Compact All-Refrigerators - automatic defrost,HMAR33SE,258,3.2,Yes,80.625,13A,3.2,258.0,HMAR33SE
+13A - Compact All-Refrigerators - automatic defrost,HMAR33WE,258,3.2,Yes,80.625,13A,3.2,258.0,HMAR33WE
+13A - Compact All-Refrigerators - automatic defrost,HMAR440BE,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,HMAR440BE
+13A - Compact All-Refrigerators - automatic defrost,HMAR440ST,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,HMAR440ST
+13A - Compact All-Refrigerators - automatic defrost,HMAR440WE,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,HMAR440WE
+11A - Compact All-Refrigerator - manual defrost,HMAR45HCBE,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,HMAR45HCBE
+11A - Compact All-Refrigerator - manual defrost,HMAR45HCSE,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,HMAR45HCSE
+11A - Compact All-Refrigerator - manual defrost,HMAR45HCWE,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,HMAR45HCWE
+11A - Compact All-Refrigerator - manual defrost,HMBR265BE1,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,HMBR265BE1
+11A - Compact All-Refrigerator - manual defrost,HMBR265SE1,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,HMBR265SE1
+11A - Compact All-Refrigerator - manual defrost,HMBR265WE1,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,HMBR265WE1
+11A - Compact All-Refrigerator - manual defrost,HMBR350SEF,221,3.5,Yes,63.142857142857146,11A,3.5,221.0,HMBR350SEF
+11A - Compact All-Refrigerator - manual defrost,HMBR440BE,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,HMBR440BE
+11A - Compact All-Refrigerator - manual defrost,HMBR440BEF,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,HMBR440BEF
+11A - Compact All-Refrigerator - manual defrost,HMBR440SE,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,HMBR440SE
+11A - Compact All-Refrigerator - manual defrost,HMBR440WE,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,HMBR440WE
+11A - Compact All-Refrigerator - manual defrost,HMBR440WEF,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,HMBR440WEF
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMCR320BE,323,3.9,Yes,82.82051282051282,12,3.9,323.0,HMCR320BE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMCR320ME,323,3.9,Yes,82.82051282051282,12,3.9,323.0,HMCR320ME
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMCR320RE,323,3.9,Yes,82.82051282051282,12,3.9,323.0,HMCR320RE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMCR320WE,323,3.9,Yes,82.82051282051282,12,3.9,323.0,HMCR320WE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR310**,320,3.7,Yes,86.48648648648648,12,3.7,320.0,HMDR310..
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR310BE,320,3.8,Yes,84.21052631578948,12,3.8,320.0,HMDR310BE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR310SE,320,3.8,Yes,84.21052631578948,12,3.8,320.0,HMDR310SE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR310WE,320,3.8,Yes,84.21052631578948,12,3.8,320.0,HMDR310WE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR31GBE,320,3.8,Yes,84.21052631578948,12,3.8,320.0,HMDR31GBE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR31GSE,320,3.8,Yes,84.21052631578948,12,3.8,320.0,HMDR31GSE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR31GWE,320,3.8,Yes,84.21052631578948,12,3.8,320.0,HMDR31GWE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR450BE,327,5.4,Yes,60.55555555555555,12,5.4,327.0,HMDR450BE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR450SE,327,5.4,Yes,60.55555555555555,12,5.4,327.0,HMDR450SE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HMDR450SEF,327,5.4,Yes,60.55555555555555,12,5.4,327.0,HMDR450SEF
+11A - Compact All-Refrigerator - manual defrost,MCR16CHB,208,1.6,Yes,130.0,11A,1.6,208.0,MCR16CHB
+11A - Compact All-Refrigerator - manual defrost,MCR16CHM,208,1.6,Yes,130.0,11A,1.6,208.0,MCR16CHM
+11A - Compact All-Refrigerator - manual defrost,MCR16CHR,208,1.6,Yes,130.0,11A,1.6,208.0,MCR16CHR
+11A - Compact All-Refrigerator - manual defrost,MCR16CHW,208,1.6,Yes,130.0,11A,1.6,208.0,MCR16CHW
+11A - Compact All-Refrigerator - manual defrost,MCR170WE,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,MCR170WE
+11A - Compact All-Refrigerator - manual defrost,MCR32CHB,219,3.2,Yes,68.4375,11A,3.2,219.0,MCR32CHB
+11A - Compact All-Refrigerator - manual defrost,MCR32CHM,219,3.2,Yes,68.4375,11A,3.2,219.0,MCR32CHM
+11A - Compact All-Refrigerator - manual defrost,MCR32CHR,219,3.2,Yes,68.4375,11A,3.2,219.0,MCR32CHR
+11A - Compact All-Refrigerator - manual defrost,MCR32CHW,219,3.2,Yes,68.4375,11A,3.2,219.0,MCR32CHW
+11A - Compact All-Refrigerator - manual defrost,MCR44BE,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,MCR44BE
+11A - Compact All-Refrigerator - manual defrost,MCR44SE,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,MCR44SE
+11A - Compact All-Refrigerator - manual defrost,MCR44WE,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,MCR44WE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MC552SS,338,7.3,Yes,46.3013698630137,12,7.3,338.0,MC552SS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCR32J0W,312,3.9,Yes,80.0,12,3.9,312.0,MCR32J0W
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCR32J1B,312,3.9,Yes,80.0,12,3.9,312.0,MCR32J1B
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCR32J3S,312,3.9,Yes,80.0,12,3.9,312.0,MCR32J3S
+11A - Compact All-Refrigerator - manual defrost,MCR33J0W,218,3.2,Yes,68.125,11A,3.2,218.0,MCR33J0W
+11A - Compact All-Refrigerator - manual defrost,MCR33J1B,218,3.2,Yes,68.125,11A,3.2,218.0,MCR33J1B
+11A - Compact All-Refrigerator - manual defrost,MCR33JS,218,3.2,Yes,68.125,11A,3.2,218.0,MCR33JS
+11A - Compact All-Refrigerator - manual defrost,MCR46J0W,229,4.6,Yes,49.78260869565218,11A,4.6,229.0,MCR46J0W
+11A - Compact All-Refrigerator - manual defrost,MCR46J1B,229,4.6,Yes,49.78260869565218,11A,4.6,229.0,MCR46J1B
+11A - Compact All-Refrigerator - manual defrost,MCR46J3S,229,4.6,Yes,49.78260869565218,11A,4.6,229.0,MCR46J3S
+13A - Compact All-Refrigerators - automatic defrost,MAR32BLS,259,3.2,Yes,80.9375,13A,3.2,259.0,MAR32BLS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCR31BLS,320,3.8,Yes,84.21052631578948,12,3.8,320.0,MCR31BLS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MRF7B,332,8.5,Yes,39.05882352941177,12,8.5,332.0,MRF7B
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MRF7S,332,8.5,Yes,39.05882352941177,12,8.5,332.0,MRF7S
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MRF7W,332,8.5,Yes,39.05882352941177,12,8.5,332.0,MRF7W
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCH3G14,240,3.8,Yes,63.15789473684211,12,3.8,240.0,MCH3G14
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCH4G16,199,3.8,Yes,52.36842105263158,12,3.8,199.0,MCH4G16
+13A - Compact All-Refrigerators - automatic defrost,2.3MF4R,223,2.3,Yes,96.95652173913044,13A,2.3,223.0,2.3MF4R
+13A - Compact All-Refrigerators - automatic defrost,2.3MF4RS,223,2.3,Yes,96.95652173913044,13A,2.3,223.0,2.3MF4RS
+13A - Compact All-Refrigerators - automatic defrost,2.3MF4RW,223,2.3,Yes,96.95652173913044,13A,2.3,223.0,2.3MF4RW
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.0LMF4RH,319,3.6,Yes,88.61111111111111,12,3.6,319.0,3.0LMF4RH
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.0LMF4RHS,319,3.6,Yes,88.61111111111111,12,3.6,319.0,3.0LMF4RHS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.0LMF4RHW,319,3.6,Yes,88.61111111111111,12,3.6,319.0,3.0LMF4RHW
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.0LMF4RW,319,3.6,Yes,88.61111111111111,12,3.6,319.0,3.0LMF4RW
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.0MF4R,319,3.6,Yes,88.61111111111111,12,3.6,319.0,3.0MF4R
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.0MF4RCB,319,3.6,Yes,88.61111111111111,12,3.6,319.0,3.0MF4RCB
+11A - Compact All-Refrigerator - manual defrost,MCR44BLS,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,MCR44BLS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCR49*,328,5.9,Yes,55.593220338983045,12,5.9,328.0,MCR49.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MCR49W,328,5.9,Yes,55.593220338983045,12,5.9,328.0,MCR49W
+13A - Compact All-Refrigerators - automatic defrost,MA24RA1S***,185,4.6,Yes,40.21739130434783,13A,4.6,185.0,MA24RA1S...
+13A - Compact All-Refrigerators - automatic defrost,MLBV*15-IG01A,209,2.7,Yes,77.4074074074074,13A,2.7,209.0,MLBV.15-IG01A
+13A - Compact All-Refrigerators - automatic defrost,MLBV*15-IS01A,192,2.7,Yes,71.1111111111111,13A,2.7,192.0,MLBV.15-IS01A
+13A - Compact All-Refrigerators - automatic defrost,MLBV*15-SG01A,209,2.7,Yes,77.4074074074074,13A,2.7,209.0,MLBV.15-SG01A
+13A - Compact All-Refrigerators - automatic defrost,MLBV*15-SS01A,192,2.7,Yes,71.1111111111111,13A,2.7,192.0,MLBV.15-SS01A
+13A - Compact All-Refrigerators - automatic defrost,MLBV*24-IG01A,251,5.3,Yes,47.35849056603774,13A,5.3,251.0,MLBV.24-IG01A
+13A - Compact All-Refrigerators - automatic defrost,MLBV*24-IS01A,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,MLBV.24-IS01A
+13A - Compact All-Refrigerators - automatic defrost,MLBV*24-SG01A,251,5.3,Yes,47.35849056603774,13A,5.3,251.0,MLBV.24-SG01A
+13A - Compact All-Refrigerators - automatic defrost,MLBV*24-SS01A,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,MLBV.24-SS01A
+13A - Compact All-Refrigerators - automatic defrost,MLDR*24-IS61A,217,5.0,Yes,43.4,13A,5.0,217.0,MLDR.24-IS61A
+13A - Compact All-Refrigerators - automatic defrost,MLDR*24-SS61A,217,5.0,Yes,43.4,13A,5.0,217.0,MLDR.24-SS61A
+13A - Compact All-Refrigerators - automatic defrost,MLRE*15-IG01A,209,2.7,Yes,77.4074074074074,13A,2.7,209.0,MLRE.15-IG01A
+13A - Compact All-Refrigerators - automatic defrost,MLRE*15-IS01A,192,2.7,Yes,71.1111111111111,13A,2.7,192.0,MLRE.15-IS01A
+13A - Compact All-Refrigerators - automatic defrost,MLRE*15-SG01A,209,2.7,Yes,77.4074074074074,13A,2.7,209.0,MLRE.15-SG01A
+13A - Compact All-Refrigerators - automatic defrost,MLRE*15-SS01A,192,2.7,Yes,71.1111111111111,13A,2.7,192.0,MLRE.15-SS01A
+13A - Compact All-Refrigerators - automatic defrost,MLRE*24-BG01A,251,5.3,Yes,47.35849056603774,13A,5.3,251.0,MLRE.24-BG01A
+13A - Compact All-Refrigerators - automatic defrost,MLRE*24-IG01A,251,5.3,Yes,47.35849056603774,13A,5.3,251.0,MLRE.24-IG01A
+13A - Compact All-Refrigerators - automatic defrost,MLRE*24-IS01A,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,MLRE.24-IS01A
+13A - Compact All-Refrigerators - automatic defrost,MLRE*24-IS11A,219,5.0,Yes,43.8,13A,5.0,219.0,MLRE.24-IS11A
+13A - Compact All-Refrigerators - automatic defrost,MLRE*24-IS21A,219,5.0,Yes,43.8,13A,5.0,219.0,MLRE.24-IS21A
+13A - Compact All-Refrigerators - automatic defrost,MLRE*24-SG01A,251,5.3,Yes,47.35849056603774,13A,5.3,251.0,MLRE.24-SG01A
+13A - Compact All-Refrigerators - automatic defrost,MLRE*24-SS01A,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,MLRE.24-SS01A
+13A - Compact All-Refrigerators - automatic defrost,MLRE*24-SS11A,219,5.0,Yes,43.8,13A,5.0,219.0,MLRE.24-SS11A
+13A - Compact All-Refrigerators - automatic defrost,MLRE*24-SS21A,219,5.0,Yes,43.8,13A,5.0,219.0,MLRE.24-SS21A
+14 - Compact Refrigerator-Freezer - automatic defrost with side-mounted freezer,MLRF*24-IS*1A,386,5.7,Yes,67.71929824561403,14,5.7,386.0,MLRF.24-IS.1A
+14 - Compact Refrigerator-Freezer - automatic defrost with side-mounted freezer,MLRF*24-SS*1A,386,5.7,Yes,67.71929824561403,14,5.7,386.0,MLRF.24-SS.1A
+14I - Compact Refrigerator-Freezer - automatic defrost with side-mounted freezer with an automatic icemaker,MLRI*24-IS*1A,470,5.7,Yes,82.45614035087719,14I,5.7,470.0,MLRI.24-IS.1A
+14I - Compact Refrigerator-Freezer - automatic defrost with side-mounted freezer with an automatic icemaker,MLRI*24-SS*1A,470,5.7,Yes,82.45614035087719,14I,5.7,470.0,MLRI.24-SS.1A
+13A - Compact All-Refrigerators - automatic defrost,MLWC*15-IG01A,209,2.7,Yes,77.4074074074074,13A,2.7,209.0,MLWC.15-IG01A
+13A - Compact All-Refrigerators - automatic defrost,MLWC*15-IS01A,192,2.7,Yes,71.1111111111111,13A,2.7,192.0,MLWC.15-IS01A
+13A - Compact All-Refrigerators - automatic defrost,MLWC*15-SG01A,209,2.7,Yes,77.4074074074074,13A,2.7,209.0,MLWC.15-SG01A
+13A - Compact All-Refrigerators - automatic defrost,MLWC*15-SS01A,192,2.7,Yes,71.1111111111111,13A,2.7,192.0,MLWC.15-SS01A
+13A - Compact All-Refrigerators - automatic defrost,MLWC*24-IG01A,251,5.3,Yes,47.35849056603774,13A,5.3,251.0,MLWC.24-IG01A
+13A - Compact All-Refrigerators - automatic defrost,MLWC*24-IS01A,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,MLWC.24-IS01A
+13A - Compact All-Refrigerators - automatic defrost,MLWC*24-SG01A,251,5.3,Yes,47.35849056603774,13A,5.3,251.0,MLWC.24-SG01A
+13A - Compact All-Refrigerators - automatic defrost,MLWC*24-SS01A,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,MLWC.24-SS01A
+13A - Compact All-Refrigerators - automatic defrost,MODR*24-SS71A,199,5.0,Yes,39.8,13A,5.0,199.0,MODR.24-SS71A
+13A - Compact All-Refrigerators - automatic defrost,MORE*15-SS01A,209,2.7,Yes,77.4074074074074,13A,2.7,209.0,MORE.15-SS01A
+13A - Compact All-Refrigerators - automatic defrost,MORE*15-SS31A,192,2.7,Yes,71.1111111111111,13A,2.7,192.0,MORE.15-SS31A
+13A - Compact All-Refrigerators - automatic defrost,MORE*24-SS*1A,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,MORE.24-SS.1A
+14 - Compact Refrigerator-Freezer - automatic defrost with side-mounted freezer,MORF*24-SS*1A,386,5.7,Yes,67.71929824561403,14,5.7,386.0,MORF.24-SS.1A
+13A - Compact All-Refrigerators - automatic defrost,MPBV415-IG31A,209,2.8,Yes,74.64285714285715,13A,2.8,209.0,MPBV415-IG31A
+13A - Compact All-Refrigerators - automatic defrost,MPBV415-IS31A,191,2.7,Yes,70.74074074074073,13A,2.7,191.0,MPBV415-IS31A
+13A - Compact All-Refrigerators - automatic defrost,MPBV415-SG31A,209,2.8,Yes,74.64285714285715,13A,2.8,209.0,MPBV415-SG31A
+13A - Compact All-Refrigerators - automatic defrost,MPBV415-SS31A,191,2.7,Yes,70.74074074074073,13A,2.7,191.0,MPBV415-SS31A
+13A - Compact All-Refrigerators - automatic defrost,MPBV424-IG31A,249,5.4,Yes,46.11111111111111,13A,5.4,249.0,MPBV424-IG31A
+13A - Compact All-Refrigerators - automatic defrost,MPBV424-IS31A,234,5.1,Yes,45.88235294117647,13A,5.1,234.0,MPBV424-IS31A
+13A - Compact All-Refrigerators - automatic defrost,MPBV424-SG31A,249,5.4,Yes,46.11111111111111,13A,5.4,249.0,MPBV424-SG31A
+13A - Compact All-Refrigerators - automatic defrost,MPBV424-SS31A,234,5.1,Yes,45.88235294117647,13A,5.1,234.0,MPBV424-SS31A
+13A - Compact All-Refrigerators - automatic defrost,MPDR424-IS71A,199,5.0,Yes,39.8,13A,5.0,199.0,MPDR424-IS71A
+13A - Compact All-Refrigerators - automatic defrost,MPDR424-SS71A,199,5.0,Yes,39.8,13A,5.0,199.0,MPDR424-SS71A
+13A - Compact All-Refrigerators - automatic defrost,MPRE424-IG31A,249,5.4,Yes,46.11111111111111,13A,5.4,249.0,MPRE424-IG31A
+13A - Compact All-Refrigerators - automatic defrost,MPRE424-IS31A,234,5.1,Yes,45.88235294117647,13A,5.1,234.0,MPRE424-IS31A
+13A - Compact All-Refrigerators - automatic defrost,MPRE424-SG31A,249,5.4,Yes,46.11111111111111,13A,5.4,249.0,MPRE424-SG31A
+13A - Compact All-Refrigerators - automatic defrost,MPRE424-SS31A,234,5.1,Yes,45.88235294117647,13A,5.1,234.0,MPRE424-SS31A
+14 - Compact Refrigerator-Freezer - automatic defrost with side-mounted freezer,MPRF*24-IS*1A,386,5.7,Yes,67.71929824561403,14,5.7,386.0,MPRF.24-IS.1A
+14 - Compact Refrigerator-Freezer - automatic defrost with side-mounted freezer,MPRF*24-SS*1A,386,5.7,Yes,67.71929824561403,14,5.7,386.0,MPRF.24-SS.1A
+14I - Compact Refrigerator-Freezer - automatic defrost with side-mounted freezer with an automatic icemaker,MPRI*24-IS*1A,470,5.7,Yes,82.45614035087719,14I,5.7,470.0,MPRI.24-IS.1A
+14I - Compact Refrigerator-Freezer - automatic defrost with side-mounted freezer with an automatic icemaker,MPRI*24-SS*1A,470,5.7,Yes,82.45614035087719,14I,5.7,470.0,MPRI.24-SS.1A
+13A - Compact All-Refrigerators - automatic defrost,MPWC415-IG31A,205,2.7,Yes,75.92592592592592,13A,2.7,205.0,MPWC415-IG31A
+13A - Compact All-Refrigerators - automatic defrost,MPWC415-IS31A,191,2.7,Yes,70.74074074074073,13A,2.7,191.0,MPWC415-IS31A
+13A - Compact All-Refrigerators - automatic defrost,MPWC415-SG31A,205,2.7,Yes,75.92592592592592,13A,2.7,205.0,MPWC415-SG31A
+13A - Compact All-Refrigerators - automatic defrost,MPWC415-SS31A,191,2.7,Yes,70.74074074074073,13A,2.7,191.0,MPWC415-SS31A
+13A - Compact All-Refrigerators - automatic defrost,MPWC424-IG31A,249,5.2,Yes,47.88461538461538,13A,5.2,249.0,MPWC424-IG31A
+13A - Compact All-Refrigerators - automatic defrost,MPWC424-IS31A,234,5.1,Yes,45.88235294117647,13A,5.1,234.0,MPWC424-IS31A
+13A - Compact All-Refrigerators - automatic defrost,MPWC424-SG31A,249,5.2,Yes,47.88461538461538,13A,5.2,249.0,MPWC424-SG31A
+13A - Compact All-Refrigerators - automatic defrost,MPWC424-SS31A,234,5.1,Yes,45.88235294117647,13A,5.1,234.0,MPWC424-SS31A
+11A - Compact All-Refrigerator - manual defrost,043-0288-4,207,1.6,Yes,129.375,11A,1.6,207.0,043-0288-4
+11A - Compact All-Refrigerator - manual defrost,043-0289-2,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,043-0289-2
+11A - Compact All-Refrigerator - manual defrost,043-0290-6,226,4.2,Yes,53.80952380952381,11A,4.2,226.0,043-0290-6
+11A - Compact All-Refrigerator - manual defrost,043-0290-6,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,043-0290-6
+12 - Compact Refrigerator-Freezer - partial automatic defrost,043-0291-4,321,3.6,Yes,89.16666666666667,12,3.6,321.0,043-0291-4
+12 - Compact Refrigerator-Freezer - partial automatic defrost,043-0291-4,270,3.8,Yes,71.05263157894737,12,3.8,270.0,043-0291-4
+13A - Compact All-Refrigerators - automatic defrost,043-2383-4,221,1.7,Yes,130.0,13A,1.7,221.0,043-2383-4
+13A - Compact All-Refrigerators - automatic defrost,043-2384-2,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,043-2384-2
+13A - Compact All-Refrigerators - automatic defrost,043-2385-0,268,4.4,Yes,60.90909090909091,13A,4.4,268.0,043-2385-0
+13A - Compact All-Refrigerators - automatic defrost,399-6488-6,270,4.9,Yes,55.10204081632653,13A,4.9,270.0,399-6488-6
+11A - Compact All-Refrigerator - manual defrost,399-8371-0,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,399-8371-0
+13A - Compact All-Refrigerators - automatic defrost,MAXBC52SD,258,5.2,Yes,49.61538461538461,13A,5.2,258.0,MAXBC52SD
+3 - Freestanding Compact Cooler,MRW34S2ABB,143,3.3,Yes,43.333333333333336,3,3.3,143.0,MRW34S2ABB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WHD-113FB1,270,3.8,Yes,71.05263157894737,12,3.8,270.0,WHD-113FB1
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WHD-113FSS1,270,3.8,Yes,71.05263157894737,12,3.8,270.0,WHD-113FSS1
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WHD-113FW1,270,3.8,Yes,71.05263157894737,12,3.8,270.0,WHD-113FW1
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WHD-125FBS1,260,4.1,Yes,63.41463414634147,12,4.1,260.0,WHD-125FBS1
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WHD-125FBS2,260,4.1,Yes,63.41463414634147,12,4.1,260.0,WHD-125FBS2
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WHD-127FW1,290,4.3,Yes,67.44186046511628,12,4.3,290.0,WHD-127FW1
+11A - Compact All-Refrigerator - manual defrost,WHS-121LB1,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,WHS-121LB1
+11A - Compact All-Refrigerator - manual defrost,WHS-121LSS1,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,WHS-121LSS1
+11A - Compact All-Refrigerator - manual defrost,WHS-121LW1,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,WHS-121LW1
+11A - Compact All-Refrigerator - manual defrost,WHS-160RB1,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,WHS-160RB1
+11A - Compact All-Refrigerator - manual defrost,WHS-160RSS1,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,WHS-160RSS1
+11A - Compact All-Refrigerator - manual defrost,WHS-160RW1,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,WHS-160RW1
+11A - Compact All-Refrigerator - manual defrost,WHS-65LB1,207,1.6,Yes,129.375,11A,1.6,207.0,WHS-65LB1
+11A - Compact All-Refrigerator - manual defrost,WHS-65LSS1,207,1.6,Yes,129.375,11A,1.6,207.0,WHS-65LSS1
+11A - Compact All-Refrigerator - manual defrost,WHS-65LW1,207,1.6,Yes,129.375,11A,1.6,207.0,WHS-65LW1
+11A - Compact All-Refrigerator - manual defrost,WHS-87LB1,213,2.4,Yes,88.75,11A,2.4,213.0,WHS-87LB1
+11A - Compact All-Refrigerator - manual defrost,WHS-87LB1B,213,2.4,Yes,88.75,11A,2.4,213.0,WHS-87LB1B
+11A - Compact All-Refrigerator - manual defrost,WHS-87LSS1,213,2.4,Yes,88.75,11A,2.4,213.0,WHS-87LSS1
+11A - Compact All-Refrigerator - manual defrost,WHS-87LW1,213,2.4,Yes,88.75,11A,2.4,213.0,WHS-87LW1
+11A - Compact All-Refrigerator - manual defrost,WHS-87LWD1,213,2.4,Yes,88.75,11A,2.4,213.0,WHS-87LWD1
+11A - Compact All-Refrigerator - manual defrost,WHS-95RB1,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,WHS-95RB1
+11A - Compact All-Refrigerator - manual defrost,WHS-95RSS1,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,WHS-95RSS1
+11A - Compact All-Refrigerator - manual defrost,WHS-95RW1,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,WHS-95RW1
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.0MF4RS,319,3.6,Yes,88.61111111111111,12,3.6,319.0,3.0MF4RS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.0MF4RSCB,319,3.6,Yes,88.61111111111111,12,3.6,319.0,3.0MF4RSCB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.0RMF4RH,319,3.6,Yes,88.61111111111111,12,3.6,319.0,3.0RMF4RH
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.0RMF4RHS,319,3.6,Yes,88.61111111111111,12,3.6,319.0,3.0RMF4RHS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.0RMF4RHW,319,3.6,Yes,88.61111111111111,12,3.6,319.0,3.0RMF4RHW
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.0RMF4RW,319,3.6,Yes,88.61111111111111,12,3.6,319.0,3.0RMF4RW
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.1MF7R,195,3.8,Yes,51.31578947368421,12,3.8,195.0,3.1MF7R
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.1MF7RS,195,3.8,Yes,51.31578947368421,12,3.8,195.0,3.1MF7RS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3.1MF7RW,195,3.8,Yes,51.31578947368421,12,3.8,195.0,3.1MF7RW
+12 - Compact Refrigerator-Freezer - partial automatic defrost,4.5MF1R,327,5.4,Yes,60.55555555555555,12,5.4,327.0,4.5MF1R
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,4.8LMF4RH,346,5.8,Yes,59.6551724137931,13,5.8,346.0,4.8LMF4RH
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,4.8LMF4RHW,346,5.8,Yes,59.6551724137931,13,5.8,346.0,4.8LMF4RHW
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,4.8LMF4RW,346,5.8,Yes,59.6551724137931,13,5.8,346.0,4.8LMF4RW
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,4.8MF4R,346,5.8,Yes,59.6551724137931,13,5.8,346.0,4.8MF4R
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,4.8MF4RW,346,5.8,Yes,59.6551724137931,13,5.8,346.0,4.8MF4RW
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,4.8RMF4RH,346,5.8,Yes,59.6551724137931,13,5.8,346.0,4.8RMF4RH
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,4.8RMF4RHW,346,5.8,Yes,59.6551724137931,13,5.8,346.0,4.8RMF4RHW
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,4.8RMF4RW,346,5.8,Yes,59.6551724137931,13,5.8,346.0,4.8RMF4RW
+13A - Compact All-Refrigerators - automatic defrost,2.6MF4R,228,2.6,Yes,87.6923076923077,13A,2.6,228.0,2.6MF4R
+13A - Compact All-Refrigerators - automatic defrost,3.2MF4R,258,3.2,Yes,80.625,13A,3.2,258.0,3.2MF4R
+13A - Compact All-Refrigerators - automatic defrost,3.2MF4RS,258,3.2,Yes,80.625,13A,3.2,258.0,3.2MF4RS
+13A - Compact All-Refrigerators - automatic defrost,3.2MF4RW,258,3.2,Yes,80.625,13A,3.2,258.0,3.2MF4RW
+13A - Compact All-Refrigerators - automatic defrost,3.3MF4R,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,3.3MF4R
+13A - Compact All-Refrigerators - automatic defrost,2.5MF4*,227,2.5,Yes,90.8,13A,2.5,227.0,2.5MF4.
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,299-5786-0,220,3.3,Yes,66.66666666666667,11,3.3,220.0,299-5786-0
+12 - Compact Refrigerator-Freezer - partial automatic defrost,HD-113F,270,3.8,Yes,71.05263157894737,12,3.8,270.0,HD-113F
+11A - Compact All-Refrigerator - manual defrost,HS-121L(N)-W,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,HS-121L(N)-W
+11A - Compact All-Refrigerator - manual defrost,HS-160R,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,HS-160R
+11A - Compact All-Refrigerator - manual defrost,HS-57LB,207,1.6,Yes,129.375,11A,1.6,207.0,HS-57LB
+11A - Compact All-Refrigerator - manual defrost,MA44EIGBR2RCM,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,MA44EIGBR2RCM
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MDRT134FGF04PRR,270,3.8,Yes,71.05263157894737,12,3.8,270.0,MDRT134FGF04PRR
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MDRT187FGF30PRR,329,5.6,Yes,58.75000000000001,12,5.6,329.0,MDRT187FGF30PRR
+13A - Compact All-Refrigerators - automatic defrost,MERM17S1ABB,246,1.7,Yes,144.7058823529412,13A,1.7,246.0,MERM17S1ABB
+11A - Compact All-Refrigerator - manual defrost,MERM24S1ASL,213,2.4,Yes,88.75,11A,2.4,213.0,MERM24S1ASL
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MERM31D2A**,270,3.8,Yes,71.05263157894737,12,3.8,270.0,MERM31D2A..
+11A - Compact All-Refrigerator - manual defrost,MERM33S1A**,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,MERM33S1A..
+13A - Compact All-Refrigerators - automatic defrost,MERM44S1ASL,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,MERM44S1ASL
+11A - Compact All-Refrigerator - manual defrost,MFRM017AEB,207,1.6,Yes,129.375,11A,1.6,207.0,MFRM017AEB
+11A - Compact All-Refrigerator - manual defrost,MFRM017AES,207,1.6,Yes,129.375,11A,1.6,207.0,MFRM017AES
+11A - Compact All-Refrigerator - manual defrost,MFRM017AEW,207,1.6,Yes,129.375,11A,1.6,207.0,MFRM017AEW
+13A - Compact All-Refrigerators - automatic defrost,MK049ASTC,270,4.9,Yes,55.10204081632653,13A,4.9,270.0,MK049ASTC
+11A - Compact All-Refrigerator - manual defrost,MRM14A4ABB,205,1.4,Yes,146.42857142857144,11A,1.4,205.0,MRM14A4ABB
+11A - Compact All-Refrigerator - manual defrost,MRM16B2ABB,207,1.6,Yes,129.375,11A,1.6,207.0,MRM16B2ABB
+11A - Compact All-Refrigerator - manual defrost,MRM31A4ABB,217,3.1,Yes,70.0,11A,3.1,217.0,MRM31A4ABB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MRM31D2BST,270,3.8,Yes,71.05263157894737,12,3.8,270.0,MRM31D2BST
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MRM31S4ASLC,270,3.8,Yes,71.05263157894737,12,3.8,270.0,MRM31S4ASLC
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MRM32B4ABB,270,3.8,Yes,71.05263157894737,12,3.8,270.0,MRM32B4ABB
+11A - Compact All-Refrigerator - manual defrost,MRM33B4ABB,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,MRM33B4ABB
+11A - Compact All-Refrigerator - manual defrost,MRM33S4ASLC,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,MRM33S4ASLC
+11A - Compact All-Refrigerator - manual defrost,MRM33S4AWWC,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,MRM33S4AWWC
+11A - Compact All-Refrigerator - manual defrost,MRM33S7ASL,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,MRM33S7ASL
+11A - Compact All-Refrigerator - manual defrost,MRM33S8ASL,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,MRM33S8ASL
+11A - Compact All-Refrigerator - manual defrost,MRM33S8ASL*,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,MRM33S8ASL.
+11A - Compact All-Refrigerator - manual defrost,MRM33S8ESL*,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,MRM33S8ESL.
+11A - Compact All-Refrigerator - manual defrost,MRM33S9ASL,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,MRM33S9ASL
+11A - Compact All-Refrigerator - manual defrost,MRM44B1SL,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,MRM44B1SL
+11A - Compact All-Refrigerator - manual defrost,MRM44B4ABB,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,MRM44B4ABB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MRM45B4ABB,329,5.6,Yes,58.75000000000001,12,5.6,329.0,MRM45B4ABB
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MRM45D3ASL,329,5.6,Yes,58.75000000000001,12,5.6,329.0,MRM45D3ASL
+13A - Compact All-Refrigerators - automatic defrost,K31222UI,208,4.8,Yes,43.333333333333336,13A,4.8,208.0,K31222UI
+11A - Compact All-Refrigerator - manual defrost,3W1WF32,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,3W1WF32
+11A - Compact All-Refrigerator - manual defrost,3W1WF45,216,4.4,Yes,49.090909090909086,11A,4.4,216.0,3W1WF45
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3W2BF32,270,3.8,Yes,71.05263157894737,12,3.8,270.0,3W2BF32
+12 - Compact Refrigerator-Freezer - partial automatic defrost,3W2WF32,270,3.8,Yes,71.05263157894737,12,3.8,270.0,3W2WF32
+13A - Compact All-Refrigerators - automatic defrost,HA24B*4C-**-*****,272,4.8,Yes,56.66666666666667,13A,4.8,272.0,HA24B.4C-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HA24R*4C-**-*****,272,4.8,Yes,56.66666666666667,13A,4.8,272.0,HA24R.4C-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HA24R*4E-**-*****,254,4.7,Yes,54.04255319148936,13A,4.7,254.0,HA24R.4E-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HC24B*4C-**-*****,276,5.2,Yes,53.07692307692307,13A,5.2,276.0,HC24B.4C-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HC24R*4C-**-*****,276,5.2,Yes,53.07692307692307,13A,5.2,276.0,HC24R.4C-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HC24RB4E-**-*****,266,5.1,Yes,52.156862745098046,13A,5.1,266.0,HC24RB4E-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HC24T*4C-**-*****,276,5.2,Yes,53.07692307692307,13A,5.2,276.0,HC24T.4C-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HH24B*4C-**-*****,259,3.2,Yes,80.9375,13A,3.2,259.0,HH24B.4C-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HH24R*4C-**-*****,259,3.2,Yes,80.9375,13A,3.2,259.0,HH24R.4C-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HP15R*4E-**-*****,256,2.8,Yes,91.42857142857143,13A,2.8,256.0,HP15R.4E-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HP24B*4C-**-*****,276,5.2,Yes,53.07692307692307,13A,5.2,276.0,HP24B.4C-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HP24R*4C-**-*****,276,5.2,Yes,53.07692307692307,13A,5.2,276.0,HP24R.4C-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HP24RS4E-**-*****,266,5.1,Yes,52.156862745098046,13A,5.1,266.0,HP24RS4E-..-.....
+13A - Compact All-Refrigerators - automatic defrost,HP24T*4C-**-*****,276,5.2,Yes,53.07692307692307,13A,5.2,276.0,HP24T.4C-..-.....
+11A - Compact All-Refrigerator - manual defrost,PRF1650MW,207,1.6,Yes,129.375,11A,1.6,207.0,PRF1650MW
+11A - Compact All-Refrigerator - manual defrost,PRF1660MS,207,1.6,Yes,129.375,11A,1.6,207.0,PRF1660MS
+11A - Compact All-Refrigerator - manual defrost,PRF1670MB,207,1.6,Yes,129.375,11A,1.6,207.0,PRF1670MB
+11A - Compact All-Refrigerator - manual defrost,PRF24500MW,213,2.4,Yes,88.75,11A,2.4,213.0,PRF24500MW
+11A - Compact All-Refrigerator - manual defrost,PRF24600MS,213,2.4,Yes,88.75,11A,2.4,213.0,PRF24600MS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,PRF31500MW,270,3.8,Yes,71.05263157894737,12,3.8,270.0,PRF31500MW
+11A - Compact All-Refrigerator - manual defrost,PRF33500MW,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,PRF33500MW
+11A - Compact All-Refrigerator - manual defrost,PRF33600MS,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,PRF33600MS
+11A - Compact All-Refrigerator - manual defrost,PRF44500MW,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,PRF44500MW
+11A - Compact All-Refrigerator - manual defrost,PRF44600MS,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,PRF44600MS
+11A - Compact All-Refrigerator - manual defrost,PRF32405*,218,3.2,Yes,68.125,11A,3.2,218.0,PRF32405.
+11A - Compact All-Refrigerator - manual defrost,PRF32406*,218,3.2,Yes,68.125,11A,3.2,218.0,PRF32406.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,PRF44550300HW,327,5.4,Yes,60.55555555555555,12,5.4,327.0,PRF44550300HW
+12 - Compact Refrigerator-Freezer - partial automatic defrost,PRF44660300HS,327,5.4,Yes,60.55555555555555,12,5.4,327.0,PRF44660300HS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,PRF7350HW,344,8.3,Yes,41.44578313253012,12,8.3,344.0,PRF7350HW
+12 - Compact Refrigerator-Freezer - partial automatic defrost,PRF7360HS,344,8.3,Yes,41.44578313253012,12,8.3,344.0,PRF7360HS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,PRF7370HB,344,8.3,Yes,41.44578313253012,12,8.3,344.0,PRF7370HB
+13A - Compact All-Refrigerators - automatic defrost,BC29,241,1.0,Yes,241.0,13A,1.0,241.0,BC29
+13A - Compact All-Refrigerators - automatic defrost,BC48,221,1.7,Yes,130.0,13A,1.7,221.0,BC48
+13A - Compact All-Refrigerators - automatic defrost,BC70,259,2.6,Yes,99.61538461538461,13A,2.6,259.0,BC70
+11A - Compact All-Refrigerator - manual defrost,FR180-MW-SS-B,206,1.6,Yes,128.75,11A,1.6,206.0,FR180-MW-SS-B
+11A - Compact All-Refrigerator - manual defrost,FR336-W-B-SSBLACK,193,3.2,Yes,60.3125,11A,3.2,193.0,FR336-W-B-SSBLACK
+12 - Compact Refrigerator-Freezer - partial automatic defrost,FR870-B-MW-BLACK,322,3.8,Yes,84.73684210526316,12,3.8,322.0,FR870-B-MW-BLACK
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NRF031****,270,3.8,Yes,71.05263157894737,12,3.8,270.0,NRF031....
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NRF031BK00,270,3.8,Yes,71.05263157894737,12,3.8,270.0,NRF031BK00
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NRF031GA00,270,3.8,Yes,71.05263157894737,12,3.8,270.0,NRF031GA00
+11A - Compact All-Refrigerator - manual defrost,NRF033****,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,NRF033....
+11A - Compact All-Refrigerator - manual defrost,NRF033BK00,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,NRF033BK00
+11A - Compact All-Refrigerator - manual defrost,NRF033GA00,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,NRF033GA00
+13A - Compact All-Refrigerators - automatic defrost,MCR3U-OHC,239,3.1,Yes,77.09677419354838,13A,3.1,239.0,MCR3U-OHC
+13A - Compact All-Refrigerators - automatic defrost,MCR5U-OHC,235,5.3,Yes,44.339622641509436,13A,5.3,235.0,MCR5U-OHC
+12 - Compact Refrigerator-Freezer - partial automatic defrost,NPDR340STE,260,4.1,Yes,63.41463414634147,12,4.1,260.0,NPDR340STE
+13A - Compact All-Refrigerators - automatic defrost,NDBV*15**G*1*,220,2.8,Yes,78.57142857142857,13A,2.8,220.0,NDBV.15..G.1.
+13A - Compact All-Refrigerators - automatic defrost,NDBV*24**G*1*,278,5.4,Yes,51.48148148148148,13A,5.4,278.0,NDBV.24..G.1.
+13A - Compact All-Refrigerators - automatic defrost,NDWC*15**G*1*,219,2.7,Yes,81.1111111111111,13A,2.7,219.0,NDWC.15..G.1.
+13A - Compact All-Refrigerators - automatic defrost,NDWC*24**G*1*,278,5.4,Yes,51.48148148148148,13A,5.4,278.0,NDWC.24..G.1.
+11A - Compact All-Refrigerator - manual defrost,1AW1*F17,207,1.6,Yes,129.375,11A,1.6,207.0,1AW1.F17
+11A - Compact All-Refrigerator - manual defrost,1AW1*F17A,207,1.6,Yes,129.375,11A,1.6,207.0,1AW1.F17A
+11A - Compact All-Refrigerator - manual defrost,1AW1SLF17,207,1.6,Yes,129.375,11A,1.6,207.0,1AW1SLF17
+11A - Compact All-Refrigerator - manual defrost,1AWSLF17A,207,1.6,Yes,129.375,11A,1.6,207.0,1AWSLF17A
+11A - Compact All-Refrigerator - manual defrost,1P1BF17,207,1.6,Yes,129.375,11A,1.6,207.0,1P1BF17
+11A - Compact All-Refrigerator - manual defrost,1P1SLF44,226,4.2,Yes,53.80952380952381,11A,4.2,226.0,1P1SLF44
+11A - Compact All-Refrigerator - manual defrost,1P1WF17,207,1.6,Yes,129.375,11A,1.6,207.0,1P1WF17
+12 - Compact Refrigerator-Freezer - partial automatic defrost,1P2BF33,322,3.9,Yes,82.56410256410257,12,3.9,322.0,1P2BF33
+11A - Compact All-Refrigerator - manual defrost,2P1BF26,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,2P1BF26
+11A - Compact All-Refrigerator - manual defrost,2P1SLF44,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,2P1SLF44
+11A - Compact All-Refrigerator - manual defrost,3W1BF16,207,1.6,Yes,129.375,11A,1.6,207.0,3W1BF16
+11A - Compact All-Refrigerator - manual defrost,3W1BF26,213,2.4,Yes,88.75,11A,2.4,213.0,3W1BF26
+11A - Compact All-Refrigerator - manual defrost,3W1BF32,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,3W1BF32
+11A - Compact All-Refrigerator - manual defrost,3W1BF45,216,4.4,Yes,49.090909090909086,11A,4.4,216.0,3W1BF45
+11A - Compact All-Refrigerator - manual defrost,3W1SLF45,216,4.4,Yes,49.090909090909086,11A,4.4,216.0,3W1SLF45
+11A - Compact All-Refrigerator - manual defrost,3W1WF16,207,1.6,Yes,129.375,11A,1.6,207.0,3W1WF16
+11A - Compact All-Refrigerator - manual defrost,3W1WF26,213,2.4,Yes,88.75,11A,2.4,213.0,3W1WF26
+13A - Compact All-Refrigerators - automatic defrost,ADRD15,256,2.8,Yes,91.42857142857143,13A,2.8,256.0,ADRD15
+13A - Compact All-Refrigerators - automatic defrost,ADRD24,262,4.8,Yes,54.583333333333336,13A,4.8,262.0,ADRD24
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CP*,320,3.9,Yes,82.05128205128206,12,3.9,320.0,CP.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CP34B,320,3.9,Yes,82.05128205128206,12,3.9,320.0,CP34B
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CP34BSS,322,3.9,Yes,82.56410256410257,12,3.9,322.0,CP34BSS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CP34W,322,3.9,Yes,82.56410256410257,12,3.9,322.0,CP34W
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CP351W,319,3.6,Yes,88.61111111111111,12,3.6,319.0,CP351W
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CP7***,327,5.4,Yes,60.55555555555555,12,5.4,327.0,CP7...
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CP7****,327,5.4,Yes,60.55555555555555,12,5.4,327.0,CP7....
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CP72W,327,5.4,Yes,60.55555555555555,12,5.4,327.0,CP72W
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CP73PL,327,5.4,Yes,60.55555555555555,12,5.4,327.0,CP73PL
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CT66BK2SS,330,5.6,Yes,58.92857142857143,12,5.6,330.0,CT66BK2SS
+11A - Compact All-Refrigerator - manual defrost,WBR33**,220,3.2,Yes,68.75,11A,3.2,220.0,WBR33..
+11A - Compact All-Refrigerator - manual defrost,WBR44**,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,WBR44..
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WBRT31*,320,3.7,Yes,86.48648648648648,12,3.7,320.0,WBRT31.
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WBRT31**,320,3.7,Yes,86.48648648648648,12,3.7,320.0,WBRT31..
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,AMA27S1E,214,2.6,Yes,82.3076923076923,11,2.6,214.0,AMA27S1E
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,WH27S1E,214,2.6,Yes,82.3076923076923,11,2.6,214.0,WH27S1E
+13A - Compact All-Refrigerators - automatic defrost,FF195,259,3.1,Yes,83.54838709677419,13A,3.1,259.0,FF195
+13A - Compact All-Refrigerators - automatic defrost,FF412ES,262,3.6,Yes,72.77777777777777,13A,3.6,262.0,FF412ES
+13A - Compact All-Refrigerators - automatic defrost,FF433ES,262,3.6,Yes,72.77777777777777,13A,3.6,262.0,FF433ES
+13A - Compact All-Refrigerators - automatic defrost,FF6BK2SS,280,5.8,Yes,48.275862068965516,13A,5.8,280.0,FF6BK2SS
+13A - Compact All-Refrigerators - automatic defrost,FF708BLSS,276,5.3,Yes,52.07547169811321,13A,5.3,276.0,FF708BLSS
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,FF711ES,346,5.8,Yes,59.6551724137931,13,5.8,346.0,FF711ES
+13 - Compact refrigerator-freezers - automatic defrost with top-mounted freezer,FF71ES,346,5.8,Yes,59.6551724137931,13,5.8,346.0,FF71ES
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WH31**E,320,3.8,Yes,84.21052631578948,12,3.8,320.0,WH31..E
+11A - Compact All-Refrigerator - manual defrost,WH31GE,320,3.0,Yes,106.66666666666667,11A,3.0,320.0,WH31GE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WH31S1E,320,3.8,Yes,84.21052631578948,12,3.8,320.0,WH31S1E
+11A - Compact All-Refrigerator - manual defrost,WH35**E,220,3.7,Yes,59.45945945945946,11A,3.7,220.0,WH35..E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WH40S1E,361,5.1,Yes,70.78431372549021,12,5.1,361.0,WH40S1E
+11A - Compact All-Refrigerator - manual defrost,WH43**E,228,4.3,Yes,53.02325581395349,11A,4.3,228.0,WH43..E
+13A - Compact All-Refrigerators - automatic defrost,WH43R**E,268,4.3,Yes,62.32558139534884,13A,4.3,268.0,WH43R..E
+13A - Compact All-Refrigerators - automatic defrost,WH43RS1E,268,4.3,Yes,62.32558139534884,13A,4.3,268.0,WH43RS1E
+13A - Compact All-Refrigerators - automatic defrost,WH43RS2E,268,4.3,Yes,62.32558139534884,13A,4.3,268.0,WH43RS2E
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,WH43S1E,228,4.3,Yes,53.02325581395349,11,4.3,228.0,WH43S1E
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,WH43S2QE,228,4.3,Yes,53.02325581395349,11,4.3,228.0,WH43S2QE
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,WH46**E,266,4.9,Yes,54.285714285714285,11,4.9,266.0,WH46..E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WH46T**E,325,5.6,Yes,58.03571428571429,12,5.6,325.0,WH46T..E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WH46TS1E,325,5.6,Yes,58.03571428571429,12,5.6,325.0,WH46TS1E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WH46TS2E,325,5.6,Yes,58.03571428571429,12,5.6,325.0,WH46TS2E
+11A - Compact All-Refrigerator - manual defrost,WHR27**E,215,2.7,Yes,79.62962962962962,11A,2.7,215.0,WHR27..E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WHR31T**E,322,3.8,Yes,84.73684210526316,12,3.8,322.0,WHR31T..E
+11A - Compact All-Refrigerator - manual defrost,WHR31TS4E,320,8.6,Yes,37.2093023255814,11A,8.6,320.0,WHR31TS4E
+11A - Compact All-Refrigerator - manual defrost,WHR33M**E,218,3.2,Yes,68.125,11A,3.2,218.0,WHR33M..E
+13A - Compact All-Refrigerators - automatic defrost,WHR35M**A02,260,3.5,Yes,74.28571428571429,13A,3.5,260.0,WHR35M..A02
+11A - Compact All-Refrigerator - manual defrost,WHR35S1E,220,3.4,Yes,64.70588235294117,11A,3.4,220.0,WHR35S1E
+11A - Compact All-Refrigerator - manual defrost,WHR43**E,228,4.3,Yes,53.02325581395349,11A,4.3,228.0,WHR43..E
+11A - Compact All-Refrigerator - manual defrost,WHR43S1E,228,4.2,Yes,54.285714285714285,11A,4.2,228.0,WHR43S1E
+11A - Compact All-Refrigerator - manual defrost,WHR46TS1E,325,5.5,Yes,59.09090909090909,11A,5.5,325.0,WHR46TS1E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WHR46TS1E02,325,5.6,Yes,58.03571428571429,12,5.6,325.0,WHR46TS1E02
+12 - Compact Refrigerator-Freezer - partial automatic defrost,WHR46TS2E,325,5.6,Yes,58.03571428571429,12,5.6,325.0,WHR46TS2E
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,RF206R,295,8.4,Yes,35.11904761904762,11,8.4,295.0,RF206R
+11A - Compact All-Refrigerator - manual defrost,EFR107-B-BLACK,206,1.6,Yes,128.75,11A,1.6,206.0,EFR107-B-BLACK
+12 - Compact Refrigerator-Freezer - partial automatic defrost,EFR391-COM,312,3.9,Yes,80.0,12,3.9,312.0,EFR391-COM
+11A - Compact All-Refrigerator - manual defrost,FR320I-B-RED,204,3.2,Yes,63.75,11A,3.2,204.0,FR320I-B-RED
+11A - Compact All-Refrigerator - manual defrost,RFR115,208,1.6,Yes,130.0,11A,1.6,208.0,RFR115
+11A - Compact All-Refrigerator - manual defrost,RFR115,202,1.7,Yes,118.82352941176471,11A,1.7,202.0,RFR115
+11A - Compact All-Refrigerator - manual defrost,RFR115-C-BLACK,158,1.6,Yes,98.75,11A,1.6,158.0,RFR115-C-BLACK
+11A - Compact All-Refrigerator - manual defrost,RFR115-C-BLACK,206,1.6,Yes,128.75,11A,1.6,206.0,RFR115-C-BLACK
+11A - Compact All-Refrigerator - manual defrost,RFR115-D-BLUE,206,1.6,Yes,128.75,11A,1.6,206.0,RFR115-D-BLUE
+11A - Compact All-Refrigerator - manual defrost,RFR115I,208,1.6,Yes,130.0,11A,1.6,208.0,RFR115I
+11A - Compact All-Refrigerator - manual defrost,REFSB17*,230,1.7,Yes,135.29411764705884,11A,1.7,230.0,REFSB17.
+11A - Compact All-Refrigerator - manual defrost,REFSB27*,214,2.7,Yes,79.25925925925925,11A,2.7,214.0,REFSB27.
+11A - Compact All-Refrigerator - manual defrost,RFR160,208,1.6,Yes,130.0,11A,1.6,208.0,RFR160
+11A - Compact All-Refrigerator - manual defrost,RFR160-D-PURPLE,206,1.6,Yes,128.75,11A,1.6,206.0,RFR160-D-PURPLE
+11A - Compact All-Refrigerator - manual defrost,RFR160-RED,206,1.6,Yes,128.75,11A,1.6,206.0,RFR160-RED
+11A - Compact All-Refrigerator - manual defrost,RFR176-B-BLACK,206,1.6,Yes,128.75,11A,1.6,206.0,RFR176-B-BLACK
+11A - Compact All-Refrigerator - manual defrost,RFR176-B-RED,158,1.6,Yes,98.75,11A,1.6,158.0,RFR176-B-RED
+11A - Compact All-Refrigerator - manual defrost,RFR176-B-RED,206,1.6,Yes,128.75,11A,1.6,206.0,RFR176-B-RED
+11A - Compact All-Refrigerator - manual defrost,RFR283,215,2.6,Yes,82.6923076923077,11A,2.6,215.0,RFR283
+11A - Compact All-Refrigerator - manual defrost,RFR283-B-BLACK-COM,209,2.6,Yes,80.38461538461539,11A,2.6,209.0,RFR283-B-BLACK-COM
+11A - Compact All-Refrigerator - manual defrost,RFR320,219,3.2,Yes,68.4375,11A,3.2,219.0,RFR320
+11A - Compact All-Refrigerator - manual defrost,RFR320,193,3.2,Yes,60.3125,11A,3.2,193.0,RFR320
+11A - Compact All-Refrigerator - manual defrost,RFR320,206,3.0,Yes,68.66666666666667,11A,3.0,206.0,RFR320
+11A - Compact All-Refrigerator - manual defrost,RFR320-B-BLACK,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR320-B-BLACK
+11A - Compact All-Refrigerator - manual defrost,RFR320-BLUE,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR320-BLUE
+11A - Compact All-Refrigerator - manual defrost,RFR320-B-ORANGE-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR320-B-ORANGE-COM
+11A - Compact All-Refrigerator - manual defrost,RFR320-B-PURPLE-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR320-B-PURPLE-COM
+11A - Compact All-Refrigerator - manual defrost,RFR320-B-RED-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR320-B-RED-COM
+11A - Compact All-Refrigerator - manual defrost,RFR320-B-WHITE-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR320-B-WHITE-COM
+11A - Compact All-Refrigerator - manual defrost,RFR320-C-BLUE-COM,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR320-C-BLUE-COM
+11A - Compact All-Refrigerator - manual defrost,RFR320-LIME,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR320-LIME
+11A - Compact All-Refrigerator - manual defrost,RFR320-ORANGE,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR320-ORANGE
+11A - Compact All-Refrigerator - manual defrost,RFR320-PURPLE,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR320-PURPLE
+11A - Compact All-Refrigerator - manual defrost,RFR320-RED,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR320-RED
+11A - Compact All-Refrigerator - manual defrost,RFR320-WHITE,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR320-WHITE
+11A - Compact All-Refrigerator - manual defrost,RFR321,220,3.2,Yes,68.75,11A,3.2,220.0,RFR321
+11A - Compact All-Refrigerator - manual defrost,REFSB27B,214,2.7,Yes,79.25925925925925,11A,2.7,214.0,REFSB27B
+11A - Compact All-Refrigerator - manual defrost,REFSB35*,220,3.1,Yes,70.96774193548387,11A,3.1,220.0,REFSB35.
+11A - Compact All-Refrigerator - manual defrost,SGR17M**E,208,1.6,Yes,130.0,11A,1.6,208.0,SGR17M..E
+11A - Compact All-Refrigerator - manual defrost,SGR25M**E,213,2.5,Yes,85.2,11A,2.5,213.0,SGR25M..E
+11A - Compact All-Refrigerator - manual defrost,SGR27M**E,214,2.6,Yes,82.3076923076923,11A,2.6,214.0,SGR27M..E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,SGR31T**E,320,3.0,Yes,106.66666666666667,12,3.0,320.0,SGR31T..E
+11A - Compact All-Refrigerator - manual defrost,SGR33M**E,218,3.2,Yes,68.125,11A,3.2,218.0,SGR33M..E
+12 - Compact Refrigerator-Freezer - partial automatic defrost,SGR40T**E,325,4.0,Yes,81.25,12,4.0,325.0,SGR40T..E
+11A - Compact All-Refrigerator - manual defrost,SGR43MBKE,228,4.3,Yes,53.02325581395349,11A,4.3,228.0,SGR43MBKE
+11A - Compact All-Refrigerator - manual defrost,SFR322,204,3.2,Yes,63.75,11A,3.2,204.0,SFR322
+11A - Compact All-Refrigerator - manual defrost,MPBFR161,159,1.6,Yes,99.375,11A,1.6,159.0,MPBFR161
+11A - Compact All-Refrigerator - manual defrost,MPBFR321,196,3.2,Yes,61.25,11A,3.2,196.0,MPBFR321
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MPBFR401,291,4.7,Yes,61.91489361702128,12,4.7,291.0,MPBFR401
+11A - Compact All-Refrigerator - manual defrost,MPGFR161,159,1.6,Yes,99.375,11A,1.6,159.0,MPGFR161
+11A - Compact All-Refrigerator - manual defrost,MPGFR321,196,3.2,Yes,61.25,11A,3.2,196.0,MPGFR321
+11A - Compact All-Refrigerator - manual defrost,MPLFR161,159,1.6,Yes,99.375,11A,1.6,159.0,MPLFR161
+11A - Compact All-Refrigerator - manual defrost,MPLFR321,196,3.2,Yes,61.25,11A,3.2,196.0,MPLFR321
+11A - Compact All-Refrigerator - manual defrost,MPRFR161,159,1.6,Yes,99.375,11A,1.6,159.0,MPRFR161
+11A - Compact All-Refrigerator - manual defrost,MPRFR321,196,3.2,Yes,61.25,11A,3.2,196.0,MPRFR321
+11A - Compact All-Refrigerator - manual defrost,MPWFR161,159,1.6,Yes,99.375,11A,1.6,159.0,MPWFR161
+11A - Compact All-Refrigerator - manual defrost,MPWFR321,196,3.2,Yes,61.25,11A,3.2,196.0,MPWFR321
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MPWFR401,291,4.7,Yes,61.91489361702128,12,4.7,291.0,MPWFR401
+11A - Compact All-Refrigerator - manual defrost,MVSFR161,159,1.6,Yes,99.375,11A,1.6,159.0,MVSFR161
+11A - Compact All-Refrigerator - manual defrost,MVSFR321,196,3.2,Yes,61.25,11A,3.2,196.0,MVSFR321
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MVSFR401,291,4.7,Yes,61.91489361702128,12,4.7,291.0,MVSFR401
+11A - Compact All-Refrigerator - manual defrost,MVWFR321,196,3.2,Yes,61.25,11A,3.2,196.0,MVWFR321
+11A - Compact All-Refrigerator - manual defrost,RFR321-B-BLACK,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR321-B-BLACK
+11A - Compact All-Refrigerator - manual defrost,RFR321-BLACK,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR321-BLACK
+11A - Compact All-Refrigerator - manual defrost,RFR321-B-WHITE,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR321-B-WHITE
+11A - Compact All-Refrigerator - manual defrost,RFR322,220,3.2,Yes,68.75,11A,3.2,220.0,RFR322
+11A - Compact All-Refrigerator - manual defrost,RFR322,206,3.0,Yes,68.66666666666667,11A,3.0,206.0,RFR322
+11A - Compact All-Refrigerator - manual defrost,RFR322-B,220,3.2,Yes,68.75,11A,3.2,220.0,RFR322-B
+11A - Compact All-Refrigerator - manual defrost,RFR322-B,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR322-B
+11A - Compact All-Refrigerator - manual defrost,RFR322-C,220,3.2,Yes,68.75,11A,3.2,220.0,RFR322-C
+11A - Compact All-Refrigerator - manual defrost,RFR326,219,3.2,Yes,68.4375,11A,3.2,219.0,RFR326
+11A - Compact All-Refrigerator - manual defrost,RFR326-BLACK,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR326-BLACK
+11A - Compact All-Refrigerator - manual defrost,RFR329,219,3.2,Yes,68.4375,11A,3.2,219.0,RFR329
+11A - Compact All-Refrigerator - manual defrost,RFR335,219,3.2,Yes,68.4375,11A,3.2,219.0,RFR335
+11A - Compact All-Refrigerator - manual defrost,RFR335,206,3.0,Yes,68.66666666666667,11A,3.0,206.0,RFR335
+11A - Compact All-Refrigerator - manual defrost,RFR376-B-BLUE,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR376-B-BLUE
+11A - Compact All-Refrigerator - manual defrost,RFR376-B-RED,197,3.2,Yes,61.5625,11A,3.2,197.0,RFR376-B-RED
+11A - Compact All-Refrigerator - manual defrost,RFR440,228,4.5,Yes,50.666666666666664,11A,4.5,228.0,RFR440
+11A - Compact All-Refrigerator - manual defrost,RFR441,228,4.5,Yes,50.666666666666664,11A,4.5,228.0,RFR441
+11A - Compact All-Refrigerator - manual defrost,RFR446,228,4.5,Yes,50.666666666666664,11A,4.5,228.0,RFR446
+11A - Compact All-Refrigerator - manual defrost,RFR453,218,4.5,Yes,48.44444444444444,11A,4.5,218.0,RFR453
+11A - Compact All-Refrigerator - manual defrost,RFR464,205,4.7,Yes,43.61702127659574,11A,4.7,205.0,RFR464
+11A - Compact All-Refrigerator - manual defrost,RFR464-B-BLACK,204,4.6,Yes,44.34782608695652,11A,4.6,204.0,RFR464-B-BLACK
+11A - Compact All-Refrigerator - manual defrost,RFR464-B-BLACK-COM,204,4.6,Yes,44.34782608695652,11A,4.6,204.0,RFR464-B-BLACK-COM
+11A - Compact All-Refrigerator - manual defrost,RFR464-B-WHITE,204,4.6,Yes,44.34782608695652,11A,4.6,204.0,RFR464-B-WHITE
+11A - Compact All-Refrigerator - manual defrost,RFR465,224,4.7,Yes,47.659574468085104,11A,4.7,224.0,RFR465
+11A - Compact All-Refrigerator - manual defrost,RFR465,204,4.6,Yes,44.34782608695652,11A,4.6,204.0,RFR465
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR551,338,7.2,Yes,46.94444444444444,12,7.2,338.0,RFR551
+11A - Compact All-Refrigerator - manual defrost,MR121S,207,1.7,Yes,121.76470588235294,11A,1.7,207.0,MR121S
+11A - Compact All-Refrigerator - manual defrost,MR221S,214,2.7,Yes,79.25925925925925,11A,2.7,214.0,MR221S
+11A - Compact All-Refrigerator - manual defrost,MR321S,220,3.2,Yes,68.75,11A,3.2,220.0,MR321S
+11A - Compact All-Refrigerator - manual defrost,MR421S,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,MR421S
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MR422S,327,5.4,Yes,60.55555555555555,12,5.4,327.0,MR422S
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MR453*,327,5.4,Yes,60.55555555555555,12,5.4,327.0,MR453.
+15I - Compact Refrigerator-Freezer - automatic defrost bottom-mount- with an automatic icemaker,T24UC905DP,442,5.8,Yes,76.20689655172414,15I,5.8,442.0,T24UC905DP
+15I - Compact Refrigerator-Freezer - automatic defrost bottom-mount- with an automatic icemaker,T24UC915DS,442,5.8,Yes,76.20689655172414,15I,5.8,442.0,T24UC915DS
+15I - Compact Refrigerator-Freezer - automatic defrost bottom-mount- with an automatic icemaker,T24UC925DS,442,5.8,Yes,76.20689655172414,15I,5.8,442.0,T24UC925DS
+13A - Compact All-Refrigerators - automatic defrost,T24UR900DP,274,5.0,Yes,54.8,13A,5.0,274.0,T24UR900DP
+13A - Compact All-Refrigerators - automatic defrost,T24UR900LP,274,5.1,Yes,53.72549019607843,13A,5.1,274.0,T24UR900LP
+13A - Compact All-Refrigerators - automatic defrost,T24UR900RP,274,5.1,Yes,53.72549019607843,13A,5.1,274.0,T24UR900RP
+13A - Compact All-Refrigerators - automatic defrost,T24UR905DP,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,T24UR905DP
+13A - Compact All-Refrigerators - automatic defrost,T24UR905LP,274,5.2,Yes,52.69230769230769,13A,5.2,274.0,T24UR905LP
+13A - Compact All-Refrigerators - automatic defrost,T24UR905RP,274,5.2,Yes,52.69230769230769,13A,5.2,274.0,T24UR905RP
+13A - Compact All-Refrigerators - automatic defrost,T24UR910DS,274,5.0,Yes,54.8,13A,5.0,274.0,T24UR910DS
+13A - Compact All-Refrigerators - automatic defrost,T24UR910LS,274,5.1,Yes,53.72549019607843,13A,5.1,274.0,T24UR910LS
+13A - Compact All-Refrigerators - automatic defrost,T24UR910RS,274,5.1,Yes,53.72549019607843,13A,5.1,274.0,T24UR910RS
+13A - Compact All-Refrigerators - automatic defrost,T24UR915DS,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,T24UR915DS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR832,322,3.9,Yes,82.56410256410257,12,3.9,322.0,RFR832
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR832-D-BLACK,312,3.9,Yes,80.0,12,3.9,312.0,RFR832-D-BLACK
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR832-D-WHITE,312,3.9,Yes,80.0,12,3.9,312.0,RFR832-D-WHITE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR834,322,3.9,Yes,82.56410256410257,12,3.9,322.0,RFR834
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR834-B-COM,312,3.9,Yes,80.0,12,3.9,312.0,RFR834-B-COM
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR834-C,312,3.9,Yes,80.0,12,3.9,312.0,RFR834-C
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR835,323,3.9,Yes,82.82051282051282,12,3.9,323.0,RFR835
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR835-B,323,3.9,Yes,82.82051282051282,12,3.9,323.0,RFR835-B
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR835-C-BLACK,312,3.9,Yes,80.0,12,3.9,312.0,RFR835-C-BLACK
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR835-C-WHITE,304,3.2,Yes,95.0,12,3.2,304.0,RFR835-C-WHITE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR835-G-BLACK,322,3.8,Yes,84.73684210526316,12,3.8,322.0,RFR835-G-BLACK
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR836,323,3.9,Yes,82.82051282051282,12,3.9,323.0,RFR836
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR839-B,322,3.9,Yes,82.56410256410257,12,3.9,322.0,RFR839-B
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR870,322,3.9,Yes,82.56410256410257,12,3.9,322.0,RFR870
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR870,312,3.9,Yes,80.0,12,3.9,312.0,RFR870
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RFR870-B,322,3.8,Yes,84.73684210526316,12,3.8,322.0,RFR870-B
+13A - Compact All-Refrigerators - automatic defrost,RCR1727,245,1.7,Yes,144.11764705882354,13A,1.7,245.0,RCR1727
+13A - Compact All-Refrigerators - automatic defrost,RCR3327,258,3.3,Yes,78.18181818181819,13A,3.3,258.0,RCR3327
+13A - Compact All-Refrigerators - automatic defrost,T24UR915LS,274,5.2,Yes,52.69230769230769,13A,5.2,274.0,T24UR915LS
+13A - Compact All-Refrigerators - automatic defrost,T24UR915RS,274,5.2,Yes,52.69230769230769,13A,5.2,274.0,T24UR915RS
+13A - Compact All-Refrigerators - automatic defrost,T24UR920DS,274,5.0,Yes,54.8,13A,5.0,274.0,T24UR920DS
+13A - Compact All-Refrigerators - automatic defrost,T24UR920LS,274,5.1,Yes,53.72549019607843,13A,5.1,274.0,T24UR920LS
+13A - Compact All-Refrigerators - automatic defrost,T24UR920RS,274,5.1,Yes,53.72549019607843,13A,5.1,274.0,T24UR920RS
+13A - Compact All-Refrigerators - automatic defrost,T24UR925DS,269,4.4,Yes,61.13636363636363,13A,4.4,269.0,T24UR925DS
+13A - Compact All-Refrigerators - automatic defrost,T24UR925LS,274,5.2,Yes,52.69230769230769,13A,5.2,274.0,T24UR925LS
+13A - Compact All-Refrigerators - automatic defrost,T24UR925RS,274,5.2,Yes,52.69230769230769,13A,5.2,274.0,T24UR925RS
+11A - Compact All-Refrigerator - manual defrost,WRD01W3MMW,207,1.6,Yes,129.375,11A,1.6,207.0,WRD01W3MMW
+13A - Compact All-Refrigerators - automatic defrost,BOR-326FS,239,3.1,Yes,77.09677419354838,13A,3.1,239.0,BOR-326FS
+13A - Compact All-Refrigerators - automatic defrost,BOR-326FS,256,3.0,Yes,85.33333333333333,13A,3.0,256.0,BOR-326FS
+13A - Compact All-Refrigerators - automatic defrost,BOR-53024-SSW,235,5.3,Yes,44.339622641509436,13A,5.3,235.0,BOR-53024-SSW
+13A - Compact All-Refrigerators - automatic defrost,BOR-53024-SSW,276,5.2,Yes,53.07692307692307,13A,5.2,276.0,BOR-53024-SSW
+11A - Compact All-Refrigerator - manual defrost,MRF-161   ,207,1.6,Yes,129.375,11A,1.6,207.0,MRF-161   
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MRF-310DBa,270,3.8,Yes,71.05263157894737,12,3.8,270.0,MRF-310DBa
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MRF-340DS,260,4.1,Yes,63.41463414634147,12,4.1,260.0,MRF-340DS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,7716231,320,3.1,Yes,103.2258064516129,12,3.1,320.0,7716231
+11A - Compact All-Refrigerator - manual defrost,WFR028RCN*,217,2.8,Yes,77.5,11A,2.8,217.0,WFR028RCN.
+11A - Compact All-Refrigerator - manual defrost,WFR044RCN*,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,WFR044RCN.
+11A - Compact All-Refrigerator - manual defrost,WFR044RCN**,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,WFR044RCN..
+11A - Compact All-Refrigerator - manual defrost,TFR441,218,4.5,Yes,48.44444444444444,11A,4.5,218.0,TFR441
+11A - Compact All-Refrigerator - manual defrost,TFR441,204,4.6,Yes,44.34782608695652,11A,4.6,204.0,TFR441
+11A - Compact All-Refrigerator - manual defrost,TFR441-B-BLACK,204,4.6,Yes,44.34782608695652,11A,4.6,204.0,TFR441-B-BLACK
+11A - Compact All-Refrigerator - manual defrost,TFR441-BLACK,204,4.6,Yes,44.34782608695652,11A,4.6,204.0,TFR441-BLACK
+11A - Compact All-Refrigerator - manual defrost,TFR441-B-WHITE,204,4.6,Yes,44.34782608695652,11A,4.6,204.0,TFR441-B-WHITE
+11A - Compact All-Refrigerator - manual defrost,TFR441-D,204,4.6,Yes,44.34782608695652,11A,4.6,204.0,TFR441-D
+11A - Compact All-Refrigerator - manual defrost,TFR441-WHITE,204,4.6,Yes,44.34782608695652,11A,4.6,204.0,TFR441-WHITE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,TFR834-C,322,3.8,Yes,84.73684210526316,12,3.8,322.0,TFR834-C
+13A - Compact All-Refrigerators - automatic defrost,TUR-24-R-SS-C,279,5.6,Yes,49.82142857142858,13A,5.6,279.0,TUR-24-R-SS-C
+13A - Compact All-Refrigerators - automatic defrost,TUR-15-R-SS-B,259,3.1,Yes,83.54838709677419,13A,3.1,259.0,TUR-15-R-SS-B
+13A - Compact All-Refrigerators - automatic defrost,TUR-24-D-SS-B,278,5.4,Yes,51.48148148148148,13A,5.4,278.0,TUR-24-D-SS-B
+13A - Compact All-Refrigerators - automatic defrost,TUR-24-R-SS-B,280,5.6,Yes,50.0,13A,5.6,280.0,TUR-24-R-SS-B
+13A - Compact All-Refrigerators - automatic defrost,XOU15BCGBSL,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,XOU15BCGBSL
+13A - Compact All-Refrigerators - automatic defrost,XOU15BCGBSR,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,XOU15BCGBSR
+13A - Compact All-Refrigerators - automatic defrost,XOU15BCGOL,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,XOU15BCGOL
+13A - Compact All-Refrigerators - automatic defrost,XOU15BCGOR,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,XOU15BCGOR
+13A - Compact All-Refrigerators - automatic defrost,XOU15BCGSL,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,XOU15BCGSL
+13A - Compact All-Refrigerators - automatic defrost,XOU15BCGSR,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,XOU15BCGSR
+13A - Compact All-Refrigerators - automatic defrost,XOU15BCSFL,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,XOU15BCSFL
+13A - Compact All-Refrigerators - automatic defrost,XOU15BCSFR,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,XOU15BCSFR
+13A - Compact All-Refrigerators - automatic defrost,XOU15ORSL,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,XOU15ORSL
+13A - Compact All-Refrigerators - automatic defrost,XOU15ORSR,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,XOU15ORSR
+3 - Freestanding Compact Cooler,XOU15WGBSL,143,3.3,Yes,43.333333333333336,3,3.3,143.0,XOU15WGBSL
+3 - Freestanding Compact Cooler,XOU15WGBSR,143,3.3,Yes,43.333333333333336,3,3.3,143.0,XOU15WGBSR
+3 - Freestanding Compact Cooler,XOU15WGOL,143,3.3,Yes,43.333333333333336,3,3.3,143.0,XOU15WGOL
+3 - Freestanding Compact Cooler,XOU15WGOR,143,3.3,Yes,43.333333333333336,3,3.3,143.0,XOU15WGOR
+3 - Freestanding Compact Cooler,XOU15WGSL,143,3.3,Yes,43.333333333333336,3,3.3,143.0,XOU15WGSL
+3 - Freestanding Compact Cooler,XOU15WGSR,143,3.3,Yes,43.333333333333336,3,3.3,143.0,XOU15WGSR
+13A - Compact All-Refrigerators - automatic defrost,XOU24BCFOL,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24BCFOL
+13A - Compact All-Refrigerators - automatic defrost,TEOR242-G,199,5.0,Yes,39.8,13A,5.0,199.0,TEOR242-G
+13A - Compact All-Refrigerators - automatic defrost,TEOR24-G,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,TEOR24-G
+13A - Compact All-Refrigerators - automatic defrost,1024RA,240,5.4,Yes,44.44444444444444,13A,5.4,240.0,1024RA
+13A - Compact All-Refrigerators - automatic defrost,1215RB,225,3.0,Yes,75.0,13A,3.0,225.0,1215RB
+13A - Compact All-Refrigerators - automatic defrost,1224KEGRA,240,5.6,Yes,42.85714285714286,13A,5.6,240.0,1224KEGRA
+13A - Compact All-Refrigerators - automatic defrost,1224RB,240,5.4,Yes,44.44444444444444,13A,5.4,240.0,1224RB
+13A - Compact All-Refrigerators - automatic defrost,2218BEVB,260,3.4,Yes,76.47058823529412,13A,3.4,260.0,2218BEVB
+13A - Compact All-Refrigerators - automatic defrost,2218RB,230,3.4,Yes,67.64705882352942,13A,3.4,230.0,2218RB
+13A - Compact All-Refrigerators - automatic defrost,2218RGLB,260,3.4,Yes,76.47058823529412,13A,3.4,260.0,2218RGLB
+13A - Compact All-Refrigerators - automatic defrost,2224BEVB,270,4.7,Yes,57.4468085106383,13A,4.7,270.0,2224BEVB
+13A - Compact All-Refrigerators - automatic defrost,2224RB,240,4.8,Yes,50.0,13A,4.8,240.0,2224RB
+13A - Compact All-Refrigerators - automatic defrost,2224RGLB,270,4.7,Yes,57.4468085106383,13A,4.7,270.0,2224RGLB
+13A - Compact All-Refrigerators - automatic defrost,29RA,260,3.3,Yes,78.7878787878788,13A,3.3,260.0,29RA
+13A - Compact All-Refrigerators - automatic defrost,3018RB,230,3.4,Yes,67.64705882352942,13A,3.4,230.0,3018RB
+13A - Compact All-Refrigerators - automatic defrost,3018RGLB,260,3.4,Yes,76.47058823529412,13A,3.4,260.0,3018RGLB
+13A - Compact All-Refrigerators - automatic defrost,3024BEVB,270,4.7,Yes,57.4468085106383,13A,4.7,270.0,3024BEVB
+13A - Compact All-Refrigerators - automatic defrost,3024RB,240,4.8,Yes,50.0,13A,4.8,240.0,3024RB
+13A - Compact All-Refrigerators - automatic defrost,3024RGLB,270,4.7,Yes,57.4468085106383,13A,4.7,270.0,3024RGLB
+13A - Compact All-Refrigerators - automatic defrost,3036RRB,270,6.9,Yes,39.130434782608695,13A,6.9,270.0,3036RRB
+13A - Compact All-Refrigerators - automatic defrost,515S,255,2.9,Yes,87.93103448275862,13A,2.9,255.0,515S
+13A - Compact All-Refrigerators - automatic defrost,518S,260,3.7,Yes,70.27027027027027,13A,3.7,260.0,518S
+13A - Compact All-Refrigerators - automatic defrost,524S,275,5.2,Yes,52.88461538461538,13A,5.2,275.0,524S
+13A - Compact All-Refrigerators - automatic defrost,ADA24RB,240,5.3,Yes,45.28301886792453,13A,5.3,240.0,ADA24RB
+13A - Compact All-Refrigerators - automatic defrost,DR124,275,5.2,Yes,52.88461538461538,13A,5.2,275.0,DR124
+13A - Compact All-Refrigerators - automatic defrost,RE115,230,3.0,Yes,76.66666666666667,13A,3.0,230.0,RE115
+13A - Compact All-Refrigerators - automatic defrost,RE124,245,5.7,Yes,42.98245614035088,13A,5.7,245.0,RE124
+11 - Compact Refrigerator and Refrigerator-Freezer other than All-Refrigerator - manual defrost,UGP-215L C AC,295,8.4,Yes,35.11904761904762,11,8.4,295.0,UGP-215L C AC
+13A - Compact All-Refrigerators - automatic defrost,XOU24BCFOR,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24BCFOR
+13A - Compact All-Refrigerators - automatic defrost,XOU24BCGBL,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24BCGBL
+13A - Compact All-Refrigerators - automatic defrost,XOU24BCGBR,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24BCGBR
+13A - Compact All-Refrigerators - automatic defrost,XOU24BCGBSL,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24BCGBSL
+13A - Compact All-Refrigerators - automatic defrost,XOU24BCGBSR,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24BCGBSR
+13A - Compact All-Refrigerators - automatic defrost,XOU24BCGOA,267,4.3,Yes,62.093023255813954,13A,4.3,267.0,XOU24BCGOA
+13A - Compact All-Refrigerators - automatic defrost,XOU24BCGOL,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24BCGOL
+13A - Compact All-Refrigerators - automatic defrost,XOU24BCGOR,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24BCGOR
+13A - Compact All-Refrigerators - automatic defrost,XOU24BCGSL,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24BCGSL
+13A - Compact All-Refrigerators - automatic defrost,XOU24BCGSR,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24BCGSR
+13A - Compact All-Refrigerators - automatic defrost,XOU24BCSFL,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24BCSFL
+13A - Compact All-Refrigerators - automatic defrost,XOU24BCSFR,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24BCSFR
+13A - Compact All-Refrigerators - automatic defrost,XOU24ORDS,275,5.2,Yes,52.88461538461538,13A,5.2,275.0,XOU24ORDS
+13A - Compact All-Refrigerators - automatic defrost,XOU24ORSL,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24ORSL
+13A - Compact All-Refrigerators - automatic defrost,XOU24ORSR,278,5.7,Yes,48.771929824561404,13A,5.7,278.0,XOU24ORSR
+13A - Compact All-Refrigerators - automatic defrost,XOU24RDO,275,5.2,Yes,52.88461538461538,13A,5.2,275.0,XOU24RDO
+13A - Compact All-Refrigerators - automatic defrost,XOU24RDS,275,5.2,Yes,52.88461538461538,13A,5.2,275.0,XOU24RDS
+3 - Freestanding Compact Cooler,XOU24WDZGBL,156,5.4,Yes,28.888888888888886,3,5.4,156.0,XOU24WDZGBL
+3 - Freestanding Compact Cooler,XOU24WDZGBR,156,5.4,Yes,28.888888888888886,3,5.4,156.0,XOU24WDZGBR
+3 - Freestanding Compact Cooler,XOU24WDZGBSL,156,5.4,Yes,28.888888888888886,3,5.4,156.0,XOU24WDZGBSL
+3 - Freestanding Compact Cooler,XOU24WDZGBSR,156,5.4,Yes,28.888888888888886,3,5.4,156.0,XOU24WDZGBSR
+3 - Freestanding Compact Cooler,XOU24WDZGOA,140,4.0,Yes,35.0,3,4.0,140.0,XOU24WDZGOA
+3 - Freestanding Compact Cooler,XOU24WDZGOL,156,5.4,Yes,28.888888888888886,3,5.4,156.0,XOU24WDZGOL
+3 - Freestanding Compact Cooler,XOU24WDZGOR,156,5.4,Yes,28.888888888888886,3,5.4,156.0,XOU24WDZGOR
+3 - Freestanding Compact Cooler,XOU24WDZGSL,156,5.4,Yes,28.888888888888886,3,5.4,156.0,XOU24WDZGSL
+3 - Freestanding Compact Cooler,XOU24WDZGSR,156,5.4,Yes,28.888888888888886,3,5.4,156.0,XOU24WDZGSR
+3 - Freestanding Compact Cooler,XOU24WGSL,158,5.7,Yes,27.719298245614034,3,5.7,158.0,XOU24WGSL
+12 - Compact Refrigerator-Freezer - partial automatic defrost,BD321,312,3.9,Yes,80.0,12,3.9,312.0,BD321
+11A - Compact All-Refrigerator - manual defrost,BR161,206,1.6,Yes,128.75,11A,1.6,206.0,BR161
+11A - Compact All-Refrigerator - manual defrost,BR321,218,3.2,Yes,68.125,11A,3.2,218.0,BR321
+11A - Compact All-Refrigerator - manual defrost,BR321A,218,3.2,Yes,68.125,11A,3.2,218.0,BR321A
+11A - Compact All-Refrigerator - manual defrost,BR321B,218,3.2,Yes,68.125,11A,3.2,218.0,BR321B
+11A - Compact All-Refrigerator - manual defrost,BR321-Blue,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Blue
+11A - Compact All-Refrigerator - manual defrost,BR321C,218,3.2,Yes,68.125,11A,3.2,218.0,BR321C
+11A - Compact All-Refrigerator - manual defrost,BR321D,218,3.2,Yes,68.125,11A,3.2,218.0,BR321D
+11A - Compact All-Refrigerator - manual defrost,BR321E,218,3.2,Yes,68.125,11A,3.2,218.0,BR321E
+11A - Compact All-Refrigerator - manual defrost,BR321F,218,3.2,Yes,68.125,11A,3.2,218.0,BR321F
+11A - Compact All-Refrigerator - manual defrost,BR321G,218,3.2,Yes,68.125,11A,3.2,218.0,BR321G
+11A - Compact All-Refrigerator - manual defrost,BR321-Green,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Green
+11A - Compact All-Refrigerator - manual defrost,BR321H,218,3.2,Yes,68.125,11A,3.2,218.0,BR321H
+11A - Compact All-Refrigerator - manual defrost,BR321I,218,3.2,Yes,68.125,11A,3.2,218.0,BR321I
+3 - Freestanding Compact Cooler,XOU24WGSR,158,5.7,Yes,27.719298245614034,3,5.7,158.0,XOU24WGSR
+13A - Compact All-Refrigerators - automatic defrost,PRB15C01**,260,3.4,Yes,76.47058823529412,13A,3.4,260.0,PRB15C01..
+13A - Compact All-Refrigerators - automatic defrost,PRB15C01***,260,3.4,Yes,76.47058823529412,13A,3.4,260.0,PRB15C01...
+13A - Compact All-Refrigerators - automatic defrost,PRB15C01****,260,3.4,Yes,76.47058823529412,13A,3.4,260.0,PRB15C01....
+13A - Compact All-Refrigerators - automatic defrost,PRB15C01AS-OD,260,3.4,Yes,76.47058823529412,13A,3.4,260.0,PRB15C01AS-OD
+13A - Compact All-Refrigerators - automatic defrost,PRB15C01BG,260,3.4,Yes,76.47058823529412,13A,3.4,260.0,PRB15C01BG
+13A - Compact All-Refrigerators - automatic defrost,PRB15C01CG,260,3.4,Yes,76.47058823529412,13A,3.4,260.0,PRB15C01CG
+13A - Compact All-Refrigerators - automatic defrost,PRB24C01AG-ADA,274,5.1,Yes,53.72549019607843,13A,5.1,274.0,PRB24C01AG-ADA
+13A - Compact All-Refrigerators - automatic defrost,PRB24C01AS-ADA,274,5.1,Yes,53.72549019607843,13A,5.1,274.0,PRB24C01AS-ADA
+13A - Compact All-Refrigerators - automatic defrost,PRB24C01AS-OD,278,5.6,Yes,49.642857142857146,13A,5.6,278.0,PRB24C01AS-OD
+13A - Compact All-Refrigerators - automatic defrost,PRB24C01B*,280,5.8,Yes,48.275862068965516,13A,5.8,280.0,PRB24C01B.
+13A - Compact All-Refrigerators - automatic defrost,PRB24C01BBSG,278,5.6,Yes,49.642857142857146,13A,5.6,278.0,PRB24C01BBSG
+13A - Compact All-Refrigerators - automatic defrost,PRB24C01BPG,278,5.6,Yes,49.642857142857146,13A,5.6,278.0,PRB24C01BPG
+13A - Compact All-Refrigerators - automatic defrost,PRB24C01CBSG,278,5.6,Yes,49.642857142857146,13A,5.6,278.0,PRB24C01CBSG
+13A - Compact All-Refrigerators - automatic defrost,PRB24C01CG,278,5.6,Yes,49.642857142857146,13A,5.6,278.0,PRB24C01CG
+13A - Compact All-Refrigerators - automatic defrost,PRPB24C01BG,278,5.6,Yes,49.642857142857146,13A,5.6,278.0,PRPB24C01BG
+3 - Freestanding Compact Cooler,PRPW24C01BG,159,5.6,Yes,28.392857142857146,3,5.6,159.0,PRPW24C01BG
+3 - Freestanding Compact Cooler,PRPW24C02BG,156,5.2,Yes,30.0,3,5.2,156.0,PRPW24C02BG
+3 - Freestanding Compact Cooler,PRW15C01**,145,3.4,Yes,42.64705882352941,3,3.4,145.0,PRW15C01..
+3 - Freestanding Compact Cooler,PRW15C01***,145,3.4,Yes,42.64705882352941,3,3.4,145.0,PRW15C01...
+3 - Freestanding Compact Cooler,PRW15C01****,145,3.4,Yes,42.64705882352941,3,3.4,145.0,PRW15C01....
+3 - Freestanding Compact Cooler,PRW24C01CG,159,5.6,Yes,28.392857142857146,3,5.6,159.0,PRW24C01CG
+3 - Freestanding Compact Cooler,PRW24C02CBSG,156,5.2,Yes,30.0,3,5.2,156.0,PRW24C02CBSG
+3 - Freestanding Compact Cooler,PRW24C02CG,156,5.2,Yes,30.0,3,5.2,156.0,PRW24C02CG
+3 - Freestanding Compact Cooler,PRW24C02CPG,156,5.2,Yes,30.0,3,5.2,156.0,PRW24C02CPG
+3 - Freestanding Compact Cooler,PRW24C32CG,156,5.2,Yes,30.0,3,5.2,156.0,PRW24C32CG
+11A - Compact All-Refrigerator - manual defrost,BR321-Indigo,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Indigo
+11A - Compact All-Refrigerator - manual defrost,BR321J,218,3.2,Yes,68.125,11A,3.2,218.0,BR321J
+11A - Compact All-Refrigerator - manual defrost,BR321-Orange,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Orange
+11A - Compact All-Refrigerator - manual defrost,BR321-Purple,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Purple
+11A - Compact All-Refrigerator - manual defrost,BR321-Red,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Red
+11A - Compact All-Refrigerator - manual defrost,BR321-Vintage Blue,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Vintage Blue
+11A - Compact All-Refrigerator - manual defrost,BR321-Vintage Green,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Vintage Green
+11A - Compact All-Refrigerator - manual defrost,BR321-Vintage Indigo,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Vintage Indigo
+11A - Compact All-Refrigerator - manual defrost,BR321-Vintage Orange,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Vintage Orange
+11A - Compact All-Refrigerator - manual defrost,BR321-Vintage Purple,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Vintage Purple
+11A - Compact All-Refrigerator - manual defrost,BR321-Vintage Red,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Vintage Red
+11A - Compact All-Refrigerator - manual defrost,BR321-Vintage White,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Vintage White
+11A - Compact All-Refrigerator - manual defrost,BR321-Vintage Yellow,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Vintage Yellow
+11A - Compact All-Refrigerator - manual defrost,BR321-White,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-White
+11A - Compact All-Refrigerator - manual defrost,BR321-Yellow,218,3.2,Yes,68.125,11A,3.2,218.0,BR321-Yellow
+12 - Compact Refrigerator-Freezer - partial automatic defrost,BR401,291,4.7,Yes,61.91489361702128,12,4.7,291.0,BR401
+11A - Compact All-Refrigerator - manual defrost,FR17,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17
+11A - Compact All-Refrigerator - manual defrost,FR17A,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17A
+11A - Compact All-Refrigerator - manual defrost,FR17B,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17B
+11A - Compact All-Refrigerator - manual defrost,FR17-Blue,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Blue
+11A - Compact All-Refrigerator - manual defrost,FR17C,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17C
+11A - Compact All-Refrigerator - manual defrost,FR17D,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17D
+11A - Compact All-Refrigerator - manual defrost,FR17E,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17E
+11A - Compact All-Refrigerator - manual defrost,FR17F,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17F
+11A - Compact All-Refrigerator - manual defrost,FR17G,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17G
+11A - Compact All-Refrigerator - manual defrost,FR17-Green,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Green
+11A - Compact All-Refrigerator - manual defrost,FR17H,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17H
+11A - Compact All-Refrigerator - manual defrost,FR17I,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17I
+11A - Compact All-Refrigerator - manual defrost,FR17-Indigo,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Indigo
+11A - Compact All-Refrigerator - manual defrost,FR17J,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17J
+11A - Compact All-Refrigerator - manual defrost,FR17-Orange,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Orange
+11A - Compact All-Refrigerator - manual defrost,FR17-Purple,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Purple
+11A - Compact All-Refrigerator - manual defrost,FR17-Red,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Red
+11A - Compact All-Refrigerator - manual defrost,FR17-Vintage Blue,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Vintage Blue
+11A - Compact All-Refrigerator - manual defrost,FR17-Vintage Green,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Vintage Green
+11A - Compact All-Refrigerator - manual defrost,FR17-Vintage Indigo,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Vintage Indigo
+11A - Compact All-Refrigerator - manual defrost,FR17-Vintage Orange,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Vintage Orange
+11A - Compact All-Refrigerator - manual defrost,FR17-Vintage Purple,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Vintage Purple
+11A - Compact All-Refrigerator - manual defrost,FR17-Vintage Red,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Vintage Red
+11A - Compact All-Refrigerator - manual defrost,FR17-Vintage White,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Vintage White
+11A - Compact All-Refrigerator - manual defrost,FR17-Vintage Yellow,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Vintage Yellow
+11A - Compact All-Refrigerator - manual defrost,FR17-White,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-White
+13A - Compact All-Refrigerators - automatic defrost,SR15-SS,220,2.7,Yes,81.48148148148148,13A,2.7,220.0,SR15-SS
+13A - Compact All-Refrigerators - automatic defrost,SR24-SS,260,5.0,Yes,52.0,13A,5.0,260.0,SR24-SS
+13A - Compact All-Refrigerators - automatic defrost,SR24-SSADA,263,4.6,Yes,57.173913043478265,13A,4.6,263.0,SR24-SSADA
+11A - Compact All-Refrigerator - manual defrost,550128,207,1.6,Yes,129.375,11A,1.6,207.0,550128
+11A - Compact All-Refrigerator - manual defrost,550130,213,2.4,Yes,88.75,11A,2.4,213.0,550130
+11A - Compact All-Refrigerator - manual defrost,550134,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,550134
+11A - Compact All-Refrigerator - manual defrost,550135,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,550135
+13A - Compact All-Refrigerators - automatic defrost,128779,247,2.2,Yes,112.27272727272727,13A,2.2,247.0,128779
+13A - Compact All-Refrigerators - automatic defrost,128779.0,252,2.3,Yes,109.56521739130436,13A,2.3,252.0,128779.0
+13A - Compact All-Refrigerators - automatic defrost,189974,246,1.7,Yes,144.7058823529412,13A,1.7,246.0,189974
+13A - Compact All-Refrigerators - automatic defrost,189975,260,3.3,Yes,78.7878787878788,13A,3.3,260.0,189975
+11A - Compact All-Refrigerator - manual defrost,550129,207,1.6,Yes,129.375,11A,1.6,207.0,550129
+11A - Compact All-Refrigerator - manual defrost,550131,213,2.4,Yes,88.75,11A,2.4,213.0,550131
+11A - Compact All-Refrigerator - manual defrost,550132,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,550132
+11A - Compact All-Refrigerator - manual defrost,550133,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,550133
+13A - Compact All-Refrigerators - automatic defrost,MSAR27**,255,2.7,Yes,94.44444444444444,13A,2.7,255.0,MSAR27..
+13A - Compact All-Refrigerators - automatic defrost,MSAR33**,260,3.3,Yes,78.7878787878788,13A,3.3,260.0,MSAR33..
+12 - Compact Refrigerator-Freezer - partial automatic defrost,MSTF45**,329,5.6,Yes,58.75000000000001,12,5.6,329.0,MSTF45..
+11A - Compact All-Refrigerator - manual defrost,FR17-Yellow,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FR17-Yellow
+13A - Compact All-Refrigerators - automatic defrost,FR35,260,3.6,Yes,72.22222222222221,13A,3.6,260.0,FR35
+11A - Compact All-Refrigerator - manual defrost,FRS17,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,FRS17
+11A - Compact All-Refrigerator - manual defrost,R17,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,R17
+11A - Compact All-Refrigerator - manual defrost,RS17,208,1.7,Yes,122.3529411764706,11A,1.7,208.0,RS17
+12 - Compact Refrigerator-Freezer - partial automatic defrost,SD321,312,3.9,Yes,80.0,12,3.9,312.0,SD321
+11A - Compact All-Refrigerator - manual defrost,SR161,206,1.6,Yes,128.75,11A,1.6,206.0,SR161
+11A - Compact All-Refrigerator - manual defrost,SR321,218,3.2,Yes,68.125,11A,3.2,218.0,SR321
+12 - Compact Refrigerator-Freezer - partial automatic defrost,SR401,291,4.7,Yes,61.91489361702128,12,4.7,291.0,SR401
+12 - Compact Refrigerator-Freezer - partial automatic defrost,CD30,320,3.8,Yes,84.21052631578948,12,3.8,320.0,CD30
+11A - Compact All-Refrigerator - manual defrost,FR16,200,1.6,Yes,125.0,11A,1.6,200.0,FR16
+11A - Compact All-Refrigerator - manual defrost,FR25,210,2.5,Yes,84.0,11A,2.5,210.0,FR25
+11A - Compact All-Refrigerator - manual defrost,FR31,215,3.1,Yes,69.35483870967742,11A,3.1,215.0,FR31
+13A - Compact All-Refrigerators - automatic defrost,043-7009-8,221,1.7,Yes,130.0,13A,1.7,221.0,043-7009-8
+13A - Compact All-Refrigerators - automatic defrost,043-7010-2,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,043-7010-2
+13A - Compact All-Refrigerators - automatic defrost,043-7011-0,268,4.4,Yes,60.90909090909091,13A,4.4,268.0,043-7011-0
+13A - Compact All-Refrigerators - automatic defrost,043-7012-8,259,3.3,Yes,78.48484848484848,13A,3.3,259.0,043-7012-8
+13A - Compact All-Refrigerators - automatic defrost,043-7013-6,268,4.4,Yes,60.90909090909091,13A,4.4,268.0,043-7013-6
+12 - Compact Refrigerator-Freezer - partial automatic defrost,043-7015-2,346,8.4,Yes,41.19047619047619,12,8.4,346.0,043-7015-2
+17 - Compact upright freezers with automatic defrost,SKSUD2402*,275,5.9,Yes,46.61016949152542,17,5.9,275.0,SKSUD2402.
+1 - Built-in Compact Cooler,SKSUW2401*,100,4.1,Yes,24.390243902439025,1,4.1,100.0,SKSUW2401.
+13A - Compact All-Refrigerators - automatic defrost,DAR055D1BSSPRO,240,5.5,Yes,43.63636363636363,13A,5.5,240.0,DAR055D1BSSPRO
+13A - Compact All-Refrigerators - automatic defrost,DAR055D2BSSPRO,240,5.5,Yes,43.63636363636363,13A,5.5,240.0,DAR055D2BSSPRO
+13A - Compact All-Refrigerators - automatic defrost,DKC055D1SSPRO,248,6.5,Yes,38.15384615384615,13A,6.5,248.0,DKC055D1SSPRO
+13A - Compact All-Refrigerators - automatic defrost,DKC055D1SSPRO-1,248,6.5,Yes,38.15384615384615,13A,6.5,248.0,DKC055D1SSPRO-1
+13A - Compact All-Refrigerators - automatic defrost,SPRAR055D1SS,240,5.5,Yes,43.63636363636363,13A,5.5,240.0,SPRAR055D1SS
+13A - Compact All-Refrigerators - automatic defrost,VBUI5151GSS,209,2.7,Yes,77.4074074074074,13A,2.7,209.0,VBUI5151GSS
+13A - Compact All-Refrigerators - automatic defrost,VBUI5241GSS,251,5.3,Yes,47.35849056603774,13A,5.3,251.0,VBUI5241GSS
+13A - Compact All-Refrigerators - automatic defrost,VDUI5240DSS,236,5.0,Yes,47.2,13A,5.0,236.0,VDUI5240DSS
+11A - Compact All-Refrigerator - manual defrost,DSF-121MU,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,DSF-121MU
+11A - Compact All-Refrigerator - manual defrost,DSF-65MU,207,1.6,Yes,129.375,11A,1.6,207.0,DSF-65MU
+12 - Compact Refrigerator-Freezer - partial automatic defrost,Fab10UXXX,299,4.7,Yes,63.61702127659574,12,4.7,299.0,Fab10UXXX
+13A - Compact All-Refrigerators - automatic defrost,FAB5UL*#,210,1.2,Yes,175.0,13A,1.2,210.0,FAB5UL..
+1 - Built-in Compact Cooler,CVIU121,88,2.0,Yes,44.0,1,2.0,88.0,CVIU121
+1 - Built-in Compact Cooler,CVIU138,120,4.0,Yes,30.0,1,4.0,120.0,CVIU138
+1 - Built-in Compact Cooler,CVxxx18xxxx,89,1.8,Yes,49.44444444444444,1,1.8,89.0,CVxxx18xxxx
+1 - Built-in Compact Cooler,CVxxx38xxxx,105,4.2,Yes,25.0,1,4.2,105.0,CVxxx38xxxx
+13A - Compact All-Refrigerators - automatic defrost,VDUI5241DSS,217,5.0,Yes,43.4,13A,5.0,217.0,VDUI5241DSS
+13A - Compact All-Refrigerators - automatic defrost,VDUO5240DSS,202,5.0,Yes,40.4,13A,5.0,202.0,VDUO5240DSS
+13A - Compact All-Refrigerators - automatic defrost,VDUO5241DSS,199,5.0,Yes,39.8,13A,5.0,199.0,VDUO5241DSS
+13A - Compact All-Refrigerators - automatic defrost,VRUI5241GSS,251,5.3,Yes,47.35849056603774,13A,5.3,251.0,VRUI5241GSS
+13A - Compact All-Refrigerators - automatic defrost,VRUO5241DLSS,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,VRUO5241DLSS
+13A - Compact All-Refrigerators - automatic defrost,VRUO5241DRSS,219,5.1,Yes,42.94117647058824,13A,5.1,219.0,VRUO5241DRSS
+13A - Compact All-Refrigerators - automatic defrost,VWUI5151GSS,209,2.7,Yes,77.4074074074074,13A,2.7,209.0,VWUI5151GSS
+11A - Compact All-Refrigerator - manual defrost,HVR440HBEF,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,HVR440HBEF
+11A - Compact All-Refrigerator - manual defrost,HVR440HSEF,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,HVR440HSEF
+11A - Compact All-Refrigerator - manual defrost,HVR440HWEF,228,4.4,Yes,51.81818181818181,11A,4.4,228.0,HVR440HWEF
+11A - Compact All-Refrigerator - manual defrost,RF-164SS,207,1.6,Yes,129.375,11A,1.6,207.0,RF-164SS
+11A - Compact All-Refrigerator - manual defrost,RF-164W,207,1.6,Yes,129.375,11A,1.6,207.0,RF-164W
+11A - Compact All-Refrigerator - manual defrost,RF-244SS,213,2.4,Yes,88.75,11A,2.4,213.0,RF-244SS
+11A - Compact All-Refrigerator - manual defrost,RF-244W,213,2.4,Yes,88.75,11A,2.4,213.0,RF-244W
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RF-314SS,270,3.8,Yes,71.05263157894737,12,3.8,270.0,RF-314SS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RF-314W,270,3.8,Yes,71.05263157894737,12,3.8,270.0,RF-314W
+11A - Compact All-Refrigerator - manual defrost,RF-334SS,220,3.3,Yes,66.66666666666667,11A,3.3,220.0,RF-334SS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RF-354SS,290,4.3,Yes,67.44186046511628,12,4.3,290.0,RF-354SS
+12 - Compact Refrigerator-Freezer - partial automatic defrost,RF-354W,290,4.3,Yes,67.44186046511628,12,4.3,290.0,RF-354W
+11A - Compact All-Refrigerator - manual defrost,RF-444SS,226,4.4,Yes,51.36363636363636,11A,4.4,226.0,RF-444SS
+13A - Compact All-Refrigerators - automatic defrost,VXAR440BSS,268,4.4,Yes,60.90909090909091,13A,4.4,268.0,VXAR440BSS
+13A - Compact All-Refrigerators - automatic defrost,DEU1550B*/*,183,3.1,Yes,59.03225806451613,13A,3.1,183.0,DEU1550B./.
+13A - Compact All-Refrigerators - automatic defrost,DEU2450B*/*,243,5.5,Yes,44.18181818181818,13A,5.5,243.0,DEU2450B./.
+13A - Compact All-Refrigerators - automatic defrost,DEU2450B*/ADA/*,215,5.1,Yes,42.15686274509804,13A,5.1,215.0,DEU2450B./ADA/.
+15I - Compact Refrigerator-Freezer - automatic defrost bottom-mount- with an automatic icemaker,DEU2450CI/*,408,6.1,Yes,66.88524590163935,15I,6.1,408.0,DEU2450CI/.
+13A - Compact All-Refrigerators - automatic defrost,DEU2450R/*,168,5.4,Yes,31.11111111111111,13A,5.4,168.0,DEU2450R/.
+13A - Compact All-Refrigerators - automatic defrost,DEU2450R/ADA/*,159,5.0,Yes,31.8,13A,5.0,159.0,DEU2450R/ADA/.
+13A - Compact All-Refrigerators - automatic defrost,DEU2450RO/*,168,5.4,Yes,31.11111111111111,13A,5.4,168.0,DEU2450RO/.
+13A - Compact All-Refrigerators - automatic defrost,ID-24R*,213,4.0,Yes,53.25,13A,4.0,213.0,ID-24R.
+13A - Compact All-Refrigerators - automatic defrost,ID-27R,217,4.6,Yes,47.173913043478265,13A,4.6,217.0,ID-27R
+15 - Compact Refrigerator-Freezer - automatic defrost with Bottom-Mounted freezer,ID-30C,374,6.5,Yes,57.53846153846154,15,6.5,374.0,ID-30C
+15I - Compact Refrigerator-Freezer - automatic defrost bottom-mount- with an automatic icemaker,ID-30CI,458,6.5,Yes,70.46153846153847,15I,6.5,458.0,ID-30CI
+13A - Compact All-Refrigerators - automatic defrost,ID-30R,221,5.3,Yes,41.69811320754717,13A,5.3,221.0,ID-30R
+13A - Compact All-Refrigerators - automatic defrost,ID-36R,230,6.6,Yes,34.84848484848485,13A,6.6,230.0,ID-36R
+13A - Compact All-Refrigerators - automatic defrost,UC-24R*/**,280,5.7,Yes,49.122807017543856,13A,5.7,280.0,UC-24R./..
+12 - Compact Refrigerator-Freezer - partial automatic defrost,VTFR0732BE,344,8.3,Yes,41.44578313253012,12,8.3,344.0,VTFR0732BE
+12 - Compact Refrigerator-Freezer - partial automatic defrost,VTFR0732WE,344,8.3,Yes,41.44578313253012,12,8.3,344.0,VTFR0732WE
+18 - Compact chest freezers,ECF35W-1,172,6.2,Yes,27.741935483870968,18,6.2,172.0,ECF35W-1
+18 - Compact chest freezers,ECF36W-1,167,6.0,Yes,27.833333333333332,18,6.0,167.0,ECF36W-1
+18 - Compact chest freezers,ECF50W,196,9.0,Yes,21.77777777777778,18,9.0,196.0,ECF50W
+18 - Compact chest freezers,ECF50W-1,184,8.6,Yes,21.395348837209305,18,8.6,184.0,ECF50W-1
+18 - Compact chest freezers,ECF70W,224,12.3,Yes,18.211382113821138,18,12.3,224.0,ECF70W
+18 - Compact chest freezers,ECF70W-1,229,12.7,Yes,18.031496062992126,18,12.7,229.0,ECF70W-1
+18 - Compact chest freezers,ECF72W-1,215,12.7,Yes,16.92913385826772,18,12.7,215.0,ECF72W-1
+16 - Compact upright freezers with manual defrost,EDV064S,289,11.1,Yes,26.036036036036037,16,11.1,289.0,EDV064S
+17 - Compact upright freezers with automatic defrost,RB36S,300,6.5,Yes,46.15384615384615,17,6.5,300.0,RB36S
+18 - Compact chest freezers,AC05ESWCR1RCM,196,8.8,Yes,22.27272727272727,18,8.8,196.0,AC05ESWCR1RCM
+18 - Compact chest freezers,AC35ESKCR1RCM,174,6.2,Yes,28.064516129032256,18,6.2,174.0,AC35ESKCR1RCM
+18 - Compact chest freezers,AC7ETWCR1RCM,225,12.3,Yes,18.29268292682927,18,12.3,225.0,AC7ETWCR1RCM
+16 - Compact upright freezers with manual defrost,ARU030S1ARSS,240,5.3,Yes,45.28301886792453,16,5.3,240.0,ARU030S1ARSS
+16 - Compact upright freezers with manual defrost,ARU030S1ARWW,240,5.3,Yes,45.28301886792453,16,5.3,240.0,ARU030S1ARWW
+16 - Compact upright freezers with manual defrost,ARU03M2AWW,240,5.3,Yes,45.28301886792453,16,5.3,240.0,ARU03M2AWW
+16 - Compact upright freezers with manual defrost,AUFM011AEW,215,1.9,Yes,113.15789473684211,16,1.9,215.0,AUFM011AEW
+16 - Compact upright freezers with manual defrost,AUFM021AEW,219,3.7,Yes,59.189189189189186,16,3.7,219.0,AUFM021AEW
+16 - Compact upright freezers with manual defrost,MRU03M2ABB,240,5.3,Yes,45.28301886792453,16,5.3,240.0,MRU03M2ABB
+16 - Compact upright freezers with manual defrost,WHS-109FW1,240,5.3,Yes,45.28301886792453,16,5.3,240.0,WHS-109FW1
+16 - Compact upright freezers with manual defrost,WHS-129C1WSB,240,5.3,Yes,45.28301886792453,16,5.3,240.0,WHS-129C1WSB
+18 - Compact chest freezers,CF24Q0W,137,4.4,Yes,31.136363636363633,18,4.4,137.0,CF24Q0W
+16 - Compact upright freezers with manual defrost,VF58B0W,281,10.2,Yes,27.54901960784314,16,10.2,281.0,VF58B0W
+16 - Compact upright freezers with manual defrost,VFM58B0W,281,10.3,Yes,27.28155339805825,16,10.3,281.0,VFM58B0W
+16 - Compact upright freezers with manual defrost,BUFK12W,201,2.1,Yes,95.71428571428571,16,2.1,201.0,BUFK12W
+16 - Compact upright freezers with manual defrost,CCUK12W,201,2.1,Yes,95.71428571428571,16,2.1,201.0,CCUK12W
+18 - Compact chest freezers,CL-5UFR,195,8.8,Yes,22.159090909090907,18,8.8,195.0,CL-5UFR
+18 - Compact chest freezers,CL-7UFR,224,12.3,Yes,18.211382113821138,18,12.3,224.0,CL-7UFR
+16 - Compact upright freezers with manual defrost,CUF30M1W,240,5.3,Yes,45.28301886792453,16,5.3,240.0,CUF30M1W
+16 - Compact upright freezers with manual defrost,CUF36C1W,252,6.3,Yes,40.0,16,6.3,252.0,CUF36C1W
+16 - Compact upright freezers with manual defrost,CUF66C1W,293,11.6,Yes,25.258620689655174,16,11.6,293.0,CUF66C1W
+18 - Compact chest freezers,DCF072A1WDB,228,12.7,Yes,17.95275590551181,18,12.7,228.0,DCF072A1WDB
+16 - Compact upright freezers with manual defrost,DUF071A3*,298,12.5,Yes,23.84,16,12.5,298.0,DUF071A3.
+16 - Compact upright freezers with manual defrost,DUFM060B1BSLDB,281,10.4,Yes,27.01923076923077,16,10.4,281.0,DUFM060B1BSLDB
+16 - Compact upright freezers with manual defrost,DUFM060B1WDB,281,10.4,Yes,27.01923076923077,16,10.4,281.0,DUFM060B1WDB
+16 - Compact upright freezers with manual defrost,DUFM060B2BSLDB,281,10.3,Yes,27.28155339805825,16,10.3,281.0,DUFM060B2BSLDB
+18 - Compact chest freezers,DCF051A3*,196,9.0,Yes,21.77777777777778,18,9.0,196.0,DCF051A3.
+16 - Compact upright freezers with manual defrost,DUFM043A2*,260,7.6,Yes,34.21052631578947,16,7.6,260.0,DUFM043A2.
+18 - Compact chest freezers,DCF035A5WDB,173,6.1,Yes,28.36065573770492,18,6.1,173.0,DCF035A5WDB
+18 - Compact chest freezers,DCF050A5WDB,195,8.7,Yes,22.413793103448278,18,8.7,195.0,DCF050A5WDB
+18 - Compact chest freezers,DCF070A5WCDB,225,12.3,Yes,18.29268292682927,18,12.3,225.0,DCF070A5WCDB
+18 - Compact chest freezers,DCF070A5WDB,225,12.3,Yes,18.29268292682927,18,12.3,225.0,DCF070A5WDB
+16 - Compact upright freezers with manual defrost,DUFM068A1SCDB,296,12.0,Yes,24.666666666666668,16,12.0,296.0,DUFM068A1SCDB
+16 - Compact upright freezers with manual defrost,GL31F**E,240,5.4,Yes,44.44444444444444,16,5.4,240.0,GL31F..E
+18 - Compact chest freezers,GLF50*E*,196,8.7,Yes,22.52873563218391,18,8.7,196.0,GLF50.E.
+18 - Compact chest freezers,GLF70*E*,226,12.3,Yes,18.373983739837396,18,12.3,226.0,GLF70.E.
+18 - Compact chest freezers,FC34D6AWE,172,5.9,Yes,29.152542372881353,18,5.9,172.0,FC34D6AWE
+18 - Compact chest freezers,FC34D6EWE,172,6.0,Yes,28.666666666666668,18,6.0,172.0,FC34D6EWE
+18 - Compact chest freezers,FC50D6AWE,195,8.7,Yes,22.413793103448278,18,8.7,195.0,FC50D6AWE
+18 - Compact chest freezers,FC50D6E*E,196,8.9,Yes,22.02247191011236,18,8.9,196.0,FC50D6E.E
+18 - Compact chest freezers,FC50D6EWE,196,8.9,Yes,22.02247191011236,18,8.9,196.0,FC50D6EWE
+18 - Compact chest freezers,FC70D6AWE,223,12.1,Yes,18.429752066115704,18,12.1,223.0,FC70D6AWE
+18 - Compact chest freezers,FC70D6EWE,225,12.3,Yes,18.29268292682927,18,12.3,225.0,FC70D6EWE
+17 - Compact upright freezers with automatic defrost,FNS 7794 E,350,13.2,Yes,26.515151515151516,17,13.2,350.0,FNS 7794 E
+16 - Compact upright freezers with manual defrost,PFV30500MW,240,5.3,Yes,45.28301886792453,16,5.3,240.0,PFV30500MW
+16 - Compact upright freezers with manual defrost,PFV30600MS,240,5.3,Yes,45.28301886792453,16,5.3,240.0,PFV30600MS
+18 - Compact chest freezers,RFRF-450-AMZ,172,9.0,Yes,19.11111111111111,18,9.0,172.0,RFRF-450-AMZ
+18 - Compact chest freezers,RFRF470-AMZ,198,12.3,Yes,16.097560975609756,18,12.3,198.0,RFRF470-AMZ
+18 - Compact chest freezers,RFRF470-BLACK-AMZ,198,12.3,Yes,16.097560975609756,18,12.3,198.0,RFRF470-BLACK-AMZ
+16 - Compact upright freezers with manual defrost,RFRF695,280,11.4,Yes,24.561403508771928,16,11.4,280.0,RFRF695
+16 - Compact upright freezers with manual defrost,DSD-109MU,240,5.3,Yes,45.28301886792453,16,5.3,240.0,DSD-109MU
+16 - Compact upright freezers with manual defrost,UF-114SS,215,1.9,Yes,113.15789473684211,16,1.9,215.0,UF-114SS
+16 - Compact upright freezers with manual defrost,UF-114W,215,1.9,Yes,113.15789473684211,16,1.9,215.0,UF-114W
+16 - Compact upright freezers with manual defrost,UF-214SS,219,3.7,Yes,59.189189189189186,16,3.7,219.0,UF-214SS
+16 - Compact upright freezers with manual defrost,UF-214W,219,3.7,Yes,59.189189189189186,16,3.7,219.0,UF-214W
+16 - Compact upright freezers with manual defrost,UF-304W,240,5.3,Yes,45.28301886792453,16,5.3,240.0,UF-304W
+16 - Compact upright freezers with manual defrost,H11MFB,215,1.9,Yes,113.15789473684211,16,1.9,215.0,H11MFB
+16 - Compact upright freezers with manual defrost,H11MFS,215,1.9,Yes,113.15789473684211,16,1.9,215.0,H11MFS
+16 - Compact upright freezers with manual defrost,H11MFW,215,1.9,Yes,113.15789473684211,16,1.9,215.0,H11MFW
+16 - Compact upright freezers with manual defrost,FC-1300W,240,5.3,Yes,45.28301886792453,16,5.3,240.0,FC-1300W
+16 - Compact upright freezers with manual defrost,FC-1301K,240,5.3,Yes,45.28301886792453,16,5.3,240.0,FC-1301K
+16 - Compact upright freezers with manual defrost,111. 2206****,256,10.4,Yes,24.615384615384613,16,10.4,256.0,111. 2206....
+16 - Compact upright freezers with manual defrost,111. 22062910,256,10.4,Yes,24.615384615384613,16,10.4,256.0,111. 22062910
+16 - Compact upright freezers with manual defrost,KTUF34,215,1.9,Yes,113.15789473684211,16,1.9,215.0,KTUF34
+16 - Compact upright freezers with manual defrost,KTUF88,240,5.3,Yes,45.28301886792453,16,5.3,240.0,KTUF88
+18 - Compact chest freezers,LRC05M2AWWC,196,8.8,Yes,22.27272727272727,18,8.8,196.0,LRC05M2AWWC
+18 - Compact chest freezers,LRC07M2AWWC,225,12.3,Yes,18.29268292682927,18,12.3,225.0,LRC07M2AWWC
+16 - Compact upright freezers with manual defrost,LROFC0605*,283,10.3,Yes,27.475728155339805,16,10.3,283.0,LROFC0605.
+17 - Compact upright freezers with automatic defrost,SIF5181,350,13.2,Yes,26.515151515151516,17,13.2,350.0,SIF5181
+17 - Compact upright freezers with automatic defrost,UF501,302,4.9,Yes,61.63265306122449,17,4.9,302.0,UF501
+16 - Compact upright freezers with manual defrost,HMUF6WE,281,10.3,Yes,27.28155339805825,16,10.3,281.0,HMUF6WE
+16 - Compact upright freezers with manual defrost,MCUF3BE,244,5.3,Yes,46.0377358490566,16,5.3,244.0,MCUF3BE
+16 - Compact upright freezers with manual defrost,MCUF3STE,244,5.3,Yes,46.0377358490566,16,5.3,244.0,MCUF3STE
+16 - Compact upright freezers with manual defrost,MCUF3WE,244,5.3,Yes,46.0377358490566,16,5.3,244.0,MCUF3WE
+18 - Compact chest freezers,ECF71W,224,12.3,Yes,18.211382113821138,18,12.3,224.0,ECF71W
+18 - Compact chest freezers,MCF35W-1,172,6.2,Yes,27.741935483870968,18,6.2,172.0,MCF35W-1
+18 - Compact chest freezers,MCF36W-1,167,6.0,Yes,27.833333333333332,18,6.0,167.0,MCF36W-1
+18 - Compact chest freezers,MCF50W,196,9.0,Yes,21.77777777777778,18,9.0,196.0,MCF50W
+18 - Compact chest freezers,MCF50W-1,184,8.6,Yes,21.395348837209305,18,8.6,184.0,MCF50W-1
+18 - Compact chest freezers,MCF51W-1,195,8.8,Yes,22.159090909090907,18,8.8,195.0,MCF51W-1
+18 - Compact chest freezers,MCF70GRD,224,12.3,Yes,18.211382113821138,18,12.3,224.0,MCF70GRD
+18 - Compact chest freezers,MCF70W,224,12.3,Yes,18.211382113821138,18,12.3,224.0,MCF70W
+18 - Compact chest freezers,MCF71W-1,224,12.3,Yes,18.211382113821138,18,12.3,224.0,MCF71W-1
+18 - Compact chest freezers,MCF72W-1,215,12.7,Yes,16.92913385826772,18,12.7,215.0,MCF72W-1
+16 - Compact upright freezers with manual defrost,MUF65W,289,11.1,Yes,26.036036036036037,16,11.1,289.0,MUF65W
+17 - Compact upright freezers with automatic defrost,MLFZ*24-IS*1A,369,8.0,Yes,46.125,17,8.0,369.0,MLFZ.24-IS.1A
+17 - Compact upright freezers with automatic defrost,MLFZ*24-SS*1A,369,8.0,Yes,46.125,17,8.0,369.0,MLFZ.24-SS.1A
+17 - Compact upright freezers with automatic defrost,MOFZ*24-SS*1A,369,8.0,Yes,46.125,17,8.0,369.0,MOFZ.24-SS.1A
+17 - Compact upright freezers with automatic defrost,MPFZ*24-IS*1A,369,8.0,Yes,46.125,17,8.0,369.0,MPFZ.24-IS.1A
+17 - Compact upright freezers with automatic defrost,MPFZ*24-SS*1A,369,8.0,Yes,46.125,17,8.0,369.0,MPFZ.24-SS.1A
+18 - Compact chest freezers,043-0292-2,174,6.2,Yes,28.064516129032256,18,6.2,174.0,043-0292-2
+18 - Compact chest freezers,043-0293-0,196,8.8,Yes,22.27272727272727,18,8.8,196.0,043-0293-0
+16 - Compact upright freezers with manual defrost,043-2352-8,240,5.3,Yes,45.28301886792453,16,5.3,240.0,043-2352-8
+18 - Compact chest freezers,MRC07M5AWW,225,12.3,Yes,18.29268292682927,18,12.3,225.0,MRC07M5AWW
+18 - Compact chest freezers,MRC07M6AWW,225,12.3,Yes,18.29268292682927,18,12.3,225.0,MRC07M6AWW
+18 - Compact chest freezers,MRC07M7AWW,225,12.3,Yes,18.29268292682927,18,12.3,225.0,MRC07M7AWW
+16 - Compact upright freezers with manual defrost,MRU01M3ABB,215,1.9,Yes,113.15789473684211,16,1.9,215.0,MRU01M3ABB
+16 - Compact upright freezers with manual defrost,MRU01M3ASL,215,1.9,Yes,113.15789473684211,16,1.9,215.0,MRU01M3ASL
+16 - Compact upright freezers with manual defrost,MRU01M3AWW,215,1.9,Yes,113.15789473684211,16,1.9,215.0,MRU01M3AWW
+16 - Compact upright freezers with manual defrost,WHS-75FW1,219,3.7,Yes,59.189189189189186,16,3.7,219.0,WHS-75FW1
+17 - Compact upright freezers with automatic defrost,ID-24F,377,6.8,Yes,55.44117647058824,17,6.8,377.0,ID-24F
+17 - Compact upright freezers with automatic defrost,ID-24FI,377,6.8,Yes,55.44117647058824,17,6.8,377.0,ID-24FI
+17 - Compact upright freezers with automatic defrost,ID-30F,356,9.0,Yes,39.55555555555556,17,9.0,356.0,ID-30F
+17 - Compact upright freezers with automatic defrost,ID-30FI,399,9.0,Yes,44.333333333333336,17,9.0,399.0,ID-30FI
+17 - Compact upright freezers with automatic defrost,ADFD2D24,355,6.2,Yes,57.25806451612903,17,6.2,355.0,ADFD2D24
+18 - Compact chest freezers,SFRF434-WHITE,152,6.2,Yes,24.516129032258064,18,6.2,152.0,SFRF434-WHITE
+18 - Compact chest freezers,SFRF452-WHITE,172,9.0,Yes,19.11111111111111,18,9.0,172.0,SFRF452-WHITE
+17 - Compact upright freezers with automatic defrost,TUF-24-*-**-B,385,7.4,Yes,52.027027027027025,17,7.4,385.0,TUF-24-.-..-B
+17 - Compact upright freezers with automatic defrost,TUF-24-D-**-B,383,7.2,Yes,53.19444444444444,17,7.2,383.0,TUF-24-D-..-B
+17 - Compact upright freezers with automatic defrost,1224FZRA,390,8.4,Yes,46.42857142857142,17,8.4,390.0,1224FZRA
+17 - Compact upright freezers with automatic defrost,FZ124,390,7.9,Yes,49.36708860759494,17,7.9,390.0,FZ124
+17 - Compact upright freezers with automatic defrost,UHFZ124-BS01B,390,8.4,Yes,46.42857142857142,17,8.4,390.0,UHFZ124-BS01B
+17 - Compact upright freezers with automatic defrost,UHFZ124-IS01B,390,8.4,Yes,46.42857142857142,17,8.4,390.0,UHFZ124-IS01B
+17 - Compact upright freezers with automatic defrost,UHFZ124-SS01B,390,8.4,Yes,46.42857142857142,17,8.4,390.0,UHFZ124-SS01B
+17 - Compact upright freezers with automatic defrost,UHFZ124-WS01B,390,8.4,Yes,46.42857142857142,17,8.4,390.0,UHFZ124-WS01B
+17 - Compact upright freezers with automatic defrost,UOFZ124-SS01B,390,8.4,Yes,46.42857142857142,17,8.4,390.0,UOFZ124-SS01B
+16 - Compact upright freezers with manual defrost,UGP-175L C AC,278,9.7,Yes,28.65979381443299,16,9.7,278.0,UGP-175L C AC
+16 - Compact upright freezers with manual defrost,MDUF3**,240,5.3,Yes,45.28301886792453,16,5.3,240.0,MDUF3..
+16 - Compact upright freezers with manual defrost,CUF-110,215,1.9,Yes,113.15789473684211,16,1.9,215.0,CUF-110
+16 - Compact upright freezers with manual defrost,CUF-112SS,215,1.9,Yes,113.15789473684211,16,1.9,215.0,CUF-112SS
+16 - Compact upright freezers with manual defrost,CUF-210SS*,219,3.7,Yes,59.189189189189186,16,3.7,219.0,CUF-210SS.
+16 - Compact upright freezers with manual defrost,CUF-210SSa,219,3.7,Yes,59.189189189189186,16,3.7,219.0,CUF-210SSa
+16 - Compact upright freezers with manual defrost,CUF-210SSg,219,3.7,Yes,59.189189189189186,16,3.7,219.0,CUF-210SSg
+16 - Compact upright freezers with manual defrost,CUF-301BK,240,5.3,Yes,45.28301886792453,16,5.3,240.0,CUF-301BK
+16 - Compact upright freezers with manual defrost,CUF-301SS,240,5.3,Yes,45.28301886792453,16,5.3,240.0,CUF-301SS
+17 - Compact upright freezers with automatic defrost,WRSR036H**E#,266,6.3,Yes,42.22222222222222,17,6.3,266.0,WRSR036H..E.
